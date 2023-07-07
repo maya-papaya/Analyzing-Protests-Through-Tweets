@@ -7,8 +7,12 @@ This project is meant to explore public sentiment toward protests by analyzing t
 I looked at two protests: the farmers' protest in India and the Women's March movement. Here's a little background on each:
 
 ### Farmers' Protest
+The Indian Farmer's protest lasted between 2020 and 2021. It was in response to laws passed by Prime Minister Narendra Modi which would minimize government involvement and instead encourage private investors. "More than 60 percent of India’s 1.3 billion people still depend primarily on agriculture for their livelihood, though the sector accounts for only about 15 percent of the country’s economic output," writes the New York Times, "For years, debts and bankruptcies have been driving farmers to high rates of suicide." Finally, the laws were repealed.
 
 ### Women's March
+The Women's March movement began in 2017, the day after the inauguration of former President Donald Trump, due to his misogynistic rhetoric. It was recorded as the largest protest in U.S. history. Eventually, their mission adapted to include many issues - as the organization once said, "women's rights are human rights." Now, they have advocated on topics including "women's rights, immigration reform, healthcare reform, disability justice, reproductive rights, the environment, LGBTQ rights, racial equality, freedom of religion, workers' rights and tolerance" according to Wikipedia. To this day, they still arrange annual protests.
+
+---
 
 I divided my process into three parts: finding datasets, fine-tuning models, and finally conducting my analysis.
 
