@@ -24,6 +24,7 @@ I used two models, _____ (as a sentiment analyzer) and _____ (as a keyword extra
 I had three functions:
 
 * Public Sentiment:
+
 (This function is to determine the majority sentiment towards the movement)
 
 * Public Sentiment within a certain time period (parameters: start_date, end_date):
