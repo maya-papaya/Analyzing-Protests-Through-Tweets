@@ -36,6 +36,10 @@ I had three functions:
 (This function is to determine whether the issue itself is being spread, or whether the protester’s actions distract from that)
 I had a list, keywords, that held all the keyword variations that are considered central to the movement (e.g., abortion keywords might include [“abortion”, “reproductive rights”, “pro-life”, “pro-choice”, etc.])
 
+## Results
+
+
+## Conclusion
 
 
 
