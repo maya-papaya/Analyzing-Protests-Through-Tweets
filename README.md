@@ -17,9 +17,9 @@ The Women's March movement began in 2017, the day after the inauguration of form
 I divided my process into three parts: finding datasets, fine-tuning models, and finally conducting my analysis.
 
 ## Finding Datasets
-I used a HuggingFace dataset (https://huggingface.co/datasets/tweet_eval/viewer/sentiment/train) to train my model in sentiment analysis.
+I used a [HuggingFace dataset](https://huggingface.co/datasets/tweet_eval/viewer/sentiment/train) to train my model in sentiment analysis.
 
-For the analysis, I chose two datasets from Kaggle (https://www.kaggle.com/datasets/prathamsharma123/farmers-protest-tweets-dataset-csv & https://www.kaggle.com/datasets/adhok93/inauguration-and-womensmarch-tweets).
+For the analysis, I chose two datasets from Kaggle ([Indian farmers' protest](https://www.kaggle.com/datasets/prathamsharma123/farmers-protest-tweets-dataset-csv) & [#WomensMarch movement](https://www.kaggle.com/datasets/adhok93/inauguration-and-womensmarch-tweets)).
 
 ## Fine-tuning the Models
 I used two models, _____ (as a sentiment analyzer) and _____ (as a keyword extractor).
