@@ -22,7 +22,7 @@ I used a [HuggingFace dataset](https://huggingface.co/datasets/tweet_eval/viewer
 For the analysis, I chose two datasets from Kaggle ([Indian farmers' protest](https://www.kaggle.com/datasets/prathamsharma123/farmers-protest-tweets-dataset-csv) & [#WomensMarch movement](https://www.kaggle.com/datasets/adhok93/inauguration-and-womensmarch-tweets)).
 
 ## Fine-tuning the Models
-I used two models, _____ (as a sentiment analyzer) and _____ (as a keyword extractor).
+I used two models: one as a [sentiment analyzer](https://huggingface.co/mayapapaya/Sentiment-Analyzer) and the other as a [keyword extractor](https://huggingface.co/mayapapaya/Keyword-Extractor).
 
 ## Conducting My Analysis
 I had three functions:
