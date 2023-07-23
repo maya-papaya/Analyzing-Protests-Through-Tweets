@@ -27,11 +27,11 @@ I used two models: one as a [sentiment analyzer](https://huggingface.co/mayapapa
 ## Conducting My Analysis
 I had three functions:
 
-* Public Sentiment: determines the majority sentiment towards the movement)
+* **Public Sentiment:** determines the majority sentiment towards the movement)
 
-* Public Sentiment within a certain time period (parameters: start_date, end_date): determines whether a certain protest (for example, a riot) affects how the movement is viewed)
+* **Public Sentiment within a certain time period (parameters: start_date, end_date):** determines whether a certain protest (for example, a riot) affects how the movement is viewed)
 
-* Keyword Extractor (parameters: keywords): determines whether the issue itself is being spread, or whether the protester’s actions distract from that)
+* **Keyword Extractor (parameters: keywords):** determines whether the issue itself is being spread, or whether the protester’s actions distract from that)
 I had a list, keywords, that held all the keyword variations that are considered central to the movement (e.g., abortion keywords might include [“abortion”, “reproductive rights”, “pro-life”, “pro-choice”, etc.])
 
 ## Results
