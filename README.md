@@ -42,6 +42,22 @@ I had a list, keywords, that held all the keyword variations that are considered
 
 ## Results
 
+### The Indian farmers' Protest
+
+### Women's March
+
+For the first function, I found the following:
+```
+Positive Tweets: 37.00666666666667 %
+Negative Tweets: 44.4 %
+Neutral Tweets: 18.593333333333334 %
+
+Total Tweets: 15000
+```
+The slight majority is either unconcerned or supportive of the Women's March movement. About 44.4% are negatively geared toward it.
+
+For the second function, I decided to determine whether how the Women's
+
 
 ## Conclusion
 
