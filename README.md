@@ -50,6 +50,8 @@ Total Tweets: 15000
 ```
 The slight majority is either unconcerned or supportive of the Women's March movement. About 44.4% are negatively geared toward it.
 
+<img width="467" alt="Chart 1" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/b8aaa6e4-d691-473e-ad2c-1e7a1cc4e975">
+
 For the second function, I decided to determine whether how the Women's March leader's actions ([see more in this article](https://time.com/5505787/womens-march-washington-controversy/) affected how the movement as a whole was viewed.
 Here are my results:
 ```
