@@ -6,7 +6,7 @@ This project is meant to explore public sentiment toward protests by analyzing t
 
 I looked at two protests: the farmers' protest in India and the Women's March movement. Here's a little background on each:
 
-### The Indian farmers' Protest
+### The Indian Farmers' Protest
 The Indian farmers' protest lasted between 2020 and 2021. It was in response to laws passed by Prime Minister Narendra Modi which would minimize government involvement and instead encourage private investors. "More than 60 percent of India’s 1.3 billion people still depend primarily on agriculture for their livelihood, though the sector accounts for only about 15 percent of the country’s economic output," writes the New York Times, "For years, debts and bankruptcies have been driving farmers to high rates of suicide." Finally, the laws were repealed.
 
 ### Women's March
@@ -27,22 +27,16 @@ I used two models: one as a [sentiment analyzer](https://huggingface.co/mayapapa
 ## Conducting My Analysis
 I had three functions:
 
-* Public Sentiment:
+* Public Sentiment: determines the majority sentiment towards the movement)
 
-(This function is to determine the majority sentiment towards the movement)
+* Public Sentiment within a certain time period (parameters: start_date, end_date): determines whether a certain protest (for example, a riot) affects how the movement is viewed)
 
-* Public Sentiment within a certain time period (parameters: start_date, end_date):
-
-(This function is to determine whether a certain protest (for example, a riot) affects how the movement is viewed)
-
-* Keyword Extractor (parameters: keywords):
-
-(This function is to determine whether the issue itself is being spread, or whether the protester’s actions distract from that)
+* Keyword Extractor (parameters: keywords): determines whether the issue itself is being spread, or whether the protester’s actions distract from that)
 I had a list, keywords, that held all the keyword variations that are considered central to the movement (e.g., abortion keywords might include [“abortion”, “reproductive rights”, “pro-life”, “pro-choice”, etc.])
 
 ## Results
 
-### The Indian farmers' Protest
+### The Indian Farmers' Protest
 
 ### Women's March
 
