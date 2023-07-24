@@ -32,11 +32,33 @@ I had three functions:
 * **Public Sentiment within a certain time period (parameters: start_date, end_date):** determines whether a certain protest (for example, a riot) affects how the movement is viewed)
 
 * **Keyword Extractor (parameters: keywords):** determines whether the issue itself is being spread, or whether the protester’s actions distract from that)
-I had a list, keywords, that held all the keyword variations that are considered central to the movement (e.g., abortion keywords might include [“abortion”, “reproductive rights”, “pro-life”, “pro-choice”, etc.])
+I had a list, *keywords*, that held all the keyword variations that are related to a protest rather than the movement itself (e.g., keywords like "protest", "riot", "nuisance", "traffic", "problem", etc.).
 
 ## Results
 
 ### The Indian Farmers' Protest
+
+The overall sentiment on Twitter towards the Indian farmers' protest is as shown:
+```
+Positive Tweets: 37.00666666666667 %
+Negative Tweets: 44.4 %
+Neutral Tweets: 18.593333333333334 %
+
+Total Tweets: 15000
+```
+The slight majority is either unconcerned or supportive of the Women's March movement. About 44.4% are negatively geared toward it.
+
+
+For the second function, I decided to look at a specific instance where, "[on 29 November, the protesters announced that they would block five further points of entry into Delhi,](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" according to Wikipedia. Despite [overwhelming support for India's farmers](https://foreignpolicy.com/2021/11/28/farmers-protests-india-martyrs/), I was curious to see whether people would view this as a nuisance or support it.
+```
+
+```
+
+For the last function, I found the following:
+```
+
+```
+
 
 ### Women's March
 
@@ -65,6 +87,14 @@ For the last function, I found the following:
 
 
 ## Conclusion
+
+### The Indian Farmers' Protest
+
+Twitter notably had to jump hurdles with [the Indian goverment](https://www.npr.org/2021/02/17/968641246/twitter-in-standoff-with-indias-government-over-free-speech-and-local-law) about suppressing the backlash against the farm laws. Accounts were suspended at first and hashtags were reduced. As Twitter struggled between free speech and the government's orders, I wonder if this (affected the results somehow).
+
+### Women's March
+
+### As a whole...
 
 
 
