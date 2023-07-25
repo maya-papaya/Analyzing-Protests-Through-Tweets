@@ -48,7 +48,7 @@ Total Tweets: 1,084,452
 ```
 The majority (about 65%) is either unconcerned or supportive of the Indian farmers' protest. About 34.9% are negatively geared toward it.
 
-<img width="482" alt="Screenshot 2023-07-25 at 4 23 41 PM" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/2eecdc15-36fc-4f42-b290-1620c1cdba4b">
+<img width="488" alt="Screenshot 2023-07-25 at 4 41 23 PM" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/4f911e58-53b4-4374-94f2-9a831024186d">
 
 For the second function, I decided to look at a specific instance where, "[on 29 November, the protesters announced that they would block five further points of entry into Delhi,](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" according to Wikipedia. Despite [overwhelming support for India's farmers](https://foreignpolicy.com/2021/11/28/farmers-protests-india-martyrs/), I was curious to see whether people would view this as a nuisance or support it.
 ```
@@ -81,7 +81,8 @@ Total Tweets: 15,000
 ```
 The overwhelming majority (about 81.4%) is either unconcerned or supportive of the Women's March movement. About 18.6% are negatively geared toward it. This result is unsurprising considering that this dataset only covers tweets from the first Women's March. However, since the movement's leaders became wrapped up in [several controversies](https://time.com/5505787/womens-march-washington-controversy/), I wonder how that number would change now.
 
-<img width="360" alt="image" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/d44085cb-c1f0-4643-a215-b1949d7576d0">
+<img width="482" alt="Screenshot 2023-07-25 at 4 40 56 PM" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/35b97e1e-67c3-4862-a3db-7452a4fbccd1">
+
 
 For the last function, I found the following:
 ```
