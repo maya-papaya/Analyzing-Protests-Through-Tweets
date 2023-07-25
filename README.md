@@ -40,14 +40,15 @@ I had a list, *keywords*, that held all the keyword variations that are related 
 
 The overall sentiment on Twitter towards the Indian farmers' protest is as shown:
 ```
-Positive Tweets: 37.00666666666667 %
-Negative Tweets: 44.4 %
-Neutral Tweets: 18.593333333333334 %
+Positive Tweets: 24.312463806604626 %
+Negative Tweets: 40.75726726494119 %
+Neutral Tweets: 34.93026892845419 %
 
-Total Tweets: 15000
+Total Tweets: 1,084,452
 ```
-The slight majority is either unconcerned or supportive of the Women's March movement. About 44.4% are negatively geared toward it.
+The slight majority is either unconcerned or supportive of the Indian farmers' protest. About 40.76% are negatively geared toward it.
 
+<img width="482" alt="Screenshot 2023-07-25 at 4 23 41 PM" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/2eecdc15-36fc-4f42-b290-1620c1cdba4b">
 
 For the second function, I decided to look at a specific instance where, "[on 29 November, the protesters announced that they would block five further points of entry into Delhi,](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" according to Wikipedia. Despite [overwhelming support for India's farmers](https://foreignpolicy.com/2021/11/28/farmers-protests-india-martyrs/), I was curious to see whether people would view this as a nuisance or support it.
 ```
@@ -76,11 +77,11 @@ Positive Tweets: 37.00666666666667 %
 Negative Tweets: 44.4 %
 Neutral Tweets: 18.593333333333334 %
 
-Total Tweets: 15000
+Total Tweets: 15,000
 ```
 The slight majority is either unconcerned or supportive of the Women's March movement. About 44.4% are negatively geared toward it.
 
-<img width="467" alt="Chart 1" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/b8aaa6e4-d691-473e-ad2c-1e7a1cc4e975">
+<img width="499" alt="Screenshot 2023-07-25 at 4 24 52 PM" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/6e6a1c3e-584a-4c91-9ce1-0ad8f8f2df8a">
 
 For the second function, I decided to determine whether how the Women's March leader's actions ([see more in this article](https://time.com/5505787/womens-march-washington-controversy/) affected how the movement as a whole was viewed.
 Here are my results:
