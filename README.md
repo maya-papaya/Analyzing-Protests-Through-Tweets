@@ -41,12 +41,12 @@ I had a list, *keywords*, that held all the keyword variations that are related 
 The overall sentiment on Twitter towards the Indian farmers' protest is as shown:
 ```
 Positive Tweets: 24.312463806604626 %
-Negative Tweets: 40.75726726494119 %
-Neutral Tweets: 34.93026892845419 %
+Negative Tweets: 34.93026892845419 %
+Neutral Tweets: 40.75726726494119 %
 
 Total Tweets: 1,084,452
 ```
-The slight majority is either unconcerned or supportive of the Indian farmers' protest. About 40.76% are negatively geared toward it.
+The majority (about 65%) is either unconcerned or supportive of the Indian farmers' protest. About 34.9% are negatively geared toward it.
 
 <img width="482" alt="Screenshot 2023-07-25 at 4 23 41 PM" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/2eecdc15-36fc-4f42-b290-1620c1cdba4b">
 
@@ -74,20 +74,14 @@ For the last function, I found the following:
 For the first function, I found the following:
 ```
 Positive Tweets: 37.00666666666667 %
-Negative Tweets: 44.4 %
-Neutral Tweets: 18.593333333333334 %
+Negative Tweets: 18.593333333333334 %
+Neutral Tweets: 44.4 %
 
 Total Tweets: 15,000
 ```
-The slight majority is either unconcerned or supportive of the Women's March movement. About 44.4% are negatively geared toward it.
+The overwhelming majority (about 81.4%) is either unconcerned or supportive of the Women's March movement. About 18.6% are negatively geared toward it. This result is unsurprising considering that this dataset only covers tweets from the first Women's March. However, since the movement's leaders became wrapped up in [several controversies](https://time.com/5505787/womens-march-washington-controversy/), I wonder how that number would change now.
 
-<img width="499" alt="Screenshot 2023-07-25 at 4 24 52 PM" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/6e6a1c3e-584a-4c91-9ce1-0ad8f8f2df8a">
-
-For the second function, I decided to determine whether how the Women's March leader's actions ([see more in this article](https://time.com/5505787/womens-march-washington-controversy/) affected how the movement as a whole was viewed.
-Here are my results:
-```
-
-```
+<img width="360" alt="image" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/d44085cb-c1f0-4643-a215-b1949d7576d0">
 
 For the last function, I found the following:
 ```
