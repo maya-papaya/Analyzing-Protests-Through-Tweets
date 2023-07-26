@@ -109,9 +109,13 @@ For the last function, I found the following:
 
 ### The Indian Farmers' Protest
 
-Twitter notably had to jump hurdles with [the Indian goverment](https://www.npr.org/2021/02/17/968641246/twitter-in-standoff-with-indias-government-over-free-speech-and-local-law) about suppressing the backlash against the farm laws. Accounts were suspended at first and hashtags were reduced. As Twitter struggled between free speech and the government's orders, I wonder if this (affected the results somehow).
+Twitter notably had to jump hurdles with [the Indian government](https://www.npr.org/2021/02/17/968641246/twitter-in-standoff-with-indias-government-over-free-speech-and-local-law) about suppressing the backlash against the farm laws. Accounts were suspended at first and hashtags were reduced. As Twitter struggled between free speech and the government's orders, I wonder if this affected the results somehow.
+
+However, the majority seems to be in support of the Indian farmers who are protesting.
 
 ### Women's March
+
+The Women's March (at least at its first protest) seems to be very supported. However, I think it would be an interesting project in the future to research how they are viewed today.
 
 ### As a whole...
 
