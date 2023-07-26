@@ -34,6 +34,9 @@ I had three functions:
 * **Keyword Extractor (parameters: keywords):** determines whether the issue itself is being spread, or whether the protester’s actions distract from that)
 I had a list, *keywords*, that held all the keyword variations that are related to a protest rather than the movement itself (e.g., keywords like "protest", "riot", "nuisance", "traffic", "problem", etc.).
 
+---
+Here were the results and conclusions I drew from my analysis:
+
 ## Results
 
 ### The Indian Farmers' Protest
