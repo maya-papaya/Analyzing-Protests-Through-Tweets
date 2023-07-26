@@ -115,7 +115,7 @@ Twitter notably had to jump hurdles with [the Indian government](https://www.npr
 <img width="33%" alt="Screenshot 2023-07-26 at 8 53 59 AM" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/72ea8930-dbe2-48ae-99b2-898905294d68">
 <img width="33%" alt="Screenshot 2023-07-26 at 8 55 17 AM" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/f2d3732d-0ae4-4bdd-be56-e85e760d60e7">
 
-However, the majority seems to be in support of the Indian farmers who are protesting. The only time that the percentage of negative tweets changed was when [some of the entrances to Delhi were blocked](https://indianexpress.com/article/cities/chandigarh/farmers-protest-msp-block-delhi-chandigarh-highway-8660023/). This may indicate that people prefer to support protests that don't interfere with their mobility.
+However, the majority seems to be in support of the Indian farmers who are protesting. The only time that the percentage of negative tweets changed was when [some of the entrances to Delhi were blocked](https://indianexpress.com/article/cities/chandigarh/farmers-protest-msp-block-delhi-chandigarh-highway-8660023/). This may indicate that people prefer to support protests that don't interfere with their mobility. In fact, violence against one person caused less of a change than the traffic and rerouting caused by the protest.
 
 ### Women's March
 
