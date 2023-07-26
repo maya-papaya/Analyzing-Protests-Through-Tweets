@@ -95,10 +95,9 @@ Neutral Tweets: 44.4 %
 
 Total Tweets: 15,000
 ```
-The overwhelming majority (about 81.4%) is either unconcerned or supportive of the Women's March movement. About 18.6% are negatively geared toward it. This result is unsurprising considering that this dataset only covers tweets from the first Women's March. However, since the movement's leaders became wrapped up in [several controversies](https://time.com/5505787/womens-march-washington-controversy/), I wonder how that number would change now.
-
 <img width="482" alt="Screenshot 2023-07-25 at 4 40 56 PM" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/35b97e1e-67c3-4862-a3db-7452a4fbccd1">
 
+The overwhelming majority (about 81.4%) is either unconcerned or supportive of the Women's March movement. About 18.6% are negatively geared toward it. This result is unsurprising considering that this dataset only covers tweets from the first Women's March. However, since the movement's leaders became wrapped up in [several controversies](https://time.com/5505787/womens-march-washington-controversy/), I wonder how that number would change now.
 
 For the last function, I found the following:
 ```
