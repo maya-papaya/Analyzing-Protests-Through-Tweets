@@ -46,7 +46,7 @@ Neutral Tweets: 40.75726726494119 %
 
 Total Tweets: 1,084,452
 ```
-<img width="488" alt="Screenshot 2023-07-25 at 4 41 23 PM" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/4f911e58-53b4-4374-94f2-9a831024186d">
+<img width="488" alt="Indian Farmers' Protest Chart 1" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/4f911e58-53b4-4374-94f2-9a831024186d">
 
 The majority (about 65%) is either unconcerned or supportive of the Indian farmers' protest. About 34.9% are negatively geared toward it.
 
@@ -58,7 +58,7 @@ Neutral Tweets: 35.2390537791823 %
 
 Total Tweets: 426,243
 ```
-<img width="468" alt="Screenshot 2023-07-26 at 8 53 59 AM" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/72ea8930-dbe2-48ae-99b2-898905294d68">
+<img width="468" alt="Indian Farmers' Protest Chart 2" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/72ea8930-dbe2-48ae-99b2-898905294d68">
 
 The percentage of negative tweets increases by almost 7%. Perhaps there was a slightly more negative reaction.
 
@@ -70,7 +70,7 @@ Neutral Tweets: 41.44043436601725 %
 
 Total Tweets: 68,882
 ```
-<img width="474" alt="Screenshot 2023-07-26 at 8 55 17 AM" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/f2d3732d-0ae4-4bdd-be56-e85e760d60e7">
+<img width="474" alt="Indian Farmers' Protest Chart 3" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/f2d3732d-0ae4-4bdd-be56-e85e760d60e7">
 
 This time, the percentage of negative tweets only increases by less than 4%. Since one smashed car window is more irrelevant to most people's lives and it's easier to distance one's self from that circumstance, it's possible that there was a less negative reception.
 
@@ -95,7 +95,7 @@ Neutral Tweets: 44.4 %
 
 Total Tweets: 15,000
 ```
-<img width="482" alt="Screenshot 2023-07-25 at 4 40 56 PM" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/35b97e1e-67c3-4862-a3db-7452a4fbccd1">
+<img width="482" alt="Women's March Protest Chart 1" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/35b97e1e-67c3-4862-a3db-7452a4fbccd1">
 
 The overwhelming majority (about 81.4%) is either unconcerned or supportive of the Women's March movement. About 18.6% are negatively geared toward it. This result is unsurprising considering that this dataset only covers tweets from the first Women's March. However, since the movement's leaders became wrapped up in [several controversies](https://time.com/5505787/womens-march-washington-controversy/), I wonder how that number would change now.
 
@@ -111,9 +111,9 @@ For the last function, I found the following:
 
 Twitter notably had to jump hurdles with [the Indian government](https://www.npr.org/2021/02/17/968641246/twitter-in-standoff-with-indias-government-over-free-speech-and-local-law) about suppressing the backlash against the farm laws. Accounts were suspended at first and hashtags were reduced. As Twitter struggled between free speech and the government's orders, I wonder if this affected the results somehow.
 
-<img width="33%" height="50%" alt="Screenshot 2023-07-25 at 4 41 23 PM" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/4f911e58-53b4-4374-94f2-9a831024186d">
-<img width="33%" height="50%" alt="Screenshot 2023-07-26 at 8 53 59 AM" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/72ea8930-dbe2-48ae-99b2-898905294d68">
-<img width="33%" height="50%" alt="Screenshot 2023-07-26 at 8 55 17 AM" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/f2d3732d-0ae4-4bdd-be56-e85e760d60e7">
+<img width="33%" alt="Indian Farmers' Protest Chart 1" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/4f911e58-53b4-4374-94f2-9a831024186d">
+<img width="33%" alt="Indian Farmers' Protest Chart 2" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/72ea8930-dbe2-48ae-99b2-898905294d68">
+<img width="33%" alt="Indian Farmers' Protest Chart 3" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/f2d3732d-0ae4-4bdd-be56-e85e760d60e7">
 
 However, the majority seems to be in support of the Indian farmers who are protesting. The only time that the percentage of negative tweets changed was when [some of the entrances to Delhi were blocked](https://indianexpress.com/article/cities/chandigarh/farmers-protest-msp-block-delhi-chandigarh-highway-8660023/). This may indicate that people prefer to support protests that don't interfere with their mobility. In fact, violence against one politician caused less of a change than the traffic and rerouting caused by the protest.
 
