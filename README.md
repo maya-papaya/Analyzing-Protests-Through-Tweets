@@ -14,15 +14,15 @@ The Women's March movement began in 2017, the day after the inauguration of form
 
 ---
 
-I divided my process into three parts: finding datasets, fine-tuning models, and finally conducting my analysis.
+I divided my process into three parts: finding datasets, fine-tuning my model, and finally conducting my analysis.
 
 ## Finding Datasets
 I used a [HuggingFace dataset](https://huggingface.co/datasets/tweet_eval/viewer/sentiment/train) to train my model in sentiment analysis.
 
 For the analysis, I chose two datasets from Kaggle ([Indian farmers' protest](https://www.kaggle.com/datasets/prathamsharma123/farmers-protest-tweets-dataset-csv) & [#WomensMarch movement](https://www.kaggle.com/datasets/adhok93/inauguration-and-womensmarch-tweets)).
 
-## Fine-tuning the Models
-I used two models: one as a [sentiment analyzer](https://huggingface.co/mayapapaya/Sentiment-Analyzer) and the other as a [keyword extractor](https://huggingface.co/mayapapaya/Keyword-Extractor).
+## Fine-tuning the Model
+I used finetuned my model to be a [sentiment analyzer](https://huggingface.co/mayapapaya/Sentiment-Analyzer).
 
 ## Conducting My Analysis
 I had three functions:
@@ -32,7 +32,7 @@ I had three functions:
 * **Public Sentiment within a certain time period (parameters: start_date, end_date):** determines whether a certain protest (for example, a riot) affects how the movement is viewed)
 
 * **Keyword Extractor (parameters: keywords):** determines whether the issue itself is being spread, or whether the protester’s actions distract from that)
-I had a list, *keywords*, that held all the keyword variations that are related to a protest rather than the movement itself (e.g., keywords like "protest", "riot", "nuisance", "traffic", "problem", etc.).
+I had a list, *keywords*, that held all the keyword variations that are related to a protest rather than the movement itself (e.g., keywords like "protest", "riot", "nuisance", "traffic", "problem", etc.). For this function, I used a KeyBERT model ([learn more here](https://sparkbyexamples.com/python/sort-using-lambda-in-python/)) to extract keywords.
 
 ---
 Here were the results and conclusions I drew from my analysis:
