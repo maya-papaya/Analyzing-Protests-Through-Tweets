@@ -114,9 +114,9 @@ For the last function, I found the following:
 
 Twitter notably had to jump hurdles with [the Indian government](https://www.npr.org/2021/02/17/968641246/twitter-in-standoff-with-indias-government-over-free-speech-and-local-law) about suppressing the backlash against the farm laws. Accounts were suspended at first and hashtags were reduced. As Twitter struggled between free speech and the government's orders, I wonder if this affected the results somehow.
 
-<img width="33%" alt="Indian Farmers' Protest Chart 1" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/4f911e58-53b4-4374-94f2-9a831024186d">
-<img width="33%" alt="Indian Farmers' Protest Chart 2" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/72ea8930-dbe2-48ae-99b2-898905294d68">
-<img width="33%" alt="Indian Farmers' Protest Chart 3" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/f2d3732d-0ae4-4bdd-be56-e85e760d60e7">
+<img width="30%" alt="Indian Farmers' Protest Chart 1" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/4f911e58-53b4-4374-94f2-9a831024186d">
+<img width="30%" alt="Indian Farmers' Protest Chart 2" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/72ea8930-dbe2-48ae-99b2-898905294d68">
+<img width="30%" alt="Indian Farmers' Protest Chart 3" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/f2d3732d-0ae4-4bdd-be56-e85e760d60e7">
 
 However, the majority seems to be in support of the Indian farmers who are protesting. The only time that the percentage of negative tweets changed was when [some of the entrances to Delhi were blocked](https://indianexpress.com/article/cities/chandigarh/farmers-protest-msp-block-delhi-chandigarh-highway-8660023/). This may indicate that people prefer to support protests that don't interfere with their mobility. In fact, violence against one politician caused less of a change than the traffic and rerouting caused by the protest.
 
