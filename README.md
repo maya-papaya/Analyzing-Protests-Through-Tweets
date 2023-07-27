@@ -129,4 +129,8 @@ The Women's March (at least at its first protest) seems to be greatly supported.
 Protests seem to be most effective when they don't hinder daily activities (causing traffic, blocking entrances, etc.). Violence or unnecessarily brutal actions can also negatively impact a movement, even if that violence was only caused by one person.
 
 
+***Notes:***
+*This project is not verified or error-free. Please use results with caution.*
+
+
 
