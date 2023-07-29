@@ -104,9 +104,10 @@ The overwhelming majority (about 81.4%) is either unconcerned or supportive of t
 
 For the last function, I found the following:
 ```
-
+Keywords: "riot", "nuisance", "traffic", "problem"
+Percentage: 0.0 %
 ```
-
+This result makes sense considering both the dataset's limits and how the overwhelming majority was positively inclined toward the movement.
 
 ## Conclusion
 
