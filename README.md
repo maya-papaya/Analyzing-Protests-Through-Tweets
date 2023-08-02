@@ -34,7 +34,6 @@ I had three functions:
 * **Keyword Extractor (parameters: keywords):** determines whether the issue itself is being spread, or whether the protester’s actions distract from that)
 I had a list, *keywords*, that held all the keyword variations that are related to a protest rather than the movement itself (e.g., keywords like "protest", "riot", "nuisance", "traffic", "problem", etc.). For this function, I used a KeyBERT model ([learn more here](https://sparkbyexamples.com/python/sort-using-lambda-in-python/)) to extract keywords.
 
----
 Here were the results and conclusions I drew from my analysis:
 
 ## Results
@@ -43,6 +42,8 @@ Here were the results and conclusions I drew from my analysis:
 
 The overall sentiment on Twitter towards the Indian farmers' protest is as shown:
 ```
+Overall Sentiment:
+
 Positive Tweets: 24.312463806604626 %
 Negative Tweets: 34.93026892845419 %
 Neutral Tweets: 40.75726726494119 %
@@ -53,8 +54,12 @@ Total Tweets: 1,084,452
 
 The majority (about 65%) is either unconcerned or supportive of the Indian farmers' protest. About 34.9% are negatively geared toward it.
 
-For the second function, I decided to look at a specific instance where, "[on 29 November, the protesters announced that they would block five further points of entry into Delhi,](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" according to Wikipedia. Despite [overwhelming support for India's farmers](https://foreignpolicy.com/2021/11/28/farmers-protests-india-martyrs/), I was curious to see whether people would view this as a nuisance or support it.
+---
+
+For the second function, I decided to look at a specific instance where on November 29th, "[the protesters announced that they would block five further points of entry into Delhi,](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" according to Wikipedia. Despite [overwhelming support for India's farmers](https://foreignpolicy.com/2021/11/28/farmers-protests-india-martyrs/), I was curious to see whether people would view this as a nuisance or support it.
 ```
+Between 11-29-2020 and 03-22-2021:
+
 Positive Tweets: 23.153694019608533 %
 Negative Tweets: 41.60725220120917 %
 Neutral Tweets: 35.2390537791823 %
@@ -65,8 +70,12 @@ Total Tweets: 426,243
 
 The percentage of negative tweets increases by almost 7%. Perhaps there was a slightly more negative reaction.
 
+---
+
 I also thought that a certain instance where "a farmer's protest on 5 November turned violent and a MP's car window was smashed," according to Wikipedia, would be interesting to investigate.
 ```
+Between 11-05-2021 and 11-21-2021:
+
 Positive Tweets: 20.450916059347872 %
 Negative Tweets: 38.10864957463488 %
 Neutral Tweets: 41.44043436601725 %
@@ -77,16 +86,23 @@ Total Tweets: 68,882
 
 This time, the percentage of negative tweets only increases by less than 4%. Since one smashed car window is more irrelevant to most people's lives and it's easier to distance one's self from that circumstance, it's possible that there was a less negative reception.
 
+---
+
 During the Republic Day protest, "[the violence and hoisting of a religious flag on the ramparts of the Red Fort made the Bharatiya Kisan Union (Bhanu) and All India Kisan Sangharsh Co-ordination Committee decide to quit the farmers' protest.](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" I wondered if that specific protest (combined with how "several metro stations were closed and mobile internet was suspended by police") affected the sentiment towards the protest.
 ```
+Between 01-26-2021 and 02-01-2021:
+
 
 ```
+
+---
 
 For the last function, I found the following:
 ```
 
 ```
 
+---
 
 ### Women's March
 
@@ -101,6 +117,8 @@ Total Tweets: 15,000
 <img width="482" alt="Women's March Protest Chart 1" src="https://github.com/maya-papaya/Analyzing-Protests-Through-Tweets/assets/116525763/35b97e1e-67c3-4862-a3db-7452a4fbccd1">
 
 The overwhelming majority (about 81.4%) is either unconcerned or supportive of the Women's March movement. About 18.6% are negatively geared toward it. This result is unsurprising considering that this dataset only covers tweets from the first Women's March. However, since the movement's leaders became wrapped up in [several controversies](https://time.com/5505787/womens-march-washington-controversy/), I wonder how that number would change now.
+
+---
 
 For the last function, I found the following:
 ```
@@ -127,7 +145,7 @@ The Women's March (at least at its first protest) seems to be greatly supported.
 
 ### As a whole...
 
-Protests seem to be most effective when they don't hinder daily activities (causing traffic, blocking entrances, etc.). Violence or unnecessarily brutal actions can also negatively impact a movement, even if that violence was only caused by one person.
+Protests seem to be most effective when they don't hinder daily activities (causing traffic, blocking entrances/roads, interfering with daily routine, etc.). Violence or unnecessarily brutal actions can also negatively impact a movement, even if that violence was only caused by one person.
 
 
 ***Notes:***
