@@ -1,6 +1,6 @@
 # Analyzing Protests Through Tweets
 
-In our modern society, protests are a way to collectively unite our voices to create change. However, some protests can negatively impact communities (looting, riots) or just be a nuisance (blocking traffic). Other times, people focus on the protesters' actions, rather than the message they're trying to spread (for example, the climate activists who threw soup at a famous painting). I wanted to find out how we can effectively share our voices through protests and gain support.
+In our modern society, protests are a way to collectively unite our voices to create change. However, some protests can negatively impact communities (looting, riots) or just be a nuisance (blocking traffic). Other times, people focus on the protesters' actions, rather than the message they're trying to spread (for example, the climate activists who threw soup at a famous painting). I wanted to find out how we can effectively share our voices through protests and gain support without disrupting the cause.
 
 This project is meant to explore public sentiment toward protests by analyzing tweets.
 
@@ -107,7 +107,7 @@ For the last function, I found the following:
 Keywords: "riot", "nuisance", "traffic", "problem"
 Percentage: 0.0 %
 ```
-This result makes sense considering both the dataset's limits and how the overwhelming majority was positively inclined toward the movement.
+This result makes sense considering both the dataset's limits and how the overwhelming majority was positively inclined toward the movement. The dataset only included tweets with the tag, #FarmersProtest, so it's likely that not many tweets within the dataset obviously criticized the movement.
 
 ## Conclusion
 
@@ -131,7 +131,7 @@ Protests seem to be most effective when they don't hinder daily activities (caus
 
 
 ***Notes:***
-*This project is not verified or error-free. Please use results with caution.*
+*This project is not verified or error-free. Please use results with caution. The Google Colab notebooks and HuggingFace/KeyBERT models used to create this research project are available for further analysis.*
 
 
 
