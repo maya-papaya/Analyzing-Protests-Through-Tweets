@@ -1,6 +1,10 @@
 # Analyzing Protests Through Tweets
 
-In our modern society, protests are a way to collectively unite our voices to create change. However, some protests can negatively impact communities (looting, riots) or just be a nuisance (blocking traffic). Other times, people focus on the protesters' actions, rather than the message they're trying to spread (for example, the climate activists who threw soup at a famous painting). I wanted to find out how we can effectively share our voices through protests and gain support without disrupting the cause.
+In our modern society, protests are a way to collectively unite our voices to create change. However, some protests can negatively impact communities (looting, riots) or just be a nuisance (blocking traffic). Other times, people focus on the protesters' actions, rather than the message they're trying to spread (for example, the climate activists who threw soup at famous paintings). 
+
+Still, experts say that [confrontational protests](https://grist.org/protest/confrontational-climate-protests-civil-disobedience-soup-van-gogh/) are an effective way to bring attention to a cause and portray less-bold protests in a better light. While this form of protest, called 'civil disobedience,' often is ineffective at garnering support for a movement, unfortunately for protestors, they have to choose between peaceful protests (usually ignored by the public) or civil disobedience (gaining the attention of the public and broadcasted by the media). The whole point of these confrontational protests *is* to make the public uncomfortable and force them into decisions. Civil disobedience is a tactic that has been increasingly popular among younger activists. A spokesperson from Just Stop Oil said, “We’re going to be noisy. We’re going to be disruptive. We’re going to be unignorable. We’re going to be a pain in the ass until you listen to us.”
+
+I wanted to find out how we can effectively share our voices through protests and gain support without disrupting the cause.
 
 This project is meant to explore public sentiment toward protests by analyzing tweets.
 
@@ -148,7 +152,8 @@ The Women's March (at least at its first protest) seems to be greatly supported.
 
 ### As a whole...
 
-Protests seem to be most effective when they don't hinder daily activities (causing traffic, blocking entrances/roads, interfering with daily routine, etc.). Violence or unnecessarily brutal actions can also negatively impact a movement, even if that violence was only caused by one person.
+Protests seem to be most effective when they don't hinder daily activities (causing traffic, blocking entrances/roads, interfering with daily routine, etc.). [People online](https://www.reddit.com/r/NoStupidQuestions/comments/y4c9gx/why_do_protesters_not_all_seem_to_do_really/) have also discussed how protests that inconvenience their daily routines diminish their support for the movement.
+Violence or unnecessarily brutal actions can also negatively impact a movement, even if that violence was only caused by one person. [Research by a sociologist at Stanford](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/) has shown that violence from a popular movement will more negatively impact the movement compared to violence from the opposing side -- sometimes it will actually increase support for the opposing side.
 
 
 ***Notes:***
