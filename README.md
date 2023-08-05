@@ -64,11 +64,11 @@ For the second function, I decided to look at a specific instance where on Novem
 ```
 Between 11-29-2020 and 03-22-2021:
 
-Positive Tweets: 23.153694019608533 %
-Negative Tweets: 41.60725220120917 %
-Neutral Tweets: 35.2390537791823 %
+Positive Tweets: 25.43367614079 %
+Negative Tweets: 34.31111038955768 %
+Neutral Tweets: 40.25521344903443 %
 
-Total Tweets: 426,243
+Total Tweets: 615,955
 ```
 <img width="502" alt="Indian Farmers' Protest Chart 2" src="Screenshot 2023-08-02 at 6.03.52 PM.png">
 
