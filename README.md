@@ -164,8 +164,6 @@ Being inconvenienced actually didn't seem to affect the Indian farmers' movement
 
 On the other hand, violence or unnecessarily brutal actions did seem to negatively impact a movement. [Research by a sociologist at Stanford](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/) has shown that violence from a popular movement will more negatively impact the movement compared to violence from the opposing side -- sometimes it will actually increase support for the opposing side.
 
-However, the bigger question becomes: is it more important to be a 'popular' movement or is it more important to make a change in our society?
-
 I think most protesters who are 'disruptive' prefer the latter option. As one protester said, “It isn’t fun: I hate disrupting people’s lives, and it’s upsetting that it’s come to this. But it has come to this.”
 
 ***Notes:***
