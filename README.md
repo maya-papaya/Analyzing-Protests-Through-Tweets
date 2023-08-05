@@ -81,11 +81,11 @@ I also thought that a certain instance where "a farmer's protest on 5 November t
 ```
 Between 11-05-2021 and 11-21-2021:
 
-Positive Tweets: 20.450916059347872 %
-Negative Tweets: 38.10864957463488 %
-Neutral Tweets: 41.44043436601725 %
+Positive Tweets: 27.842227378190255 %
+Negative Tweets: 33.75259494443766 %
+Neutral Tweets: 38.40517767737208 %
 
-Total Tweets: 68,882
+Total Tweets: 24,567
 ```
 <img width="502" alt="Indian Farmers' Protest Chart 3" src="Screenshot 2023-08-02 at 6.05.20 PM.png">
 
@@ -97,7 +97,11 @@ During the Republic Day protest, "[the violence and hoisting of a religious flag
 ```
 Between 01-26-2021 and 02-01-2021:
 
+Positive Tweets: 13.413878562577446 %
+Negative Tweets: 48.213548120611314 %
+Neutral Tweets: 38.372573316811234 %
 
+Total Tweets: 38,736
 ```
 
 ---
