@@ -143,10 +143,10 @@ This result makes sense considering both the dataset's limits and how the overwh
 
 Twitter notably had to jump hurdles with [the Indian government](https://www.npr.org/2021/02/17/968641246/twitter-in-standoff-with-indias-government-over-free-speech-and-local-law) about suppressing the backlash against the farm laws. Accounts were suspended at first and hashtags were reduced. As Twitter struggled between free speech and the government's orders, I wonder if this affected the results somehow.
 
-<img width="25%" alt="Indian Farmers' Protest Chart 1" src="Screenshot 2023-08-02 at 6.02.29 PM.png">
-<img width="25%" alt="Indian Farmers' Protest Chart 2" src="Screenshot 2023-08-02 at 6.03.52 PM.png">
-<img width="25%" alt="Indian Farmers' Protest Chart 3" src="Screenshot 2023-08-02 at 6.05.20 PM.png">
-
+<img width="600" alt="Indian Farmers' Protest Chart 1" src="Screenshot 2023-08-05 at 10.05.24 AM.png">
+<img width="600" alt="Indian Farmers' Protest Chart 2" src="Screenshot 2023-08-05 at 10.04.43 AM.png">
+<img width="600" alt="Indian Farmers' Protest Chart 3" src="Screenshot 2023-08-05 at 10.03.37 AM.png">
+<img width="600" alt = "Indian Farmers' Protest Chart 4" src="Screenshot 2023-08-05 at 10.02.30 AM.png">
 
 However, the majority seems to be in support of the Indian farmers who are protesting. The only time that the percentage of negative tweets changed was when [some of the entrances to Delhi were blocked](https://indianexpress.com/article/cities/chandigarh/farmers-protest-msp-block-delhi-chandigarh-highway-8660023/). This may indicate that people prefer to support protests that don't interfere with their mobility. In fact, violence against one politician caused less of a change than the traffic and rerouting caused by another protest.
 
