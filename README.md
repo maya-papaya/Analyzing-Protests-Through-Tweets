@@ -106,6 +106,8 @@ Total Tweets: 38,736
 
 For this instance, the percentage of positive tweets dramatically decreases to 13%, while the percentage of negative tweets increases to almost 50%. These prominent changes may be because of the violence that occurred. Two major groups decided to leave the farmers' protest because of the violence and religious flag. Likely, many people (including previous supporters of the movement) criticized the violence and the group of protesters who abandoned the original peaceful protest plan. Another factor contributing to the lack of positive support is the internet shutdown that caused farmers to lose contact with their supporters.
 
+However, some of the negative tweets were likely also directed towards the government and their treatment of the farmers, as well as their crackdown on the internet/social media.
+
 ---
 
 For the last function, I found the following:
@@ -150,21 +152,21 @@ Twitter notably had to jump hurdles with [the Indian government](https://www.npr
 <img width="600" alt="Indian Farmers' Protest Chart 3" src="Screenshot 2023-08-05 at 10.03.37 AM.png">
 <img width="600" alt = "Indian Farmers' Protest Chart 4" src="Screenshot 2023-08-05 at 10.02.30 AM.png">
 
-However, the majority seems to be in support of the Indian farmers who are protesting. The only time that the percentage of negative tweets changed was when [some of the entrances to Delhi were blocked](https://indianexpress.com/article/cities/chandigarh/farmers-protest-msp-block-delhi-chandigarh-highway-8660023/). This may indicate that people prefer to support protests that don't interfere with their mobility. In fact, violence against one politician caused less of a change than the traffic and rerouting caused by another protest.
+However, the public seems to be divided equally between negative, neutral, and positive reactions. The majority is overall neutral. The rest is more negatively positioned towards the movement, while the minority of tweets are positive. The traffic caused and the MP's smashed window seemed to have almost no change compared to the total sentiment. During the Republic's Day violence, though, the number of negative tweets drastically went up to almost 50% of the total number of tweets. Again, though, these results may not reflect the true sentiment towards the movement: the Indian government tried to suppress Twitter and shut down the internet in order to prevent support for the farmers. Also, this analysis doesn't exactly specify whether the negative tweets were directed towards the farmers or the government (it's likely that they were directed toward both).
 
 ### Women's March
 
-The Women's March (at least at its first protest) seems to be greatly supported. However, I think it would be an interesting project in the future to research how they are viewed today.
+The Women's March during its first protest seemed to be greatly supported. However, I think it would be an interesting project in the future to research how they are viewed today.
 
 ### As a whole...
 
-Protests seem to be most popular when they don't hinder daily activities (causing traffic, blocking entrances/roads, interfering with daily routine, etc.). [People online](https://www.reddit.com/r/NoStupidQuestions/comments/y4c9gx/why_do_protesters_not_all_seem_to_do_really/) have also discussed how protests that inconvenience their daily routines diminish their support for the movement.
-Violence or unnecessarily brutal actions can also negatively impact a movement, even if that violence was only caused by one person. [Research by a sociologist at Stanford](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/) has shown that violence from a popular movement will more negatively impact the movement compared to violence from the opposing side -- sometimes it will actually increase support for the opposing side.
+Being inconvenienced actually didn't seem to affect the Indian farmers' movement at all. However, with more research, the results may turn out differently.
+
+On the other hand, violence or unnecessarily brutal actions did seem to negatively impact a movement. [Research by a sociologist at Stanford](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/) has shown that violence from a popular movement will more negatively impact the movement compared to violence from the opposing side -- sometimes it will actually increase support for the opposing side.
 
 However, the bigger question becomes: is it more important to be a 'popular' movement or is it more important to make a change in our society?
 
 I think most protesters who are 'disruptive' prefer the latter option. As one protester said, “It isn’t fun: I hate disrupting people’s lives, and it’s upsetting that it’s come to this. But it has come to this.”
-
 
 ***Notes:***
 *This project is not verified or error-free. Please use results with caution. The Google Colab notebooks and HuggingFace/KeyBERT models used to create this research project are available for further analysis.*
