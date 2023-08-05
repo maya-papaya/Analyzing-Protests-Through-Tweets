@@ -56,7 +56,7 @@ Total Tweets: 1,084,452
 <img width="600" alt="Indian Farmers' Protest Chart 1" src="Screenshot 2023-08-05 at 10.05.24 AM.png">
 
 
-The majority (about 65%) is either unconcerned or supportive of the Indian farmers' protest. About 34.9% are negatively geared toward it.
+The majority (about 40.7%) is unconcerned or neutral towards the Indian farmers' protests. About 34.9% are negatively geared toward it. The minority of tweets are supportive towards the movement.
 
 ---
 
@@ -72,7 +72,7 @@ Total Tweets: 615,955
 ```
 <img width="600" alt="Indian Farmers' Protest Chart 2" src="Screenshot 2023-08-05 at 10.04.43 AM.png">
 
-The percentage of negative tweets increases by almost 7%. Perhaps there was a slightly more negative reaction.
+The percentage of negative tweets decreases by 0.6%, while the percentage of positive tweets increases by 1%. There is almost no change between the total public sentiment and this instance.
 
 ---
 
@@ -88,7 +88,7 @@ Total Tweets: 24,567
 ```
 <img width="600" alt="Indian Farmers' Protest Chart 3" src="Screenshot 2023-08-05 at 10.03.37 AM.png">
 
-This time, the percentage of negative tweets only increases by less than 4%. Since one smashed car window is more irrelevant to most people's lives and it's easier to distance one's self from that circumstance, it's possible that there was a less negative reception.
+This time, the percentage of negative tweets decreases by 1%, while the percentage of positive tweets increases by 3%. Since one smashed car window is more irrelevant to most people's lives and it's easier to distance one's self from that circumstance, it's possible that there was a less negative reception.
 
 ---
 
@@ -103,6 +103,8 @@ Neutral Tweets: 38.372573316811234 %
 Total Tweets: 38,736
 ```
 <img width="600" alt = "Indian Farmers' Protest Chart 4" src="Screenshot 2023-08-05 at 10.02.30 AM.png">
+
+For this instance, the percentage of positive tweets dramatically decreases to 13%, while the percentage of negative tweets increases to almost 50%. These prominent changes may be because of the violence that occurred. Two major groups decided to leave the farmers' protest because of the violence and religious flag. Likely, many people (including previous supporters of the movement) criticized the violence and the group of protesters who abandoned the original peaceful protest plan. Another factor contributing to the lack of positive support is the internet shutdown that caused farmers to lose contact with their supporters.
 
 ---
 
