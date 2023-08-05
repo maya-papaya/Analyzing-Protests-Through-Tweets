@@ -53,7 +53,7 @@ Neutral Tweets: 40.75726726494119 %
 
 Total Tweets: 1,084,452
 ```
-<img width="502" alt="Indian Farmers' Protest Chart 1" src="Screenshot 2023-08-02 at 6.02.29 PM.png">
+<img width="798" alt="Indian Farmers' Protest Chart 1" src="Screenshot 2023-08-05 at 10 05 24 AM">
 
 
 The majority (about 65%) is either unconcerned or supportive of the Indian farmers' protest. About 34.9% are negatively geared toward it.
@@ -70,8 +70,7 @@ Neutral Tweets: 40.25521344903443 %
 
 Total Tweets: 615,955
 ```
-<img width="502" alt="Indian Farmers' Protest Chart 2" src="Screenshot 2023-08-02 at 6.03.52 PM.png">
-
+<img width="803" alt="Indian Farmers' Protest Chart 2" src="Screenshot 2023-08-05 at 10 04 43 AM">
 
 The percentage of negative tweets increases by almost 7%. Perhaps there was a slightly more negative reaction.
 
@@ -87,7 +86,7 @@ Neutral Tweets: 38.40517767737208 %
 
 Total Tweets: 24,567
 ```
-<img width="502" alt="Indian Farmers' Protest Chart 3" src="Screenshot 2023-08-02 at 6.05.20 PM.png">
+<img width="793" alt="Indian Farmers' Protest Chart 3" src="Screenshot 2023-08-05 at 10 03 37 AM">
 
 This time, the percentage of negative tweets only increases by less than 4%. Since one smashed car window is more irrelevant to most people's lives and it's easier to distance one's self from that circumstance, it's possible that there was a less negative reception.
 
@@ -103,6 +102,7 @@ Neutral Tweets: 38.372573316811234 %
 
 Total Tweets: 38,736
 ```
+<img width="807" alt = "Indian Farmers' Protest Chart4" src="Screenshot 2023-08-05 at 10 02 30 AM">
 
 ---
 
@@ -123,7 +123,8 @@ Neutral Tweets: 44.4 %
 
 Total Tweets: 15,000
 ```
-<img width="502" alt="Women's March Protest Chart 1" src="Screenshot 2023-08-02 at 6.06.15 PM.png">
+<img width="590" alt="Women's March Protest Chart 1" src="Screenshot 2023-08-05 at 10 01 24 AM">
+
 
 The overwhelming majority (about 81.4%) is either unconcerned or supportive of the Women's March movement. About 18.6% are negatively geared toward it. This result is unsurprising considering that this dataset only covers tweets from the first Women's March. However, since the movement's leaders became wrapped up in [several controversies](https://time.com/5505787/womens-march-washington-controversy/), I wonder how that number would change now.
 
