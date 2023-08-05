@@ -64,7 +64,7 @@ For the second function, I decided to look at a specific instance where on Novem
 ```
 Between 11-29-2020 and 03-22-2021:
 
-Positive Tweets: 25.43367614079 %
+Positive Tweets: 25.4336761614079 %
 Negative Tweets: 34.31111038955768 %
 Neutral Tweets: 40.25521344903443 %
 
