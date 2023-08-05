@@ -111,8 +111,11 @@ However, some of the negative tweets were likely also directed towards the gover
 
 For the last function, I found the following:
 ```
-
+Keywords: "riot", "nuisance", "traffic", "problem"
+Percentage: 0.008667972395274295 %
+# of Tweets with Keywords: 94
 ```
+So it turns out that people care more about the movement's causes rather than how it inconveniences them.
 
 ---
 
