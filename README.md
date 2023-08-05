@@ -113,7 +113,7 @@ For the last function, I found the following:
 ```
 Keywords: "riot", "nuisance", "traffic", "problem"
 Percentage: 0.008667972395274295 %
-# of Tweets with Keywords: 94
+Number of Tweets with Keywords: 94
 ```
 So it turns out that people care more about the movement's causes rather than how it inconveniences them.
 
