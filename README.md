@@ -53,7 +53,7 @@ Neutral Tweets: 40.75726726494119 %
 
 Total Tweets: 1,084,452
 ```
-<img width="500" alt="Indian Farmers' Protest Chart 1" src="Screenshot 2023-08-05 at 10 05 24 AM.png">
+<img width="600" alt="Indian Farmers' Protest Chart 1" src="Screenshot 2023-08-05 at 10.05.24 AM.png">
 
 
 The majority (about 65%) is either unconcerned or supportive of the Indian farmers' protest. About 34.9% are negatively geared toward it.
@@ -70,7 +70,7 @@ Neutral Tweets: 40.25521344903443 %
 
 Total Tweets: 615,955
 ```
-<img width="500" alt="Indian Farmers' Protest Chart 2" src="Screenshot 2023-08-05 at 10 04 43 AM.png">
+<img width="600" alt="Indian Farmers' Protest Chart 2" src="Screenshot 2023-08-05 at 10.04.43 AM.png">
 
 The percentage of negative tweets increases by almost 7%. Perhaps there was a slightly more negative reaction.
 
@@ -86,7 +86,7 @@ Neutral Tweets: 38.40517767737208 %
 
 Total Tweets: 24,567
 ```
-<img width="500" alt="Indian Farmers' Protest Chart 3" src="Screenshot 2023-08-05 at 10 03 37 AM.png">
+<img width="600" alt="Indian Farmers' Protest Chart 3" src="Screenshot 2023-08-05 at 10.03.37 AM.png">
 
 This time, the percentage of negative tweets only increases by less than 4%. Since one smashed car window is more irrelevant to most people's lives and it's easier to distance one's self from that circumstance, it's possible that there was a less negative reception.
 
@@ -102,7 +102,7 @@ Neutral Tweets: 38.372573316811234 %
 
 Total Tweets: 38,736
 ```
-<img width="500" alt = "Indian Farmers' Protest Chart4" src="Screenshot 2023-08-05 at 10 02 30 AM.png">
+<img width="600" alt = "Indian Farmers' Protest Chart 4" src="Screenshot 2023-08-05 at 10.02.30 AM.png">
 
 ---
 
@@ -123,7 +123,7 @@ Neutral Tweets: 44.4 %
 
 Total Tweets: 15,000
 ```
-<img width="500" alt="Women's March Protest Chart 1" src="Screenshot 2023-08-05 at 10 01 24 AM.png">
+<img width="600" alt="Women's March Protest Chart 1" src="Screenshot 2023-08-05 at 10.01.24 AM.png">
 
 
 The overwhelming majority (about 81.4%) is either unconcerned or supportive of the Women's March movement. About 18.6% are negatively geared toward it. This result is unsurprising considering that this dataset only covers tweets from the first Women's March. However, since the movement's leaders became wrapped up in [several controversies](https://time.com/5505787/womens-march-washington-controversy/), I wonder how that number would change now.
