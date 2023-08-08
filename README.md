@@ -34,7 +34,7 @@ I had three functions:
 
 * **Public Sentiment within a certain time period (parameters: start_date, end_date):** determines whether a certain protest (for example, a riot) affects how the movement is viewed
 
-* **Keyword Extractor (parameters: keywords):** determines whether the issue itself is being spread, or whether the protester’s actions distract from that. I had a list, *keywords*, that held all the keyword variations that are related to a protest rather than the movement itself (e.g., keywords like "riot", "nuisance", "traffic", "problem", etc.). For this function, I used a KeyBERT model ([learn more here](https://sparkbyexamples.com/python/sort-using-lambda-in-python/)) to extract keywords.
+* **Keyword Extractor (parameters: keywords):** determines whether the issue itself is being spread, or whether the protester’s actions distract from that. I had a list, *keywords*, that held all the keyword variations that are related to a protest rather than the movement itself (e.g., keywords like "riot", "nuisance", "traffic", "problem", etc.). For this function, I used a KeyBERT model to extract keywords.
 
 Here were the results and conclusions I drew from my analysis:
 
@@ -171,5 +171,22 @@ I think most protesters who are 'disruptive' prefer the latter option. As one pr
 ***Notes:***
 *This project is not verified or error-free. Please use results with caution. The Google Colab notebooks and HuggingFace/KeyBERT models used to create this research project are available for further analysis.*
 
+---
+
+## References
+
+* Leow, Griffin. "Analysis of Tweets on the Hong Kong Protest Movement 2019 with Python." *Towards Data Science,* 18 Nov. 2019, towardsdatascience.com/analysis-of-tweets-on-the-hong-kong-protest-movement-2019-with-python-a331851f061. Accessed 8 Aug. 2023.
+
+* De Witte, Melissa. "How violent protest can backfire." *Stanford News,* 12 Oct. 2018, news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/. Accessed 8 Aug. 2023.
+
+* Yoder, Kate. "Climate activists’ new, confrontational tactics aren’t popular. That’s kind of the point." *Grist,* 21 Dec. 2022, grist.org/protest/confrontational-climate-protests-civil-disobedience-soup-van-gogh/. Accessed 8 Aug. 2023.
+
+* Mir, Shoaib. Khan, Ahmer. "Farmers Have Become Martyrs in India." *Foreign Policy,* 28 Nov. 2021, foreignpolicy.com/2021/11/28/farmers-protests-india-martyrs/. Accessed 8 Aug. 2023.
+
+* "2020–2021 Indian farmers' protest." *Wikipedia,* en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest. Accessed 8 Aug. 2023.
+
+* Vesoulis, Abby. "Women First Marched to Challenge Trump. Now They Are Challenging Each Other." *Time,* 19 Jan. 2019, time.com/5505787/womens-march-washington-controversy/. Accessed 8 Aug. 2023.
+
+* Frayer, Lauren. Bond, Shannon. "Twitter In Standoff With India's Government Over Free Speech And Local Law." *NPR,* 18 Feb. 2021, www.npr.org/2021/02/17/968641246/twitter-in-standoff-with-indias-government-over-free-speech-and-local-law. Accessed 8 Aug. 2023.
 
 
