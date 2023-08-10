@@ -218,6 +218,7 @@ Neutral Keywords:
 9. ('education devos', 1485)
 10. ('demi', 839)
 ```
+The neutral keywords seem to be interestingly about the empowerment of women.
 ```
 Negative Keywords: 
 1. ('womensmarch', 546)
