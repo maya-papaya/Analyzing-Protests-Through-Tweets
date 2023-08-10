@@ -204,6 +204,7 @@ Positive Keywords:
 9. ('womens march', 167)
 10. ('womensmarch womensmarch', 140)
 ```
+Some of the positive keywords include shoutouts to public figures like Hillary Clinton (who ran against Trump in 2016) and Cecile Richards ([an activist who spoke at the march](https://19thnews.org/2021/10/i-need-to-be-with-other-folks-as-outraged-and-motivated-as-i-am-cecile-richards-on-why-this-years-womens-march-matters/#:~:text=In%202017%2C%20Cecile%20Richards%2C%20then,research%20and%20rapid%20response%20group.). Most of the positive tweets seem to be related to encouraging and praising the movement as well as its members.
 ```
 Neutral Keywords: 
 1. ('womensmarch', 4313)
@@ -232,13 +233,9 @@ Negative Keywords:
 ```
 The most popular negative keywords seem to be 'genital mutilation,' 'threat genital,' 'amymek,' 'sharia,' and 'war women.' 
 
-The phrases, 'genital mutilation' and 'threat genital,' likely come from _______________________.
-
-The phrase 'sharia' refers to Shariah law. The Women's March in 2017 was wrapped up with conversations around Islam, including whether or not to [protest Shariah law.](https://torontosun.com/2017/01/26/farzana-hassan-when-will-womens-march-protest-sharia-law). 
+The phrase 'sharia' refers to Shariah law. The Women's March in 2017 was wrapped up with conversations around Islam, including whether or not to [protest Shariah law.](https://torontosun.com/2017/01/26/farzana-hassan-when-will-womens-march-protest-sharia-law).
 
 An explanation for the Amy Mek reference may be because of her support of Donald Trump. *The New York Times* quoted her, "Amy Mek, who has more than 85,000 Twitter followers, is one of the women Ms. Suhler has gotten to know through their shared support of Mr. Trump. 'My belief has been that women’s rights is about treating men and women equally,' Ms. Mek said. 'Trump swings at men and women equally hard, but somehow if a woman is a Trump target, he is a misogynist.'" 
-
-
 
 ## Conclusion
 
@@ -255,7 +252,7 @@ However, the public seems to be divided equally between negative, neutral, and p
 
 ### Women's March
 
-The Women's March during its first protest seemed to be greatly supported. However, I think it would be an interesting project in the future to research how they are viewed today.
+The Women's March during its first protest seemed to be greatly supported. However, I think it would be an interesting project in the future to research how they are viewed today. An explanation for its widely-varying keywords may be because it was "[more than an anti-Trump protest,](https://www.vox.com/2017/1/21/14342942/womens-march-inauguration-trump-protest-goals-feminism-demands)" as *Vox* writes. The movement touched on many different conversations and issues.
 
 ### As a whole...
 
