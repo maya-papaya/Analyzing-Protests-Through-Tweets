@@ -79,11 +79,11 @@ I also thought that a certain instance where "a farmer's protest on 5 November t
 ```
 Public Sentiment between 2021-11-05 00:00:00+00:00 and 2021-11-21 00:00:00+00:00: 
 
-Positive Tweets: 5098
-Neutral Tweets: 11037
-Negative Tweets: 8433
+Positive Tweets: 5,098
+Neutral Tweets: 11,037
+Negative Tweets: 8,433
 
-Total Tweets: 24568
+Total Tweets: 24,568
 ```
 <img width="600" alt="Indian Farmers' Protest Chart 3" src="Screenshot 2023-08-05 at 10.03.37 AM.png">
 
@@ -150,15 +150,19 @@ Wordcloud (Positive):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers 2/Positive.png">
 
+In the wordcloud, there are words relating to victory ('victory,' 'finally,' 'proud,' 'won,' 'congratulation') and supportive words ('unity,' 'love,' 'live,' 'support,' 'fight').
 ```
 Wordcloud (Neutral):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Neutral" src="/Farmers 2/Neutral.png">
 
+The neutral wordcloud seems to have more words relating to the government and Modi ('narendramodi,' 'government' 'BJP,' 'PM Modi').
 ```
 Wordcloud (Negative):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Negative" src="/Farmers 2/Negative.png">
+
+Some words that stand out include 'farmer,' 'narendramodi' (likely calling on Modi), 'government,' 'death' (possibly referring to the many deaths and suicides of farmers throughout the movement and in the past), 'shame,' and 'protest.'
 
 ---
 
