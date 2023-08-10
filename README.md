@@ -164,19 +164,71 @@ This time, the percentage of negative tweets decreases by 1%, while the percenta
 
 During the Republic Day protest, "[the violence and hoisting of a religious flag on the ramparts of the Red Fort made the Bharatiya Kisan Union (Bhanu) and All India Kisan Sangharsh Co-ordination Committee decide to quit the farmers' protest.](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" I wondered if that specific protest (combined with how "several metro stations were closed and mobile internet was suspended by police") affected the sentiment towards the protest.
 ```
-Between 01-26-2021 and 02-01-2021:
+Public Sentiment between 2021-01-26 00:00:00+00:00 and 2021-02-01 00:00:00+00:00: 
 
-Positive Tweets: 13.413878562577446 %
-Negative Tweets: 48.213548120611314 %
-Neutral Tweets: 38.372573316811234 %
+Positive Tweets: 3423
+Neutral Tweets: 16379
+Negative Tweets: 18936
 
-Total Tweets: 38,736
+Total Tweets: 38738
 ```
 <img width="600" alt = "Indian Farmers' Protest Chart 4" src="Screenshot 2023-08-05 at 10.02.30 AM.png">
 
 For this instance, the percentage of positive tweets dramatically decreases to 13%, while the percentage of negative tweets increases to almost 50%. These prominent changes may be because of the violence that occurred. Two major groups decided to leave the farmers' protest because of the violence and religious flag. Likely, many people (including previous supporters of the movement) criticized the violence and the group of protesters who abandoned the original peaceful protest plan. Another factor contributing to the lack of positive support is the internet shutdown that caused farmers to lose contact with their supporters.
 
 However, some of the negative tweets were likely also directed towards the government and their treatment of the farmers, as well as their crackdown on the internet/social media.
+```
+Keywords:
+1. ('farmersprotest', 12696)
+2. ('farmers', 1705)
+3. ('protest', 1331)
+4. ('farmers protest', 1001)
+5. ('delhi police', 776)
+6. ('farmersprostests farmersprotest', 661)
+7. ('sikhs', 559)
+8. ('farmers farmersprotest', 542)
+9. ('flag', 525)
+10. ('bjp', 499)
+```
+```
+Positive Keywords: 
+1. ('farmersprotest', 1430)
+2. ('republic day', 187)
+3. ('farmers', 163)
+4. ('support farmers', 122)
+5. ('peacefulprotestcontinues farmersprotest', 111)
+6. ('farmers farmersprotest', 85)
+7. ('farmersstandingfirm', 84)
+8. ('support farmersprotest', 82)
+9. ('republic', 80)
+10. ('peace wins', 73)
+```
+```
+Neutral Keywords: 
+1. ('farmersprotest', 6634)
+2. ('farmers', 600)
+3. ('farmers protest', 561)
+4. ('protest', 554)
+5. ('tractor rally', 344)
+6. ('rakeshtikait farmersprotest', 318)
+7. ('farmerprotest', 304)
+8. ('farmersprotest farmerprotest', 302)
+9. ('delhi police', 288)
+10. ('farmerprotest gazipurborder', 277)
+```
+```
+Negative Keywords: 
+1. ('farmersprotest', 4632)
+2. ('farmers', 942)
+3. ('protest', 749)
+4. ('delhi police', 470)
+5. ('farmers protest', 412)
+6. ('farmersprostests farmersprotest', 375)
+7. ('bjp', 355)
+8. ('sikhs', 340)
+9. ('flag', 331)
+10. ('protesting farmers', 323)
+```
 
 ---
 
