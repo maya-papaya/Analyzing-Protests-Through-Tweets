@@ -99,6 +99,7 @@ Positive Keywords:
 9. ('farmersprotest farmlaws', 172)
 10. ('victory farmers', 140)
 ```
+Again, 'farmlawsrepealed' comes in at third place. 'Victory farmers,' likely celebrating the Indian farmers' victories and successful protests, also seems to be popular.
 ```
 Neutral Keywords: 
 1. ('farmersprotest', 4551)
@@ -112,6 +113,7 @@ Neutral Keywords:
 9. ('farmersprotest farmlawsrepealed', 410)
 10. ('repeal farm', 301)
 ```
+There isn't a major difference between the positive keywords and neutral keywords, except for a less celebratory mood (no 'victory farmers'). These keywords seem to be more interested in targeting the cause rather than being explicitly supportive.
 ```
 Negative Keywords: 
 1. ('farmersprotest', 2169)
@@ -125,6 +127,7 @@ Negative Keywords:
 9. ('farmlaws farmersprotest', 282)
 10. ('farmersprotest farmlaws', 247)
 ```
+Again, there isn't much difference between the different sentiment categories of keywords. It seems, though, that this category of tweets is calling on Modi'sBharatiya Janata Party (B.J.P.).
 
 ---
 
@@ -218,7 +221,7 @@ Neutral Keywords:
 9. ('education devos', 1485)
 10. ('demi', 839)
 ```
-The neutral keywords seem to be interestingly about the empowerment of women.
+The neutral keywords seem to be related to the empowerment of women ('future female,' 'womensmarch power').
 ```
 Negative Keywords: 
 1. ('womensmarch', 546)
@@ -234,7 +237,7 @@ Negative Keywords:
 ```
 The most popular negative keywords seem to be 'genital mutilation,' 'threat genital,' 'amymek,' 'sharia,' and 'war women.' 
 
-The phrase 'sharia' refers to Shariah law. The Women's March in 2017 was wrapped up with conversations around Islam, including whether or not to [protest Shariah law.](https://torontosun.com/2017/01/26/farzana-hassan-when-will-womens-march-protest-sharia-law).
+The phrases, 'sharia' and 'islam sharia,' refer to Shariah law. The Women's March in 2017 was wrapped up with conversations around Islam, including whether or not to [protest Shariah law.](https://torontosun.com/2017/01/26/farzana-hassan-when-will-womens-march-protest-sharia-law).
 
 An explanation for the Amy Mek reference may be because of her support of Donald Trump. *The New York Times* quoted her, "Amy Mek, who has more than 85,000 Twitter followers, is one of the women Ms. Suhler has gotten to know through their shared support of Mr. Trump. 'My belief has been that women’s rights is about treating men and women equally,' Ms. Mek said. 'Trump swings at men and women equally hard, but somehow if a woman is a Trump target, he is a misogynist.'" 
 
