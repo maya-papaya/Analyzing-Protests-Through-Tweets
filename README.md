@@ -331,15 +331,19 @@ Wordcloud (Positive):
 ```
 <img width="600" alt="Women's March Wordcloud Positive" src="/WomensMarch/Positive.png">
 
+Some words that pop out include 'shoutout WomensMarch' and 'unstoppable.' Hillary Clinton and Cecile Richards seemed to be mentioned frequently.
 ```
 Wordcloud (Neutral):
 ```
 <img width="600" alt="Women's March Wordcloud Neutral" src="/WomensMarch/Neutral.png">
 
+'Clinton says,' 'video statement,' 'WATCH,' and 'references' all suggest that the majority of neutral tweets was sharing information on the events happening during the march.
 ```
 Wordcloud (Negative):
 ```
 <img width="600" alt="Women's March Wordcloud Negative" src="/WomensMarch/Negative.png">
+
+'Genital mutilation' seems to be the most prominent discussion. 'Islam Sharia,' 'Amy Mek,' 'honor killings,' and 'Tahani Mansour' ([a woman who was killed by her father due to her dating a non-Muslim man and arriving home late](https://uncommongroundmedia.com/muslim-american-femicide-intersectional-feminist-enablers/?expand_article=1)) are all related to the conversation around Islam within the movement.
 
 ---
 
