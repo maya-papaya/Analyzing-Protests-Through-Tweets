@@ -61,13 +61,61 @@ The majority (about 40.7%) is unconcerned or neutral towards the Indian farmers'
 
 For the second function, I decided to look at a specific instance where on November 29th, "[the protesters announced that they would block five further points of entry into Delhi,](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" according to Wikipedia. Despite [overwhelming support for India's farmers](https://foreignpolicy.com/2021/11/28/farmers-protests-india-martyrs/), I was curious to see whether people would view this as a nuisance or support it.
 ```
-Between 11-29-2020 and 03-22-2021:
+Public Sentiment between 2021-11-05 00:00:00+00:00 and 2021-11-21 00:00:00+00:00: 
 
-Positive Tweets: 25.4336761614079 %
-Negative Tweets: 34.31111038955768 %
-Neutral Tweets: 40.25521344903443 %
+Positive Tweets: 5098
+Neutral Tweets: 11037
+Negative Tweets: 8433
 
-Total Tweets: 615,955
+Total Tweets: 24568
+
+Keywords:
+1. ('farmersprotest', 9343)
+2. ('farmers', 1907)
+3. ('farmlaws', 1760)
+4. ('farmlawsrepealed', 1751)
+5. ('farm laws', 1518)
+6. ('farmlaws farmersprotest', 1123)
+7. ('farmlawsrepealed farmersprotest', 1051)
+8. ('farmersprotest farmlaws', 899)
+9. ('farmersprotest farmlawsrepealed', 882)
+10. ('bjp', 605)
+
+Positive Keywords: 
+1. ('farmersprotest', 2623)
+2. ('farmers', 456)
+3. ('farmlawsrepealed', 317)
+4. ('farmlaws', 291)
+5. ('farmers farmersprotest', 213)
+6. ('farmlawsrepealed farmersprotest', 195)
+7. ('farmlaws farmersprotest', 191)
+8. ('farmersprotest farmlawsrepealed', 186)
+9. ('farmersprotest farmlaws', 172)
+10. ('victory farmers', 140)
+
+Neutral Keywords: 
+1. ('farmersprotest', 4551)
+2. ('farmlaws', 976)
+3. ('farmlawsrepealed', 927)
+4. ('farm laws', 907)
+5. ('farmers', 661)
+6. ('farmlaws farmersprotest', 650)
+7. ('farmlawsrepealed farmersprotest', 546)
+8. ('farmersprotest farmlaws', 480)
+9. ('farmersprotest farmlawsrepealed', 410)
+10. ('repeal farm', 301)
+
+Negative Keywords: 
+1. ('farmersprotest', 2169)
+2. ('farmers', 790)
+3. ('farm laws', 510)
+4. ('farmlawsrepealed', 507)
+5. ('farmlaws', 493)
+6. ('bjp', 369)
+7. ('farmlawsrepealed farmersprotest', 310)
+8. ('farmersprotest farmlawsrepealed', 286)
+9. ('farmlaws farmersprotest', 282)
+10. ('farmersprotest farmlaws', 247)
 ```
 <img width="600" alt="Indian Farmers' Protest Chart 2" src="Screenshot 2023-08-05 at 10.04.43 AM.png">
 
@@ -109,39 +157,70 @@ However, some of the negative tweets were likely also directed towards the gover
 
 ---
 
-For the last function, I found the following:
-```
-Keywords: "riot", "nuisance", "traffic", "problem"
-Percentage: 0.008667972395274295 %
-Number of Tweets with Keywords: 94
-```
-So it turns out that people care more about the movement's causes rather than how it inconveniences them.
-
----
-
 ### Women's March
 
 For the first function, I found the following:
 ```
-Positive Tweets: 37.00666666666667 %
-Negative Tweets: 18.593333333333334 %
-Neutral Tweets: 44.4 %
+Public Sentiment between 2017-02-08 05:14:24 and 2017-02-07 04:09:25: 
+
+Positive Tweets: 3,034
+Neutral Tweets: 9,209
+Negative Tweets: 2,757
 
 Total Tweets: 15,000
+
+Keywords:
+1. ('womensmarch', 6393)
+2. ('rt womensmarch', 2644)
+3. ('future female', 1781)
+4. ('female references', 1671)
+5. ('references womensmarch', 1670)
+6. ('womensmarch htt', 1654)
+7. ('education devos', 1489)
+8. ('communities womensmarch', 1488)
+9. ('womensmarch power', 1486)
+10. ('demi lovato', 944)
+
+Positive Keywords: 
+1. ('womensmarch', 1534)
+2. ('rt womensmarch', 1020)
+3. ('unstoppable womensmarch', 641)
+4. ('womensmarch rt', 640)
+5. ('cecilerichards movement', 640)
+6. ('shoutout womensmarch', 384)
+7. ('hillaryclinton shoutout', 381)
+8. ('womensmarch thank', 380)
+9. ('womens march', 167)
+10. ('womensmarch womensmarch', 140)
+
+Neutral Keywords: 
+1. ('womensmarch', 4313)
+2. ('future female', 1751)
+3. ('female references', 1671)
+4. ('references womensmarch', 1670)
+5. ('womensmarch htt', 1654)
+6. ('rt womensmarch', 1581)
+7. ('womensmarch power', 1486)
+8. ('communities womensmarch', 1485)
+9. ('education devos', 1485)
+10. ('demi', 839)
+
+Negative Keywords: 
+1. ('womensmarch', 546)
+2. ('genital mutilation', 450)
+3. ('threat genital', 442)
+4. ('amymek washington', 441)
+5. ('rt amymek', 441)
+6. ('amymek', 441)
+7. ('sharia', 164)
+8. ('islam sharia', 125)
+9. ('war women', 124)
+10. ('sandratxas islam', 122)
 ```
 <img width="600" alt="Women's March Protest Chart 1" src="Screenshot 2023-08-05 at 10.01.24 AM.png">
 
 
 The overwhelming majority (about 81.4%) is either unconcerned or supportive of the Women's March movement. About 18.6% are negatively geared toward it. This result is unsurprising considering that this dataset only covers tweets from the first Women's March. However, since the movement's leaders became wrapped up in [several controversies](https://time.com/5505787/womens-march-washington-controversy/), I wonder how that number would change now.
-
----
-
-For the last function, I found the following:
-```
-Keywords: "riot", "nuisance", "traffic", "problem"
-Percentage: 0.0 %
-```
-This result makes sense considering both the dataset's limits and how the overwhelming majority was positively inclined toward the movement. The dataset only included tweets with the tag, #WomensMarch, so it's likely that not many tweets within the dataset obviously criticized the movement.
 
 ## Conclusion
 
