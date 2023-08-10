@@ -242,15 +242,19 @@ Wordcloud (Positive):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers 2/Positive.png">
 
+Some notable words include 'Republic Day,' 'Red Fort,' 'support farmers,' 'PeacefulProtestContinues,' 'Peace Wins,' and 'solidarity.'
 ```
 Wordcloud (Neutral):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Neutral" src="/Farmers 2/Neutral.png">
 
+Most of the words in the neutral wordcloud refer to the events of the day ('Republic Day,' 'violence,' 'Delhi Police,' 'Sikh,' 'Tractor Rally').
 ```
 Wordcloud (Negative):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Negative" src="/Farmers 2/Negative.png">
+
+Some major words include 'Delhi,' 'police,' 'shame,' and 'violence.'
 
 ---
 
