@@ -166,11 +166,11 @@ During the Republic Day protest, "[the violence and hoisting of a religious flag
 ```
 Public Sentiment between 2021-01-26 00:00:00+00:00 and 2021-02-01 00:00:00+00:00: 
 
-Positive Tweets: 3423
-Neutral Tweets: 16379
-Negative Tweets: 18936
+Positive Tweets: 3,423
+Neutral Tweets: 16,379
+Negative Tweets: 18,936
 
-Total Tweets: 38738
+Total Tweets: 38,738
 ```
 <img width="600" alt = "Indian Farmers' Protest Chart 4" src="Screenshot 2023-08-05 at 10.02.30 AM.png">
 
@@ -190,6 +190,7 @@ Keywords:
 9. ('flag', 525)
 10. ('bjp', 499)
 ```
+Some keywords that became more popular include 'delhi police,' 'sikhs,' and 'flag.' These results make sense, considering that each of these keywords are related to the events of the Republic's Day violence.
 ```
 Positive Keywords: 
 1. ('farmersprotest', 1430)
@@ -203,6 +204,7 @@ Positive Keywords:
 9. ('republic', 80)
 10. ('peace wins', 73)
 ```
+Some popular keywords used positively include 'peacefulprotestcontinues' and 'peace wins.' The likely explanation for their sudden usage may be to reduce the backlash against the Indian farmers' protests due to the Republic's Day violence.
 ```
 Neutral Keywords: 
 1. ('farmersprotest', 6634)
@@ -216,6 +218,7 @@ Neutral Keywords:
 9. ('delhi police', 288)
 10. ('farmerprotest gazipurborder', 277)
 ```
+Some neutral keywords include 'tractor rally,' 'delhi police,' 'rakeshtikait farmersprotest,' and 'farmerprotest gazipurborder.' These tweets are likely news outlets or reporters discussing the events that occurred during the Republic's Day violence. Rakesh Tikait (from rakeshtikait farmersprotest') is a spokesperson of the Bharatiya Kisan Union which notably withdrew from the protests after the violence.
 ```
 Negative Keywords: 
 1. ('farmersprotest', 4632)
@@ -229,6 +232,7 @@ Negative Keywords:
 9. ('flag', 331)
 10. ('protesting farmers', 323)
 ```
+The negative keywords topics do not differ much from the overall keywords.
 ```
 Wordcloud (Positive):
 ```
