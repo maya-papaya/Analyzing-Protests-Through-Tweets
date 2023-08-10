@@ -68,7 +68,11 @@ Neutral Tweets: 11037
 Negative Tweets: 8433
 
 Total Tweets: 24568
+```
+<img width="600" alt="Indian Farmers' Protest Chart 2" src="Screenshot 2023-08-05 at 10.04.43 AM.png">
 
+The percentage of negative tweets decreases by 0.6%, while the percentage of positive tweets increases by 1%. There is almost no change between the total public sentiment and this instance.
+```
 Keywords:
 1. ('farmersprotest', 9343)
 2. ('farmers', 1907)
@@ -80,7 +84,9 @@ Keywords:
 8. ('farmersprotest farmlaws', 899)
 9. ('farmersprotest farmlawsrepealed', 882)
 10. ('bjp', 605)
-
+```
+The most popular keywords seem to be 'farmlaws' and 'farmlawsrepealed,' both likely hashtags. There seem to be a lot more emphasis on the farmers rather than just the farm laws themselves. 
+```
 Positive Keywords: 
 1. ('farmersprotest', 2623)
 2. ('farmers', 456)
@@ -92,7 +98,8 @@ Positive Keywords:
 8. ('farmersprotest farmlawsrepealed', 186)
 9. ('farmersprotest farmlaws', 172)
 10. ('victory farmers', 140)
-
+```
+```
 Neutral Keywords: 
 1. ('farmersprotest', 4551)
 2. ('farmlaws', 976)
@@ -104,7 +111,8 @@ Neutral Keywords:
 8. ('farmersprotest farmlaws', 480)
 9. ('farmersprotest farmlawsrepealed', 410)
 10. ('repeal farm', 301)
-
+```
+```
 Negative Keywords: 
 1. ('farmersprotest', 2169)
 2. ('farmers', 790)
@@ -117,9 +125,6 @@ Negative Keywords:
 9. ('farmlaws farmersprotest', 282)
 10. ('farmersprotest farmlaws', 247)
 ```
-<img width="600" alt="Indian Farmers' Protest Chart 2" src="Screenshot 2023-08-05 at 10.04.43 AM.png">
-
-The percentage of negative tweets decreases by 0.6%, while the percentage of positive tweets increases by 1%. There is almost no change between the total public sentiment and this instance.
 
 ---
 
@@ -168,7 +173,11 @@ Neutral Tweets: 9,209
 Negative Tweets: 2,757
 
 Total Tweets: 15,000
+```
+<img width="600" alt="Women's March Protest Chart 1" src="Screenshot 2023-08-05 at 10.01.24 AM.png">
 
+The overwhelming majority (about 81.4%) is either unconcerned or supportive of the Women's March movement. About 18.6% are negatively geared toward it. This result is unsurprising considering that this dataset only covers tweets from the first Women's March. However, since the movement's leaders became wrapped up in [several controversies](https://time.com/5505787/womens-march-washington-controversy/), I wonder how that number would change now.
+```
 Keywords:
 1. ('womensmarch', 6393)
 2. ('rt womensmarch', 2644)
@@ -180,7 +189,9 @@ Keywords:
 8. ('communities womensmarch', 1488)
 9. ('womensmarch power', 1486)
 10. ('demi lovato', 944)
-
+```
+Some of the most popularly used keywords include 'future female' and 'womensmarch power.' These results make sense considering how supported the movement was.
+```
 Positive Keywords: 
 1. ('womensmarch', 1534)
 2. ('rt womensmarch', 1020)
@@ -192,7 +203,8 @@ Positive Keywords:
 8. ('womensmarch thank', 380)
 9. ('womens march', 167)
 10. ('womensmarch womensmarch', 140)
-
+```
+```
 Neutral Keywords: 
 1. ('womensmarch', 4313)
 2. ('future female', 1751)
@@ -204,7 +216,8 @@ Neutral Keywords:
 8. ('communities womensmarch', 1485)
 9. ('education devos', 1485)
 10. ('demi', 839)
-
+```
+```
 Negative Keywords: 
 1. ('womensmarch', 546)
 2. ('genital mutilation', 450)
@@ -217,10 +230,15 @@ Negative Keywords:
 9. ('war women', 124)
 10. ('sandratxas islam', 122)
 ```
-<img width="600" alt="Women's March Protest Chart 1" src="Screenshot 2023-08-05 at 10.01.24 AM.png">
+The most popular negative keywords seem to be 'genital mutilation,' 'threat genital,' 'amymek,' 'sharia,' and 'war women.' 
+
+The phrases, 'genital mutilation' and 'threat genital,' likely come from _______________________.
+
+The phrase 'sharia' refers to Shariah law. The Women's March in 2017 was wrapped up with conversations around Islam, including whether or not to [protest Shariah law.](https://torontosun.com/2017/01/26/farzana-hassan-when-will-womens-march-protest-sharia-law). 
+
+An explanation for the Amy Mek reference may be because of her support of Donald Trump. *The New York Times* quoted her, "Amy Mek, who has more than 85,000 Twitter followers, is one of the women Ms. Suhler has gotten to know through their shared support of Mr. Trump. 'My belief has been that women’s rights is about treating men and women equally,' Ms. Mek said. 'Trump swings at men and women equally hard, but somehow if a woman is a Trump target, he is a misogynist.'" 
 
 
-The overwhelming majority (about 81.4%) is either unconcerned or supportive of the Women's March movement. About 18.6% are negatively geared toward it. This result is unsurprising considering that this dataset only covers tweets from the first Women's March. However, since the movement's leaders became wrapped up in [several controversies](https://time.com/5505787/womens-march-washington-controversy/), I wonder how that number would change now.
 
 ## Conclusion
 
@@ -267,5 +285,7 @@ I think most protesters who are 'disruptive' prefer the latter option. As one pr
 * Vesoulis, Abby. "Women First Marched to Challenge Trump. Now They Are Challenging Each Other." *Time,* 19 Jan. 2019, time.com/5505787/womens-march-washington-controversy/. Accessed 8 Aug. 2023.
 
 * Frayer, Lauren. Bond, Shannon. "Twitter In Standoff With India's Government Over Free Speech And Local Law." *NPR,* 18 Feb. 2021, www.npr.org/2021/02/17/968641246/twitter-in-standoff-with-indias-government-over-free-speech-and-local-law. Accessed 8 Aug. 2023.
+
+* Roller, Emma. "The Women Who Like Donald Trump." *The New York Times,* 10 May, 2016, www.nytimes.com/2016/05/10/opinion/campaign-stops/the-women-who-like-donald-trump.html. Accessed 10 Aug. 2023.
 
 
