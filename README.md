@@ -72,6 +72,22 @@ Total Tweets: 24568
 <img width="600" alt="Indian Farmers' Protest Chart 2" src="Screenshot 2023-08-05 at 10.04.43 AM.png">
 
 The percentage of negative tweets decreases by 0.6%, while the percentage of positive tweets increases by 1%. There is almost no change between the total public sentiment and this instance.
+
+---
+
+I also thought that a certain instance where "a farmer's protest on 5 November turned violent and a MP's car window was smashed," according to Wikipedia, would be interesting to investigate.
+```
+Public Sentiment between 2021-11-05 00:00:00+00:00 and 2021-11-21 00:00:00+00:00: 
+
+Positive Tweets: 5098
+Neutral Tweets: 11037
+Negative Tweets: 8433
+
+Total Tweets: 24568
+```
+<img width="600" alt="Indian Farmers' Protest Chart 3" src="Screenshot 2023-08-05 at 10.03.37 AM.png">
+
+This time, the percentage of negative tweets decreases by 1%, while the percentage of positive tweets increases by 3%. Since one smashed car window is more irrelevant to most people's lives and it's easier to distance one's self from that circumstance, it's possible that there was a less negative reception.
 ```
 Keywords:
 1. ('farmersprotest', 9343)
@@ -146,22 +162,6 @@ Wordcloud (Negative):
 
 ---
 
-I also thought that a certain instance where "a farmer's protest on 5 November turned violent and a MP's car window was smashed," according to Wikipedia, would be interesting to investigate.
-```
-Between 11-05-2021 and 11-21-2021:
-
-Positive Tweets: 27.842227378190255 %
-Negative Tweets: 33.75259494443766 %
-Neutral Tweets: 38.40517767737208 %
-
-Total Tweets: 24,567
-```
-<img width="600" alt="Indian Farmers' Protest Chart 3" src="Screenshot 2023-08-05 at 10.03.37 AM.png">
-
-This time, the percentage of negative tweets decreases by 1%, while the percentage of positive tweets increases by 3%. Since one smashed car window is more irrelevant to most people's lives and it's easier to distance one's self from that circumstance, it's possible that there was a less negative reception.
-
----
-
 During the Republic Day protest, "[the violence and hoisting of a religious flag on the ramparts of the Red Fort made the Bharatiya Kisan Union (Bhanu) and All India Kisan Sangharsh Co-ordination Committee decide to quit the farmers' protest.](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" I wondered if that specific protest (combined with how "several metro stations were closed and mobile internet was suspended by police") affected the sentiment towards the protest.
 ```
 Public Sentiment between 2021-01-26 00:00:00+00:00 and 2021-02-01 00:00:00+00:00: 
@@ -229,6 +229,20 @@ Negative Keywords:
 9. ('flag', 331)
 10. ('protesting farmers', 323)
 ```
+```
+Wordcloud (Positive):
+```
+<img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers 2/Positive.png">
+
+```
+Wordcloud (Neutral):
+```
+<img width="600" alt="Indian Farmers' Protest Wordcloud Neutral" src="/Farmers 2/Neutral.png">
+
+```
+Wordcloud (Negative):
+```
+<img width="600" alt="Indian Farmers' Protest Wordcloud Negative" src="/Farmers 2/Negative.png">
 
 ---
 
@@ -330,11 +344,6 @@ Wordcloud (Negative):
 ### The Indian Farmers' Protest
 
 Twitter notably had to jump hurdles with [the Indian government](https://www.npr.org/2021/02/17/968641246/twitter-in-standoff-with-indias-government-over-free-speech-and-local-law) about suppressing the backlash against the farm laws. Accounts were suspended at first and hashtags were reduced. As Twitter struggled between free speech and the government's orders, I wonder if this affected the results somehow.
-
-<img width="600" alt="Indian Farmers' Protest Chart 1" src="Screenshot 2023-08-05 at 10.05.24 AM.png">
-<img width="600" alt="Indian Farmers' Protest Chart 2" src="Screenshot 2023-08-05 at 10.04.43 AM.png">
-<img width="600" alt="Indian Farmers' Protest Chart 3" src="Screenshot 2023-08-05 at 10.03.37 AM.png">
-<img width="600" alt = "Indian Farmers' Protest Chart 4" src="Screenshot 2023-08-05 at 10.02.30 AM.png">
 
 However, the public seems to be divided equally between negative, neutral, and positive reactions. The majority is overall neutral. The rest is more negatively positioned towards the movement, while the minority of tweets are positive. The traffic caused and the MP's smashed window seemed to have almost no change compared to the total sentiment. During the Republic's Day violence, though, the number of negative tweets drastically went up to almost 50% of the total number of tweets. Again, though, these results may not reflect the true sentiment towards the movement: the Indian government tried to suppress Twitter and shut down the internet in order to prevent support for the farmers. Also, this analysis doesn't exactly specify whether the negative tweets were directed towards the farmers or the government (it's likely that they were directed toward both).
 
