@@ -129,6 +129,21 @@ Negative Keywords:
 ```
 Again, there isn't much difference between the different sentiment categories of keywords. It seems, though, that this category of tweets is calling on Modi'sBharatiya Janata Party (B.J.P.).
 
+```
+Wordcloud (Positive):
+```
+<img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers 2/Positive.png">
+
+```
+Wordcloud (Neutral):
+```
+<img width="600" alt="Indian Farmers' Protest Wordcloud Neutral" src="/Farmers 2/Neutral.png">
+
+```
+Wordcloud (Negative):
+```
+<img width="600" alt="Indian Farmers' Protest Wordcloud Negative" src="/Farmers 2/Negative.png">
+
 ---
 
 I also thought that a certain instance where "a farmer's protest on 5 November turned violent and a MP's car window was smashed," according to Wikipedia, would be interesting to investigate.
@@ -240,6 +255,23 @@ The most popular negative keywords seem to be 'genital mutilation,' 'threat geni
 The phrases, 'sharia' and 'islam sharia,' refer to Shariah law. The Women's March in 2017 was wrapped up with conversations around Islam, including whether or not to [protest Shariah law.](https://torontosun.com/2017/01/26/farzana-hassan-when-will-womens-march-protest-sharia-law).
 
 An explanation for the Amy Mek reference may be because of her support of Donald Trump. *The New York Times* quoted her, "Amy Mek, who has more than 85,000 Twitter followers, is one of the women Ms. Suhler has gotten to know through their shared support of Mr. Trump. 'My belief has been that women’s rights is about treating men and women equally,' Ms. Mek said. 'Trump swings at men and women equally hard, but somehow if a woman is a Trump target, he is a misogynist.'" 
+
+```
+Wordcloud (Positive):
+```
+<img width="600" alt="Women's March Wordcloud Positive" src="/WomensMarch/Positive.png">
+
+```
+Wordcloud (Neutral):
+```
+<img width="600" alt="Women's March Wordcloud Neutral" src="/WomensMarch/Neutral.png">
+
+```
+Wordcloud (Negative):
+```
+<img width="600" alt="Women's March Wordcloud Negative" src="/WomensMarch/Negative.png">
+
+---
 
 ## Conclusion
 
