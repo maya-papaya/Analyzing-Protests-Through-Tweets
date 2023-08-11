@@ -225,7 +225,7 @@ Neutral Keywords:
 Some neutral keywords include 'tractor rally,' 'delhi police,' 'rakeshtikait farmersprotest,' and 'farmerprotest gazipurborder.' These tweets are likely news outlets or reporters discussing the events that occurred during the Republic's Day violence. 
 
 Rakesh Tikait (from rakeshtikait farmersprotest') is a spokesperson of the Bharatiya Kisan Union which notably withdrew from the protests after the violence.
-The Ghazipur border was a protest site for the farmers. Tikait was reported to have broken down at the site, which may explain why both were mentioned more frequently.
+The Ghazipur border was a protest site for the farmers. [Tikait was reported to have broken down at the site](https://timesofindia.indiatimes.com/india/farmers-refuse-to-vacate-ghazipur-protest-site-singhu-turns-into-fortress-highlights/articleshow/80575153.cms), which may explain why both were mentioned more frequently.
 ```
 Negative Keywords: 
 1. ('farmersprotest', 4632)
