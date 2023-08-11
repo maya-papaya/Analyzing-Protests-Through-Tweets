@@ -290,6 +290,8 @@ Keywords:
 10. ('demi lovato', 944)
 ```
 Some of the most popularly used keywords include 'future female' and 'womensmarch power.' These results make sense, considering how supported the movement was.
+
+Demi Lovato also [spoke at the march to about 750,000 people](https://www.justjaredjr.com/2017/01/21/demi-lovato-miley-cyrus-yara-shahidi-make-their-voices-heard-at-womens-march/), which explains her having being mentioned frequently.
 ```
 Positive Keywords: 
 1. ('womensmarch', 1534)
