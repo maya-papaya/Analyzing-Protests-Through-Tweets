@@ -344,7 +344,7 @@ Wordcloud (Positive):
 ```
 <img width="600" alt="Women's March Wordcloud Positive" src="/WomensMarch/Positive.png">
 
-Some words that pop out include 'shoutout WomensMarch' and 'unstoppable.' Hillary Clinton and Cecile Richards seemed to be mentioned frequently.
+Some words that pop out include 'shoutout WomensMarch' and 'unstoppable.' Hillary Clinton and Cecile Richards seemed to be mentioned frequently. Demi Lovato and Miley Cyrus are also mentioned too, as well as Cyrus’s organization the Happy Hippie Foundation.
 ```
 Wordcloud (Neutral):
 ```
