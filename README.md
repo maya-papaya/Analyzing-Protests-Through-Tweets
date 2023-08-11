@@ -13,11 +13,11 @@ I looked at two protests: the farmers' protest in India and the Women's March mo
 The Indian farmers' protest lasted between 2020 and 2021. It was in response to laws passed by Prime Minister Narendra Modi which would minimize government involvement and instead encourage private investors. "More than 60 percent of India’s 1.3 billion people still depend primarily on agriculture for their livelihood, though the sector accounts for only about 15 percent of the country’s economic output," writes the New York Times, "For years, debts and bankruptcies have been driving farmers to high rates of suicide." Finally, the laws were repealed.
 
 ### Women's March
-The Women's March movement began in 2017, the day after the inauguration of former President Donald Trump, due to his misogynistic rhetoric. It was recorded as the largest protest in U.S. history. Eventually, their mission adapted to include many issues - as the organization once said, "women's rights are human rights." Now, they have advocated on topics including "women's rights, immigration reform, healthcare reform, disability justice, reproductive rights, the environment, LGBTQ rights, racial equality, freedom of religion, workers' rights and tolerance" according to Wikipedia. To this day, they still arrange annual protests.
+The Women's March movement began in 2017, the day after the inauguration of former President Donald Trump, due to his misogynistic rhetoric. It was recorded as the largest protest in U.S. history. Eventually, their mission adapted to include many issues - as the organization once said, "women's rights are human rights." Now, they have advocated on topics including "women's rights, immigration reform, healthcare reform, disability justice, reproductive rights, the environment, LGBTQ rights, racial equality, freedom of religion, workers' rights and tolerance," according to Wikipedia. To this day, they still arrange annual protests.
 
 ---
 
-I divided my process into three parts: finding datasets, fine-tuning my model, and finally conducting my analysis.
+I divided my process into three parts: finding datasets, fine-tuning my model, and finally, conducting my analysis.
 
 ## Finding Datasets
 I used a [HuggingFace dataset](https://huggingface.co/datasets/tweet_eval/viewer/sentiment/train) to train my model in sentiment analysis.
@@ -36,7 +36,7 @@ I had three functions:
 
 * **Keyword Extractor (parameters: keywords):** determines whether the issue itself is being spread, or whether the protester’s actions distract from that. I had a list, *keywords*, that held all the keyword variations that are related to a protest rather than the movement itself (e.g., keywords like "riot", "nuisance", "traffic", "problem", etc.). For this function, I used a KeyBERT model to extract keywords.
 
-Here were the results and conclusions I drew from my analysis:
+Here are the results and conclusions I drew from my analysis:
 
 ## Results
 
@@ -55,11 +55,11 @@ Total Tweets: 1,084,452
 <img width="600" alt="Indian Farmers' Protest Chart 1" src="Screenshot 2023-08-05 at 10.05.24 AM.png">
 
 
-The majority (about 40.7%) is unconcerned or neutral towards the Indian farmers' protests. About 34.9% are negatively geared toward it. The minority of tweets are supportive towards the movement.
+The majority (about 40.7%) is unconcerned or neutral towards the Indian farmers' protests. About 34.9% are negatively geared toward it. The minority of tweets are supportive of the movement.
 
 ---
 
-For the second function, I decided to look at a specific instance where on November 29th, "[the protesters announced that they would block five further points of entry into Delhi,](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" according to Wikipedia. Despite [overwhelming support for India's farmers](https://foreignpolicy.com/2021/11/28/farmers-protests-india-martyrs/), I was curious to see whether people would view this as a nuisance or support it.
+For the second function, I decided to look at a specific instance where, on November 29th, "[the protesters announced that they would block five further points of entry into Delhi,](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" according to Wikipedia. Despite [overwhelming support for India's farmers](https://foreignpolicy.com/2021/11/28/farmers-protests-india-martyrs/), I was curious to see whether people would view this as a nuisance or support it.
 ```
 Public Sentiment between 2021-11-05 00:00:00+00:00 and 2021-11-21 00:00:00+00:00: 
 
@@ -75,7 +75,7 @@ The percentage of negative tweets decreases by 0.6%, while the percentage of pos
 
 ---
 
-I also thought that a certain instance where "a farmer's protest on 5 November turned violent and a MP's car window was smashed," according to Wikipedia, would be interesting to investigate.
+I also thought that a certain instance where "a farmer's protest on 5 November turned violent and an MP's car window was smashed," according to Wikipedia, would be interesting to investigate.
 ```
 Public Sentiment between 2021-11-05 00:00:00+00:00 and 2021-11-21 00:00:00+00:00: 
 
@@ -101,7 +101,7 @@ Keywords:
 9. ('farmersprotest farmlawsrepealed', 882)
 10. ('bjp', 605)
 ```
-The most popular keywords seem to be 'farmlaws' and 'farmlawsrepealed,' both likely hashtags. There seem to be a lot more emphasis on the farmers rather than just the farm laws themselves. 
+The most popular keywords seem to be 'farmlaws' and 'farmlawsrepealed,' both likely hashtags. There seems to be a lot more emphasis on the farmers rather than just the farm laws themselves. 
 ```
 Positive Keywords: 
 1. ('farmersprotest', 2623)
@@ -115,7 +115,7 @@ Positive Keywords:
 9. ('farmersprotest farmlaws', 172)
 10. ('victory farmers', 140)
 ```
-Again, 'farmlawsrepealed' comes in at third place. 'Victory farmers,' likely celebrating the Indian farmers' victories and successful protests, also seems to be popular.
+Again, 'farmlawsrepealed' comes in third place. 'Victory farmers,' likely celebrating the Indian farmers' victories and successful protests, also seems to be popular.
 ```
 Neutral Keywords: 
 1. ('farmersprotest', 4551)
@@ -194,7 +194,7 @@ Keywords:
 9. ('flag', 525)
 10. ('bjp', 499)
 ```
-Some keywords that became more popular include 'delhi police,' 'sikhs,' and 'flag.' These results make sense, considering that each of these keywords are related to the events of the Republic's Day violence.
+Some keywords that became more popular include 'delhi police,' 'sikhs,' and 'flag.' These results make sense, considering that each of these keywords are related to the events of the Republic Day violence.
 ```
 Positive Keywords: 
 1. ('farmersprotest', 1430)
@@ -208,7 +208,7 @@ Positive Keywords:
 9. ('republic', 80)
 10. ('peace wins', 73)
 ```
-Some popular keywords used positively include 'peacefulprotestcontinues' and 'peace wins.' The likely explanation for their sudden usage may be to reduce the backlash against the Indian farmers' protests due to the Republic's Day violence.
+Some popular keywords used positively include 'peacefulprotestcontinues' and 'peace wins.' The likely explanation for their sudden usage may be to reduce the backlash against the Indian farmers' protests due to the Republic Day violence.
 ```
 Neutral Keywords: 
 1. ('farmersprotest', 6634)
@@ -222,9 +222,9 @@ Neutral Keywords:
 9. ('delhi police', 288)
 10. ('farmerprotest gazipurborder', 277)
 ```
-Some neutral keywords include 'tractor rally,' 'delhi police,' 'rakeshtikait farmersprotest,' and 'farmerprotest gazipurborder.' These tweets are likely news outlets or reporters discussing the events that occurred during the Republic's Day violence. 
+Some neutral keywords include 'tractor rally,' 'delhi police,' 'rakeshtikait farmersprotest,' and 'farmerprotest gazipurborder.' These tweets are likely from news outlets or reporters discussing the events that occurred during the Republic Day violence. 
 
-Rakesh Tikait (from rakeshtikait farmersprotest') is a spokesperson of the Bharatiya Kisan Union which notably withdrew from the protests after the violence.
+Rakesh Tikait (from 'rakeshtikait farmersprotest') is a spokesperson of the Bharatiya Kisan Union, which notably withdrew from the protests after the violence.
 The Ghazipur border was a protest site for the farmers. [Tikait was reported to have broken down at the site](https://timesofindia.indiatimes.com/india/farmers-refuse-to-vacate-ghazipur-protest-site-singhu-turns-into-fortress-highlights/articleshow/80575153.cms), which may explain why both were mentioned more frequently.
 ```
 Negative Keywords: 
@@ -245,7 +245,7 @@ Wordcloud (Positive):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers 2/Positive.png">
 
-Some notable words include 'Republic Day,' 'Red Fort,' 'support farmers,' 'PeacefulProtestContinues,' 'Peace Wins,' and 'solidarity.'
+Some words that stand out include 'Republic Day,' 'Red Fort,' 'support farmers,' 'PeacefulProtestContinues,' 'Peace Wins,' and 'solidarity.'
 ```
 Wordcloud (Neutral):
 ```
@@ -289,7 +289,7 @@ Keywords:
 9. ('womensmarch power', 1486)
 10. ('demi lovato', 944)
 ```
-Some of the most popularly used keywords include 'future female' and 'womensmarch power.' These results make sense considering how supported the movement was.
+Some of the most popularly used keywords include 'future female' and 'womensmarch power.' These results make sense, considering how supported the movement was.
 ```
 Positive Keywords: 
 1. ('womensmarch', 1534)
@@ -364,11 +364,11 @@ Wordcloud (Negative):
 
 Twitter notably had to jump hurdles with [the Indian government](https://www.npr.org/2021/02/17/968641246/twitter-in-standoff-with-indias-government-over-free-speech-and-local-law) about suppressing the backlash against the farm laws. Accounts were suspended at first and hashtags were reduced. As Twitter struggled between free speech and the government's orders, I wonder if this affected the results somehow.
 
-However, the public seems to be divided equally between negative, neutral, and positive reactions. The majority is overall neutral. The rest is more negatively positioned towards the movement, while the minority of tweets are positive. The traffic caused and the MP's smashed window seemed to have almost no change compared to the total sentiment. During the Republic's Day violence, though, the number of negative tweets drastically went up to almost 50% of the total number of tweets. Again, though, these results may not reflect the true sentiment towards the movement: the Indian government tried to suppress Twitter and shut down the internet in order to prevent support for the farmers. Also, this analysis doesn't exactly specify whether the negative tweets were directed towards the farmers or the government (it's likely that they were directed toward both).
+However, the public seems to be divided equally between negative, neutral, and positive reactions. The majority is overall neutral. The rest is more negatively positioned towards the movement, while the minority of tweets are positive. The traffic caused and the MP's smashed window seemed to have almost no change compared to the total sentiment. During the Republic's Day violence, though, the number of negative tweets drastically went up to almost 50% of the total number of tweets. Again, though, these results may not reflect the true sentiment towards the movement: the Indian government tried to suppress Twitter and shut down the internet in order to prevent support for the farmers. Also, this analysis doesn't exactly specify whether the negative tweets were directed toward the farmers or the government (it's likely that they were directed toward both).
 
 ### Women's March
 
-The Women's March during its first protest seemed to be greatly supported. However, I think it would be an interesting project in the future to research how they are viewed today. An explanation for its widely-varying keywords may be because it was "[more than an anti-Trump protest,](https://www.vox.com/2017/1/21/14342942/womens-march-inauguration-trump-protest-goals-feminism-demands)" as *Vox* writes. The movement touched on many different conversations and issues considered especially vulnerable under the new Trump administration, "[including women’s and reproductive rights, criminal justice, defense of the environment and the rights of immigrants, Muslims, LGBT people and the disabled.](https://www.history.com/this-day-in-history/womens-march)" This explains why conversations around Shariah law were so prevalent throughout the march.
+The Women's March, during its first protest, seemed to be greatly supported. However, I think it would be an interesting project in the future to research how they are viewed today. An explanation for its widely-varying keywords may be because it was "[more than an anti-Trump protest,](https://www.vox.com/2017/1/21/14342942/womens-march-inauguration-trump-protest-goals-feminism-demands)" as *Vox* writes. The movement touched on many different conversations and issues considered especially vulnerable under the new Trump administration, "[including women’s and reproductive rights, criminal justice, defense of the environment and the rights of immigrants, Muslims, LGBT people and the disabled.](https://www.history.com/this-day-in-history/womens-march)" This explains why conversations around Shariah law were so prevalent throughout the march.
 
 ### As a whole...
 
