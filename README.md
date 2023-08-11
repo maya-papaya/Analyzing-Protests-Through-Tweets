@@ -368,7 +368,7 @@ However, the public seems to be divided equally between negative, neutral, and p
 
 ### Women's March
 
-The Women's March during its first protest seemed to be greatly supported. However, I think it would be an interesting project in the future to research how they are viewed today. An explanation for its widely-varying keywords may be because it was "[more than an anti-Trump protest,](https://www.vox.com/2017/1/21/14342942/womens-march-inauguration-trump-protest-goals-feminism-demands)" as *Vox* writes. The movement touched on many different conversations and issues.
+The Women's March during its first protest seemed to be greatly supported. However, I think it would be an interesting project in the future to research how they are viewed today. An explanation for its widely-varying keywords may be because it was "[more than an anti-Trump protest,](https://www.vox.com/2017/1/21/14342942/womens-march-inauguration-trump-protest-goals-feminism-demands)" as *Vox* writes. The movement touched on many different conversations and issues considered especially vulnerable under the new Trump administration, "[including women’s and reproductive rights, criminal justice, defense of the environment and the rights of immigrants, Muslims, LGBT people and the disabled.](https://www.history.com/this-day-in-history/womens-march)" This explains why conversations around Shariah law were so prevalent throughout the march.
 
 ### As a whole...
 
