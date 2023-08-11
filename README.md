@@ -32,9 +32,9 @@ I had three functions:
 
 * **Public Sentiment:** determines the majority sentiment towards the movement
 
-* **Public Sentiment within a certain time period (parameters: start_date, end_date):** determines whether a certain protest (for example, a riot) affects how the movement is viewed
+* **Segmenting Dataset by Date (parameters: start_date, end_date):** segments a dataset within a specified time period.
 
-* **Keyword Extractor (parameters: keywords):** determines whether the issue itself is being spread, or whether the protester’s actions distract from that. I had a list, *keywords*, that held all the keyword variations that are related to a protest rather than the movement itself (e.g., keywords like "riot", "nuisance", "traffic", "problem", etc.). For this function, I used a KeyBERT model to extract keywords.
+* **Keyword Extractor:** finds all the most popular keywords within a dataset of tweets. For this function, I used a KeyBERT model to extract keywords.
 
 Here are the results and conclusions I drew from my analysis:
 
@@ -115,7 +115,7 @@ Positive Keywords:
 9. ('farmersprotest farmlaws', 172)
 10. ('victory farmers', 140)
 ```
-Again, 'farmlawsrepealed' comes in third place. 'Victory farmers,' likely celebrating the Indian farmers' victories and successful protests, also seems to be popular.
+Again, 'farmlawsrepealed' comes in third place. The phrase, 'victory farmers,' likely celebrating the Indian farmers' victories and successful protests, also seems to be popular.
 ```
 Neutral Keywords: 
 1. ('farmersprotest', 4551)
@@ -129,7 +129,7 @@ Neutral Keywords:
 9. ('farmersprotest farmlawsrepealed', 410)
 10. ('repeal farm', 301)
 ```
-There isn't a major difference between the positive keywords and neutral keywords, except for a less celebratory mood (no 'victory farmers'). These keywords seem to be more interested in targeting the cause rather than being explicitly supportive.
+There isn't a major difference between the positive keywords and neutral keywords, except for a less celebratory mood (no 'victory farmers'). These keywords seem to be more related to discussing the movement's causes rather than being explicitly supportive.
 ```
 Negative Keywords: 
 1. ('farmersprotest', 2169)
@@ -143,14 +143,13 @@ Negative Keywords:
 9. ('farmlaws farmersprotest', 282)
 10. ('farmersprotest farmlaws', 247)
 ```
-Again, there isn't much difference between the different sentiment categories of keywords. It seems, though, that this category of tweets is calling on Modi'sBharatiya Janata Party (B.J.P.).
-
+Again, there isn't much difference between negative keywords and the previously-discussed keywords. It seems, though, that this category of tweets is calling on Modi's Bharatiya Janata Party (B.J.P.) more frequently.
 ```
 Wordcloud (Positive):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers 2/Positive.png">
 
-In the wordcloud, there are words relating to victory ('victory,' 'finally,' 'proud,' 'won,' 'congratulation') and supportive words ('unity,' 'love,' 'live,' 'support,' 'fight').
+In the positive wordcloud, there are words relating to victory ('victory,' 'finally,' 'proud,' 'won,' 'congratulation') and supportive words ('unity,' 'love,' 'live,' 'support,' 'fight').
 ```
 Wordcloud (Neutral):
 ```
@@ -178,9 +177,7 @@ Total Tweets: 38,738
 ```
 <img width="600" alt = "Indian Farmers' Protest Chart 4" src="Screenshot 2023-08-05 at 10.02.30 AM.png">
 
-For this instance, the percentage of positive tweets dramatically decreases to 13%, while the percentage of negative tweets increases to almost 50%. These prominent changes may be because of the violence that occurred. Two major groups decided to leave the farmers' protest because of the violence and religious flag. Likely, many people (including previous supporters of the movement) criticized the violence and the group of protesters who abandoned the original peaceful protest plan. Another factor contributing to the lack of positive support is the internet shutdown that caused farmers to lose contact with their supporters.
-
-However, some of the negative tweets were likely also directed towards the government and their treatment of the farmers, as well as their crackdown on the internet/social media.
+For this instance, the percentage of positive tweets dramatically decreases to 13%, while the percentage of negative tweets increases to almost 50%. These prominent changes may be because of the violence that occurred. Two major groups decided to leave the farmers' protest because of the violence and religious flag. Likely, many people (including previous supporters of the movement) criticized the violence and the group of protesters who abandoned the original peaceful protest plan. Another factor contributing to the lack of positive support is the internet shutdown that caused farmers to lose contact with their supporters. However, some of the negative tweets were likely also directed towards the government and their treatment of the farmers, as well as their crackdown on the internet/social media.
 ```
 Keywords:
 1. ('farmersprotest', 12696)
@@ -208,7 +205,7 @@ Positive Keywords:
 9. ('republic', 80)
 10. ('peace wins', 73)
 ```
-Some popular keywords used positively include 'peacefulprotestcontinues' and 'peace wins.' The likely explanation for their sudden usage may be to reduce the backlash against the Indian farmers' protests due to the Republic Day violence.
+Some popular keywords used positively include 'peacefulprotestcontinues' and 'peace wins.' The likely explanation for their sudden usage may be to encourage more peaceful protests and discuss how violence does not gain support.
 ```
 Neutral Keywords: 
 1. ('farmersprotest', 6634)
@@ -335,16 +332,15 @@ Negative Keywords:
 ```
 The most popular negative keywords seem to be 'genital mutilation,' 'threat genital,' 'amymek,' 'sharia,' and 'war women.' 
 
-The phrases, 'sharia' and 'islam sharia,' refer to Shariah law. The Women's March in 2017 was wrapped up with conversations around Islam, including whether or not to [protest Shariah law.](https://torontosun.com/2017/01/26/farzana-hassan-when-will-womens-march-protest-sharia-law).
-
 An explanation for the Amy Mek reference may be because of her support of Donald Trump. *The New York Times* quoted her, "Amy Mek, who has more than 85,000 Twitter followers, is one of the women Ms. Suhler has gotten to know through their shared support of Mr. Trump. 'My belief has been that women’s rights is about treating men and women equally,' Ms. Mek said. 'Trump swings at men and women equally hard, but somehow if a woman is a Trump target, he is a misogynist.'" 
 
+The phrases, 'sharia' and 'islam sharia,' refer to Shariah law. The Women's March in 2017 was wrapped up with conversations around Islam, including whether or not to [protest Shariah law.](https://torontosun.com/2017/01/26/farzana-hassan-when-will-womens-march-protest-sharia-law).
 ```
 Wordcloud (Positive):
 ```
 <img width="600" alt="Women's March Wordcloud Positive" src="/WomensMarch/Positive.png">
 
-Some words that pop out include 'shoutout WomensMarch' and 'unstoppable.' Hillary Clinton and Cecile Richards seemed to be mentioned frequently. Demi Lovato and Miley Cyrus are also mentioned too, as well as Cyrus’s organization the Happy Hippie Foundation.
+Some words that pop out include 'shoutout WomensMarch' and 'unstoppable.' Hillary Clinton and Cecile Richards seemed to be mentioned frequently. Demi Lovato and Miley Cyrus are also mentioned too, as well as Cyrus’s organization, the Happy Hippie Foundation.
 ```
 Wordcloud (Neutral):
 ```
@@ -366,24 +362,32 @@ Wordcloud (Negative):
 
 Twitter notably had to jump hurdles with [the Indian government](https://www.npr.org/2021/02/17/968641246/twitter-in-standoff-with-indias-government-over-free-speech-and-local-law) about suppressing the backlash against the farm laws. Accounts were suspended at first and hashtags were reduced. As Twitter struggled between free speech and the government's orders, I wonder if this affected the results somehow.
 
-However, the public seems to be divided equally between negative, neutral, and positive reactions. The majority is overall neutral. The rest is more negatively positioned towards the movement, while the minority of tweets are positive. The traffic caused and the MP's smashed window seemed to have almost no change compared to the total sentiment. During the Republic's Day violence, though, the number of negative tweets drastically went up to almost 50% of the total number of tweets. Again, though, these results may not reflect the true sentiment towards the movement: the Indian government tried to suppress Twitter and shut down the internet in order to prevent support for the farmers. Also, this analysis doesn't exactly specify whether the negative tweets were directed toward the farmers or the government (it's likely that they were directed toward both).
+The public seemed to be divided equally between negative, neutral, and positive reactions. The majority is overall neutral. The rest is more negatively positioned towards the movement, while the minority of tweets are positive. The traffic caused and the MP's smashed window seemed to have almost no change compared to the total sentiment. During the Republic's Day violence, though, the number of negative tweets drastically went up to almost 50% of the total number of tweets. Again, though, these results may not reflect the true sentiment towards the movement: the Indian government tried to suppress Twitter and shut down the internet in order to prevent support for the farmers. Also, this analysis doesn't exactly specify whether the negative tweets were directed toward the farmers or the government (it's likely that they were directed toward both).
 
-During the Republic Day violence, many of these negative tweets were likely directed toward the Delhi police, considering that they were mentioned frequently in my keyword analysis. The word, ‘shame,’ that appeared frequently in the negative wordclouds also suggest that Twitter users were shaming the government and police. It's likely that not all of the negative tweets were directed toward the farmers - in fact, many of them were probably directed toward the police and farm laws.
+However, the keyword analysis helps to clarify where the negative sentiment was directed. During the Republic Day violence, many of these negative tweets were likely directed toward the Delhi police, considering that they were mentioned frequently in my keyword analysis. The word, ‘shame,’ that appeared frequently in the negative wordclouds also suggest that Twitter users were shaming the government and police. It's likely that not all of the negative tweets were directed toward the farmers - in fact, many of them were probably directed toward the police, the government, and the farm laws.
 
 ### Women's March
 
-The Women's March, during its first protest, seemed to be greatly supported. However, I think it would be an interesting project in the future to research how they are viewed today. An explanation for its widely-varying keywords may be because it was "[more than an anti-Trump protest,](https://www.vox.com/2017/1/21/14342942/womens-march-inauguration-trump-protest-goals-feminism-demands)" as *Vox* writes. The movement touched on many different conversations and issues considered especially vulnerable under the new Trump administration, "[including women’s and reproductive rights, criminal justice, defense of the environment and the rights of immigrants, Muslims, LGBT people and the disabled.](https://www.history.com/this-day-in-history/womens-march)" This explains why conversations around Shariah law were so prevalent throughout the march.
+The Women's March, during its first protest, seemed to be greatly supported. However, I think it would be an interesting project in the future to research how they are viewed today. 
+
+An explanation for the movement's widely-varying keywords may be because it was considered "[more than an anti-Trump protest,](https://www.vox.com/2017/1/21/14342942/womens-march-inauguration-trump-protest-goals-feminism-demands)" as *Vox* writes. The movement touched on many different conversations and issues considered especially vulnerable under the Trump administration, "[including women’s and reproductive rights, criminal justice, defense of the environment and the rights of immigrants, Muslims, LGBT people and the disabled.](https://www.history.com/this-day-in-history/womens-march)" This explains why conversations around Shariah law and Islam were so prevalent throughout the march.
 
 ### As a whole...
 
-Being inconvenienced actually didn't seem to affect the Indian farmers' movement at all. However, with more research, the results may turn out differently.
+I want to offer a possible explanation for why the majority sentiment of each dataset was neutral: likely, these tweets were reporting on the events of the protest. They were neither overtly supportive, nor critical of anyone; they were updates on how each movement was going. This hypothesis is supported by one of the wordclouds, where phrases like 'video statement' and 'WATCH' were prevalent. 
 
-On the other hand, violence or unnecessarily brutal actions did seem to negatively impact a movement. [Research by a sociologist at Stanford](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/) has shown that violence from a popular movement will more negatively impact the movement compared to violence from the opposing side -- sometimes it will actually increase support for the opposing side.
+Being inconvenienced actually didn't seem to affect the Indian farmers' movement and the Women's March at all. However, with more research, the results may turn out differently.
 
-I think most protesters who are 'disruptive' prefer the latter option. As one protester said, “It isn’t fun: I hate disrupting people’s lives, and it’s upsetting that it’s come to this. But it has come to this.”
+On the other hand, violence or unnecessarily brutal actions did seem to negatively impact a movement. [Research by a sociologist at Stanford](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/) has shown that violence from a popular movement will more negatively impact the movement compared to violence from the opposing side -- sometimes it will actually increase support for the opposing side. However, because the Delhi police also acted with violence against the farmers, the possibly backlash toward the farmers dissipated. Much of the backlash was likely directed towards the police (as evidenced by the keyword analysis) for mishandling the situation.
+
+But now, the question becomes: is it more important to be a popular, agreeable protest or is it more important to do whatever possible to make a change?
+
+I think most protesters who are considered 'disruptive' prefer the latter option. As one protester said, “It isn’t fun: I hate disrupting people’s lives, and it’s upsetting that it’s come to this. But it has come to this.”
 
 ***Notes:***
-*This project is not verified or error-free. Please use results with caution. The Google Colab notebooks and HuggingFace/KeyBERT models used to create this research project are available for further analysis.*
+*This project is not verified or error-free. Please use results with caution. The Google Colab notebooks and HuggingFace/KeyBERT models used to create this research project are available for further analysis and inspection.*
+
+*This project also does not express any political leanings; it is merely a datascience project conducted out of my personal interest.*
 
 ---
 
