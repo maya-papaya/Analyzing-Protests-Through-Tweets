@@ -403,4 +403,6 @@ I think most protesters who are 'disruptive' prefer the latter option. As one pr
 
 * Roller, Emma. "The Women Who Like Donald Trump." *The New York Times,* 10 May, 2016, www.nytimes.com/2016/05/10/opinion/campaign-stops/the-women-who-like-donald-trump.html. Accessed 10 Aug. 2023.
 
+* Taylor, Adam. "Why is the world protesting so much? A new study claims to have some answers." *The WashingtonPost,* 4 Nov. 2021, www.washingtonpost.com/world/2021/11/04/protests-global-study/. Accessed 11 Aug. 2023.
+
 
