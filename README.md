@@ -316,6 +316,8 @@ Keywords:
 ```
 Some of the most popularly used keywords include 'future female' and 'womensmarch power.' These results make sense, considering how supported the movement was.
 
+The phrase, 'education devos,' refers to Betsy DeVos, who was nominated as Secretary of Education by the Trump admin. During her Senate confirmation hearing, she mentioned that guns were necessary in order to protect children from grizzly bears, causing many jokes to pop up around her and bears. Many people disapproved of her being nominated and questioned her competency. [Teachers participated in the Women's March](https://www.washingtonpost.com/local/education/teachers-to-march-against-trumps-education-agenda/2017/07/21/18a54c20-6e24-11e7-9c15-177740635e83_story.html) and targeted the Trump admin's choices relating to education.
+
 Demi Lovato also [spoke at the march to about 750,000 people](https://www.justjaredjr.com/2017/01/21/demi-lovato-miley-cyrus-yara-shahidi-make-their-voices-heard-at-womens-march/), which explains her having being mentioned frequently.
 ```
 Positive Keywords: 
@@ -374,7 +376,7 @@ Wordcloud (Neutral):
 ```
 <img width="600" alt="Women's March Wordcloud Neutral" src="/WomensMarch/Neutral.png">
 
-'Clinton says,' 'video statement,' 'WATCH,' and 'references' all suggest that the majority of neutral tweets was sharing information on the events happening during the march.
+'Clinton says,' 'video statement,' 'WATCH,' and 'references' all suggest that the majority of neutral tweets were dedicated to sharing information on the events happening during the march.
 ```
 Wordcloud (Negative):
 ```
@@ -390,9 +392,7 @@ Wordcloud (Negative):
 
 Twitter notably had to jump hurdles with [the Indian government](https://www.npr.org/2021/02/17/968641246/twitter-in-standoff-with-indias-government-over-free-speech-and-local-law) about suppressing the backlash against the farm laws. Accounts were suspended at first and hashtags were reduced. As Twitter struggled between free speech and the government's orders, I wonder if this affected the results somehow.
 
-The public seemed to be divided equally between negative, neutral, and positive reactions. The majority is overall neutral. The rest is more negatively positioned towards the movement, while the minority of tweets are positive. The traffic caused and the MP's smashed window seemed to have almost no change compared to the total sentiment. During the Republic's Day violence, though, the number of negative tweets drastically went up to almost 50% of the total number of tweets. Again, though, these results may not reflect the true sentiment towards the movement: the Indian government tried to suppress Twitter and shut down the internet in order to prevent support for the farmers. Also, this analysis doesn't exactly specify whether the negative tweets were directed toward the farmers or the government (it's likely that they were directed toward both).
-
-However, the keyword analysis helps to clarify where the negative sentiment was directed. During the Republic Day violence, many of these negative tweets were likely directed toward the Delhi police, considering that they were mentioned frequently in my keyword analysis. The word, ‘shame,’ that appeared frequently in the negative wordclouds also suggest that Twitter users were shaming the government and police. It's likely that not all of the negative tweets were directed toward the farmers - in fact, many of them were probably directed toward the police, the government, and the farm laws.
+The public seemed to be divided equally between negative, neutral, and positive reactions. The majority is overall neutral. While this seems strange, we can reason that the neutral tweets were dedicated to reporting on the events of the protests. The rest of the tweets is more negatively positioned towards the movement, while the minority of tweets are positive. The traffic caused and the MP's smashed window seemed to have almost no change compared to the total sentiment. During the Republic's Day violence, though, the number of negative tweets drastically went up to almost 50% of the total number of tweets. Again, though, these results may not reflect the true sentiment towards the movement: the Indian government tried to suppress Twitter and shut down the internet in order to prevent support for the farmers. However, because of the violence incited by some of the protesters, we can imagine that most of the negative tweets were directed toward them.
 
 ### Women's March
 
@@ -402,15 +402,15 @@ An explanation for the movement's widely-varying keywords may be because it was 
 
 ### As a whole...
 
-I want to offer a possible explanation for why the majority sentiment of each dataset was neutral: likely, these tweets were reporting on the events of the protest. They were neither overtly supportive, nor critical of anyone; they were updates on how each movement was going. This hypothesis is supported by one of the wordclouds, where phrases like 'video statement' and 'WATCH' were prevalent. 
+The majority sentiment of each dataset was neutral: this can attributed to the possibility that these tweets were reporting on the events of the protest. They were neither overtly supportive, nor critical of anyone; they were simply updates on how each movement was going. This hypothesis is supported by one of the neutral wordclouds, where phrases like 'video statement' and 'WATCH' were prevalent. 
 
-Being inconvenienced actually didn't seem to affect the Indian farmers' movement and the Women's March at all. However, with more research, the results may turn out differently.
+Being inconvenienced actually didn't seem to affect the Indian farmers' movement and the Women's March at all. However, with more research and exploration of other movements, the results may turn out differently.
 
-On the other hand, violence or unnecessarily brutal actions did seem to negatively impact a movement. [Research by a sociologist at Stanford](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/) has shown that violence from a popular movement will more negatively impact the movement compared to violence from the opposing side -- sometimes it will actually increase support for the opposing side. However, because the Delhi police also acted with violence against the farmers, the possibly backlash toward the farmers dissipated. Much of the backlash was likely directed towards the police (as evidenced by the keyword analysis) for mishandling the situation.
+On the other hand, violence or unnecessarily brutal actions did seem to negatively impact a movement, as evidenced by the results from the Indian farmers' protest. [Research by a sociologist at Stanford](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/) has shown that violence from a popular movement will more negatively impact the movement compared to violence from the opposing side -- sometimes it will actually increase support for the opposing side.
 
-But now, the question becomes: is it more important to be a popular, agreeable protest or is it more important to do whatever possible to make a change?
+But now, the question becomes: how long should it take for the authorities in our lives to make a change? How long should we protest quietly and peacefully with much detriment to many lives? How long will it take for people to pay attention and notice an important issue?
 
-I think most protesters who are considered 'disruptive' prefer the latter option. As one protester said, “It isn’t fun: I hate disrupting people’s lives, and it’s upsetting that it’s come to this. But it has come to this.”
+I think most protesters who are considered 'nonviolently disruptive' say no more. As one protester said, “It isn’t fun: I hate disrupting people’s lives, and it’s upsetting that it’s come to this. But it has come to this.”
 
 ***Notes:***
 *This project is not verified or error-free. Please use results with caution. The Google Colab notebooks and HuggingFace/KeyBERT models used to create this research project are available for further analysis and inspection.*
@@ -437,6 +437,8 @@ I think most protesters who are considered 'disruptive' prefer the latter option
 
 * Roller, Emma. "The Women Who Like Donald Trump." *The New York Times,* 10 May, 2016, www.nytimes.com/2016/05/10/opinion/campaign-stops/the-women-who-like-donald-trump.html. Accessed 10 Aug. 2023.
 
-* Taylor, Adam. "Why is the world protesting so much? A new study claims to have some answers." *The WashingtonPost,* 4 Nov. 2021, www.washingtonpost.com/world/2021/11/04/protests-global-study/. Accessed 11 Aug. 2023.
+* Taylor, Adam. "Why is the world protesting so much? A new study claims to have some answers." *The Washington Post,* 4 Nov. 2021, www.washingtonpost.com/world/2021/11/04/protests-global-study/. Accessed 11 Aug. 2023.
+
+* Brown, Emma. "Teachers to march against Trump’s education agenda." *The Washington Post,* 21 Jul. 2017, www.washingtonpost.com/local/education/teachers-to-march-against-trumps-education-agenda/2017/07/21/18a54c20-6e24-11e7-9c15-177740635e83_story.html. Accessed 12 Aug. 2023.
 
 
