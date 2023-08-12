@@ -38,6 +38,8 @@ I had three functions:
 
 Here are the results and conclusions I drew from my analysis:
 
+---
+
 ## Results
 
 ### The Indian Farmers' Protest
@@ -69,22 +71,26 @@ Keywords:
 10. ('indian farmers', 12893)
 ```
 Two keywords, 'support farmers' and 'support farmersprotest,' indicate that the movement was greatly supported on social media. The high percentage of negative tweets was not necessarily directed toward the farmers -- those tweets may have been directed toward the government (Modi's Bharatiya Janata Party or B.J.P.) and the farm laws.
+
+The most popular keywords seem to be 'farmlaws' and 'farmlawsrepealed,' both likely hashtags. There seems to be a lot more emphasis on the farmers rather than just the farm laws themselves. 
 ```
 Wordcloud:
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers/Wordcloud.png">
 
+Some words that stand out include 'support farmers,' 'human right,' 'support,' and 'shame.' Generally, it seems that the movement was greatly supported. Many of the negative tweets were likely directed toward the government.
+
 ---
 
-For the second function, I decided to look at a specific instance where, on November 29th, "[the protesters announced that they would block five further points of entry into Delhi,](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" according to Wikipedia. Despite [overwhelming support for India's farmers](https://foreignpolicy.com/2021/11/28/farmers-protests-india-martyrs/), I was curious to see whether people would view this as a nuisance or support it.
+For my second experiment, I decided to look at a specific instance where, on November 29th, "[the protesters announced that they would block five further points of entry into Delhi,](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" according to Wikipedia. Despite [overwhelming support for India's farmers](https://foreignpolicy.com/2021/11/28/farmers-protests-india-martyrs/), I was curious to see whether people would view this as a nuisance or support it.
 ```
 Public Sentiment between 2021-11-05 00:00:00+00:00 and 2021-11-21 00:00:00+00:00: 
 
-Positive Tweets: 5098
-Neutral Tweets: 11037
-Negative Tweets: 8433
+Positive Tweets: 5,098
+Neutral Tweets: 11,037
+Negative Tweets: 8,433
 
-Total Tweets: 24568
+Total Tweets: 24,568
 ```
 <img width="600" alt="Indian Farmers' Protest Chart 2" src="Screenshot 2023-08-05 at 10.04.43 AM.png">
 
@@ -105,6 +111,8 @@ Total Tweets: 24,568
 <img width="600" alt="Indian Farmers' Protest Chart 3" src="Screenshot 2023-08-05 at 10.03.37 AM.png">
 
 This time, the percentage of negative tweets decreases by 1%, while the percentage of positive tweets increases by 3%. Since one smashed car window is more irrelevant to most people's lives and it's easier to distance one's self from that circumstance, it's possible that there was a less negative reception.
+
+However, after further research, I found that the MP, Ram Chander Jangra, had incited several protests against himself because he called the farmers '[jobless alcoholics and bad elements.](https://thewire.in/agriculture/haryana-farmer-protests-jangra-car)' After this discovery, there is no doubt that Jangra reduced the possibility of sympathy from Twitter users.
 ```
 Keywords:
 1. ('farmersprotest', 9343)
@@ -118,7 +126,7 @@ Keywords:
 9. ('farmersprotest farmlawsrepealed', 882)
 10. ('bjp', 605)
 ```
-The most popular keywords seem to be 'farmlaws' and 'farmlawsrepealed,' both likely hashtags. There seems to be a lot more emphasis on the farmers rather than just the farm laws themselves. 
+There is no mention of any MP's car window being smashed. Likely, people did not care enough about Jangra's car and preferred to focus on the movement.
 ```
 Positive Keywords: 
 1. ('farmersprotest', 2623)
@@ -132,7 +140,7 @@ Positive Keywords:
 9. ('farmersprotest farmlaws', 172)
 10. ('victory farmers', 140)
 ```
-Again, 'farmlawsrepealed' comes in third place. The phrase, 'victory farmers,' likely celebrating the Indian farmers' victories and successful protests, also seems to be popular.
+The phrase, 'farmlawsrepealed,' comes in third place. Another phrase, 'victory farmers,' likely celebrating the Indian farmers' victories and successful protests, also seems to be popular. This is likely because the farm laws would be scheduled to be repealed only a few days later.
 ```
 Neutral Keywords: 
 1. ('farmersprotest', 4551)
@@ -146,7 +154,7 @@ Neutral Keywords:
 9. ('farmersprotest farmlawsrepealed', 410)
 10. ('repeal farm', 301)
 ```
-There isn't a major difference between the positive keywords and neutral keywords, except for a less celebratory mood (no 'victory farmers'). These keywords seem to be more related to discussing the movement's causes rather than being explicitly supportive.
+The popularity of variations on 'farmlawsrepealed' and 'farm laws' can be attributed to how the farm laws would be repealed a few days later.
 ```
 Negative Keywords: 
 1. ('farmersprotest', 2169)
@@ -160,25 +168,25 @@ Negative Keywords:
 9. ('farmlaws farmersprotest', 282)
 10. ('farmersprotest farmlaws', 247)
 ```
-Again, there isn't much difference between negative keywords and the previously-discussed keywords. It seems, though, that this category of tweets is calling on Modi's Bharatiya Janata Party more frequently.
+Again, there isn't much difference between negative keywords and the previously-discussed keywords. It seems, though, that this category of tweets is calling on Modi's Bharatiya Janata Party more frequently, no doubt to repeal the farm laws.
 ```
 Wordcloud (Positive):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers 2/Positive.png">
 
-In the positive wordcloud, there are words relating to victory ('victory,' 'finally,' 'proud,' 'won,' 'congratulation') and supportive words ('unity,' 'love,' 'live,' 'support,' 'fight').
+In the positive wordcloud, there are words relating to victory ('victory,' 'finally,' 'proud,' 'won,' 'congratulation') and supportive words ('unity,' 'love,' 'live,' 'support,' 'fight'). This can be attributed to how the protests finally succeeded in repealing the farm laws.
 ```
 Wordcloud (Neutral):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Neutral" src="/Farmers 2/Neutral.png">
 
-The neutral wordcloud seems to have more words relating to the government and Modi ('narendramodi,' 'government' 'BJP,' 'PM Modi').
+The neutral wordcloud seems to have more words relating to the government and Modi ('narendramodi,' 'government' 'BJP,' 'PM Modi'), likely discussing their being about to repeal the farm laws.
 ```
 Wordcloud (Negative):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Negative" src="/Farmers 2/Negative.png">
 
-Some words that stand out include 'farmer,' 'narendramodi' (likely calling on Modi), 'government,' 'death' (possibly referring to the many deaths and suicides of farmers throughout the movement and in the past), 'shame,' and 'protest.'
+Some words that stand out include 'farmer,' 'narendramodi' (likely calling on Modi), 'government,' 'death' (possibly referring to the many deaths and suicides of farmers throughout the movement and in the past), 'shame,' and 'protest.' There still might be some resentment and anger against the government for their treatment of the farmers.
 
 ---
 
@@ -194,7 +202,9 @@ Total Tweets: 38,738
 ```
 <img width="600" alt = "Indian Farmers' Protest Chart 4" src="Screenshot 2023-08-05 at 10.02.30 AM.png">
 
-For this instance, the percentage of positive tweets dramatically decreases to 13%, while the percentage of negative tweets increases to almost 50%. These prominent changes may be because of the violence that occurred. Two major groups decided to leave the farmers' protest because of the violence and religious flag. Likely, many people (including previous supporters of the movement) criticized the violence and the group of protesters who abandoned the original peaceful protest plan. Another factor contributing to the lack of positive support is the internet shutdown that caused farmers to lose contact with their supporters. However, some of the negative tweets were likely also directed towards the government and their treatment of the farmers, as well as their crackdown on the internet/social media.
+For this instance, the percentage of positive tweets dramatically decreases to 13%, while the percentage of negative tweets increases to almost 50%. These prominent changes may be because of the violence that occurred. Two major groups decided to leave the farmers' protest because of the violence and the Nishan Sahib, a Sikh religious flag. Likely, many people (including previous supporters of the movement) criticized the violence and the group of protesters who abandoned the original peaceful protest plan. Several protesters also resorted to vandalism. Over 300 police personnel and thousands of farmers were injured by the violence.
+
+However, some of the negative tweets were likely directed towards the government, as well as their crackdown on the internet/social media.
 ```
 Keywords:
 1. ('farmersprotest', 12696)
@@ -209,6 +219,8 @@ Keywords:
 10. ('bjp', 499)
 ```
 Some keywords that became more popular include 'delhi police,' 'sikhs,' and 'flag.' These results make sense, considering that each of these keywords are related to the events of the Republic Day violence.
+
+Interestingly enough, more people seemed to care about the violence that erupted between the farmers and the police, yet completely ignored an MP's window being smashed.
 ```
 Positive Keywords: 
 1. ('farmersprotest', 1430)
@@ -222,7 +234,7 @@ Positive Keywords:
 9. ('republic', 80)
 10. ('peace wins', 73)
 ```
-Some popular keywords used positively include 'peacefulprotestcontinues' and 'peace wins.' The likely explanation for their sudden usage may be to encourage more peaceful protests and discuss how violence does not gain support.
+Some popular keywords used positively include 'peacefulprotestcontinues' and 'peace wins.' The likely explanation for their sudden usage may be to encourage more peaceful protests and attempt to reduce the backlash against the movement caused by the violence.
 ```
 Neutral Keywords: 
 1. ('farmersprotest', 6634)
@@ -238,8 +250,7 @@ Neutral Keywords:
 ```
 Some neutral keywords include 'tractor rally,' 'delhi police,' 'rakeshtikait farmersprotest,' and 'farmerprotest gazipurborder.' These tweets are likely from news outlets or reporters discussing the events that occurred during the Republic Day violence. 
 
-Rakesh Tikait (from 'rakeshtikait farmersprotest') is a spokesperson of the Bharatiya Kisan Union, which notably withdrew from the protests after the violence.
-The Ghazipur border was a protest site for the farmers. [Tikait was reported to have broken down at the site](https://timesofindia.indiatimes.com/india/farmers-refuse-to-vacate-ghazipur-protest-site-singhu-turns-into-fortress-highlights/articleshow/80575153.cms), which may explain why both were mentioned more frequently.
+Rakesh Tikait (from 'rakeshtikait farmersprotest') is a spokesperson of the Bharatiya Kisan Union, which notably withdrew from the protests after the violence. The Ghazipur border was a protest site for the farmers. [Tikait was reported to have broken down at the site](https://timesofindia.indiatimes.com/india/farmers-refuse-to-vacate-ghazipur-protest-site-singhu-turns-into-fortress-highlights/articleshow/80575153.cms), which may explain why both were mentioned more frequently.
 ```
 Negative Keywords: 
 1. ('farmersprotest', 4632)
@@ -253,7 +264,7 @@ Negative Keywords:
 9. ('flag', 331)
 10. ('protesting farmers', 323)
 ```
-The negative keywords topics do not differ much from the overall keywords.
+The negative keywords topics do not differ much from the overall keywords. Sikhs and flag are frequently discussed, probably because of the anger at a religious flag being hoisted on top of the Red Fort during Republic Day. The phrase, 'protesting farmers,' is also mentioned frequently in the negative tweets, no doubt because of the violence and injuries that occurred.
 ```
 Wordcloud (Positive):
 ```
@@ -319,7 +330,7 @@ Positive Keywords:
 9. ('womens march', 167)
 10. ('womensmarch womensmarch', 140)
 ```
-Some of the positive keywords include shoutouts to public figures like Hillary Clinton (who ran against Trump in 2016) and Cecile Richards ([an activist who spoke at the march](https://19thnews.org/2021/10/i-need-to-be-with-other-folks-as-outraged-and-motivated-as-i-am-cecile-richards-on-why-this-years-womens-march-matters/#:~:text=In%202017%2C%20Cecile%20Richards%2C%20then,research%20and%20rapid%20response%20group.). Most of the positive tweets seem to be related to encouraging and praising the movement as well as its members.
+Some of the positive keywords include shoutouts to public figures like Hillary Clinton (who ran against Trump in 2016) and Cecile Richards, [an activist who spoke at the march](https://19thnews.org/2021/10/i-need-to-be-with-other-folks-as-outraged-and-motivated-as-i-am-cecile-richards-on-why-this-years-womens-march-matters/#:~:text=In%202017%2C%20Cecile%20Richards%2C%20then,research%20and%20rapid%20response%20group.). Most of the positive tweets seem to be related to encouraging and praising the movement as well as its members.
 ```
 Neutral Keywords: 
 1. ('womensmarch', 4313)
