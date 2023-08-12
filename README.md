@@ -44,18 +44,31 @@ Here are the results and conclusions I drew from my analysis:
 
 The overall sentiment on Twitter towards the Indian farmers' protest is as shown:
 ```
-Overall Sentiment:
+Public Sentiment:
 
-Positive Tweets: 24.312463806604626 %
-Negative Tweets: 34.93026892845419 %
-Neutral Tweets: 40.75726726494119 %
+Positive Tweets: 193,742
+Neutral Tweets: 504,129
+Negative Tweets: 386,581
 
 Total Tweets: 1,084,452
 ```
 <img width="600" alt="Indian Farmers' Protest Chart 1" src="Screenshot 2023-08-05 at 10.05.24 AM.png">
 
-
 The majority (about 40.7%) is unconcerned or neutral towards the Indian farmers' protests. About 34.9% are negatively geared toward it. The minority of tweets are supportive of the movement.
+```
+Keywords:
+1. ('farmersprotest', 469192)
+2. ('farmers', 84296)
+3. ('farmers farmersprotest', 32333)
+4. ('support farmers', 29321)
+5. ('farmers protest', 20979)
+6. ('protest', 20465)
+7. ('bjp', 19193)
+8. ('support farmersprotest', 17318)
+9. ('farm laws', 15796)
+10. ('indian farmers', 12893)
+```
+
 
 ---
 
