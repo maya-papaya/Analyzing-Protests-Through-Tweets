@@ -5,7 +5,7 @@ In our modern society, protests are a way to collectively unite our voices to cr
 Still, experts say that [confrontational protests](https://grist.org/protest/confrontational-climate-protests-civil-disobedience-soup-van-gogh/) are an effective way to bring attention to a cause and portray less-bold protests in a better light. While this form of protest, called 'civil disobedience,' often is ineffective at garnering support for a movement, it has been a large part of effective social movements. Unfortunately for protestors, they have to choose between peaceful protests (usually ignored by the public) or civil disobedience (gaining the attention of the public and broadcasted by the media). The whole point of these confrontational protests *is* to make the public uncomfortable and force them into decisions. Social disruption has been a powerful tactic for very long: even suffragettes once slashed paintings and irreparably damaged them as a form of protest. Nowadays, civil disobedience is a tactic that has become increasingly popular among younger activists. A spokesperson from Just Stop Oil said, “We’re going to be noisy. We’re going to be disruptive. We’re going to be unignorable. We’re going to be a pain in the ass until you listen to us.”
 
 However, the reality is that what constitutes an effective protest is a highly disputed topic. This is why I wanted to find out how we can effectively share our voices through protests and gain support without disrupting the cause.
-This project is meant to explore public sentiment toward protests by analyzing tweets.
+This project is meant to explore public sentiment toward protests by analyzing tweets and what events can cause the public's attitude toward the movement to change.
 
 I looked at two protests: the farmers' protest in India and the Women's March movement. Here's a little background on each:
 
@@ -68,7 +68,11 @@ Keywords:
 9. ('farm laws', 15796)
 10. ('indian farmers', 12893)
 ```
-
+Two keywords, 'support farmers' and 'support farmersprotest,' indicate that the movement was greatly supported on social media. The high percentage of negative tweets was not necessarily directed toward the farmers -- those tweets may have been directed toward the government (Modi's Bharatiya Janata Party or B.J.P.) and the farm laws.
+```
+Wordcloud:
+```
+<img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers/Wordcloud.png">
 
 ---
 
@@ -156,7 +160,7 @@ Negative Keywords:
 9. ('farmlaws farmersprotest', 282)
 10. ('farmersprotest farmlaws', 247)
 ```
-Again, there isn't much difference between negative keywords and the previously-discussed keywords. It seems, though, that this category of tweets is calling on Modi's Bharatiya Janata Party (B.J.P.) more frequently.
+Again, there isn't much difference between negative keywords and the previously-discussed keywords. It seems, though, that this category of tweets is calling on Modi's Bharatiya Janata Party more frequently.
 ```
 Wordcloud (Positive):
 ```
