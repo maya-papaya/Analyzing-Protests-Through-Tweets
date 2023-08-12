@@ -71,8 +71,6 @@ Keywords:
 10. ('indian farmers', 12893)
 ```
 Two keywords, 'support farmers' and 'support farmersprotest,' indicate that the movement was greatly supported on social media. The high percentage of negative tweets was not necessarily directed toward the farmers -- those tweets may have been directed toward the government (Modi's Bharatiya Janata Party or B.J.P.) and the farm laws.
-
-The most popular keywords seem to be 'farmlaws' and 'farmlawsrepealed,' both likely hashtags. There seems to be a lot more emphasis on the farmers rather than just the farm laws themselves. 
 ```
 Wordcloud:
 ```
