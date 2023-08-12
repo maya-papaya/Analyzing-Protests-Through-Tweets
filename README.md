@@ -439,4 +439,6 @@ I think most protesters who are considered 'nonviolently disruptive' say no more
 
 * Brown, Emma. "Teachers to march against Trump’s education agenda." *The Washington Post,* 21 Jul. 2017, www.washingtonpost.com/local/education/teachers-to-march-against-trumps-education-agenda/2017/07/21/18a54c20-6e24-11e7-9c15-177740635e83_story.html. Accessed 12 Aug. 2023.
 
+* Grebbell, Caroline. "15 Examples of Civil Disobedience (Which Have Made a Difference)." *rebellion.global,* 03 Nov. 2020, rebellion.global/blog/2020/11/03/civil-disobedience-examples/. Accessed 12 Aug. 2023.
+
 
