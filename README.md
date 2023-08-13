@@ -106,7 +106,9 @@ Keywords:
 9. ('bjp', 8947)
 10. ('indian farmers', 8479)
 ```
-No one mentioned how the entrances to Delhi were blocked. In fact, many people demonstrated their support for the farmers, with the phrase, ‘support farmers’ coming in fourth place. Rihanna is also mentioned frequently, probably because she had voiced her support for the movement. 
+No one mentioned how the entrances to Delhi were blocked. In fact, many people demonstrated their support for the farmers, with the phrase, ‘support farmers’ coming in fourth place. 
+
+Rihanna is also mentioned frequently, likely because she had [posted a tweet supporting the movement](https://www.bbc.com/news/world-asia-india-55931894). Her tweet went viral, but there was much backlash from the Indian government and some pro-government public figures (one actress even called her a 'porn star') and criticism for involving herself in the protests.
 ```
 Positive Keywords: 
 1. ('farmersprotest', 66553)
@@ -120,7 +122,9 @@ Positive Keywords:
 9. ('gretathunberg', 2437)
 10. ('supporting farmers', 2176)
 ```
-Again, in the positive keywords, the support for the farmers is overwhelming. Rihanna is mentioned frequently, as well as Greta Thunberg, who had posted a document of ways to protest effectively for the farmers.
+Again, in the positive keywords, the support for the farmers is overwhelming. Rihanna is mentioned frequently once again.
+
+Greta Thunberg, who had posted a toolkit of resources to effectively protest for the farmers, was also mentioned frequently. According to *The Times of India*, she was accused of being involved in a plot to defame India.
 ```
 Neutral Keywords: 
 1. ('farmersprotest', 130616)
@@ -518,5 +522,7 @@ I think most protesters who are considered 'nonviolently disruptive' say no more
 * Grebbell, Caroline. "15 Examples of Civil Disobedience (Which Have Made a Difference)." *rebellion.global,* 03 Nov. 2020, rebellion.global/blog/2020/11/03/civil-disobedience-examples/. Accessed 12 Aug. 2023.
 
 * Sharma, Deepali. "‘Farmers being treated as terrorists, attacked on Delhi borders’: Shiv Sena." *Hindustan Times,* 30 Nov. 2020, www.hindustantimes.com/india-news/shiv-sena-slams-bjp-calls-using-water-cannons-on-farmers-amid-cold-wave-cruel/story-swfrlF8AXq6S63uJ7HjAZP.html. Accessed 13 Aug. 2023.
+
+* "Greta Thunberg tweets, deletes and then updates farm protest 'toolkit'." *The Times of India,* 4 Feb. 2021, timesofindia.indiatimes.com/india/greta-tweets-deletes-farmprotest-toolkit-creates-uproar/articleshow/80679959.cms?from=mdr. Accessed 13 Aug. 2023.
 
 
