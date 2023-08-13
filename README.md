@@ -80,7 +80,9 @@ Some words that stand out include 'support farmers,' 'human right,' 'support,' a
 
 ---
 
-For my second experiment, I decided to look at a specific instance where, on November 29th, "[the protesters announced that they would block five further points of entry into Delhi,](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" according to Wikipedia. Despite [overwhelming support for India's farmers](https://foreignpolicy.com/2021/11/28/farmers-protests-india-martyrs/), I was curious to see whether people would view this as a nuisance or support it.
+For my second function, I wanted to find four specific categories of instances: an example of civil disobedience (nonviolently disruptive and illegal), minor violence (minor and without casualties), a violent riot (violent with many casualties and damage), and a peaceful protest. I would then compare all these instances and see how public reactions changed for each one.
+
+For civil disobedience, I decided to look at a specific instance where, on November 29th, "[the protesters announced that they would block five further points of entry into Delhi,](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" according to Wikipedia. Despite [overwhelming support for India's farmers](https://foreignpolicy.com/2021/11/28/farmers-protests-india-martyrs/), I was curious to see whether people would view this as a nuisance or support it.
 ```
 Public Sentiment between 2020-11-29 00:00:00+00:00 and 2021-03-22 00:00:00+00:00: 
 
@@ -174,7 +176,7 @@ While most of the phrases relate to the farmers and the government, one word sto
 
 ---
 
-I also thought that a certain instance where "a farmer's protest on 5 November turned violent and an MP's car window was smashed," according to Wikipedia, would be interesting to investigate.
+As an example of minor violence, I thought that a certain instance where "a farmer's protest on 5 November turned violent and an MP's car window was smashed," according to Wikipedia, would be interesting to investigate.
 ```
 Public Sentiment between 2021-11-05 00:00:00+00:00 and 2021-11-21 00:00:00+00:00: 
 
@@ -266,7 +268,7 @@ Some words that stand out include 'farmer,' 'narendramodi' (likely calling on Mo
 
 ---
 
-During the Republic Day protest, "[the violence and hoisting of a religious flag on the ramparts of the Red Fort made the Bharatiya Kisan Union (Bhanu) and All India Kisan Sangharsh Co-ordination Committee decide to quit the farmers' protest.](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" I wondered if that specific protest (combined with how "several metro stations were closed and mobile internet was suspended by police") affected the sentiment towards the protest.
+For a violent riot, I thought that the Republic Day violence could be an example. During that protest, "[the violence and hoisting of a religious flag on the ramparts of the Red Fort made the Bharatiya Kisan Union (Bhanu) and All India Kisan Sangharsh Co-ordination Committee decide to quit the farmers' protest.](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" I wondered if that specific protest (combined with how "several metro stations were closed and mobile internet was suspended by police") affected the sentiment towards the protest.
 ```
 Public Sentiment between 2021-01-26 00:00:00+00:00 and 2021-02-01 00:00:00+00:00: 
 
@@ -359,6 +361,10 @@ Wordcloud (Negative):
 <img width="600" alt="Indian Farmers' Protest Wordcloud Negative" src="/Farmers 2/Negative.png">
 
 Some major words include 'Delhi,' 'police,' 'shame,' and 'violence.'
+
+---
+
+As an example of a peaceful protest, I looked at an instance between
 
 ---
 
