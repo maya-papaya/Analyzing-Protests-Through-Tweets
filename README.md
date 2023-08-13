@@ -82,17 +82,84 @@ Some words that stand out include 'support farmers,' 'human right,' 'support,' a
 
 For my second experiment, I decided to look at a specific instance where, on November 29th, "[the protesters announced that they would block five further points of entry into Delhi,](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers%27_protest#Blocking_of_borders_and_roads)" according to Wikipedia. Despite [overwhelming support for India's farmers](https://foreignpolicy.com/2021/11/28/farmers-protests-india-martyrs/), I was curious to see whether people would view this as a nuisance or support it.
 ```
-Public Sentiment between 2021-11-05 00:00:00+00:00 and 2021-11-21 00:00:00+00:00: 
+Public Sentiment between 2020-11-29 00:00:00+00:00 and 2021-03-22 00:00:00+00:00: 
 
-Positive Tweets: 5,098
-Neutral Tweets: 11,037
-Negative Tweets: 8,433
+Positive Tweets: 116,545
+Neutral Tweets: 283,172
+Negative Tweets: 216,239
 
-Total Tweets: 24,568
+Total Tweets: 615,956
 ```
 <img width="600" alt="Indian Farmers' Protest Chart 2" src="Screenshot 2023-08-05 at 10.04.43 AM.png">
 
 The percentage of negative tweets decreases by 0.6%, while the percentage of positive tweets increases by 1%. There is almost no change between the total public sentiment and this instance.
+```
+Keywords:
+1. ('farmersprotest', 254161)
+2. ('farmers', 40145)
+3. ('farmers farmersprotest', 16621)
+4. ('support farmers', 14814)
+5. ('rihanna', 12096)
+6. ('protest', 11997)
+7. ('farmers protest', 11825)
+8. ('support farmersprotest', 10334)
+9. ('bjp', 8947)
+10. ('indian farmers', 8479)
+```
+```
+Positive Keywords: 
+1. ('farmersprotest', 66553)
+2. ('farmers', 7400)
+3. ('support farmers', 6318)
+4. ('support farmersprotest', 5879)
+5. ('rihanna', 5664)
+6. ('farmers farmersprotest', 5638)
+7. ('supporting farmersprotest', 2548)
+8. ('farmersprotest istandwithfarmers', 2484)
+9. ('gretathunberg', 2437)
+10. ('supporting farmers', 2176)
+```
+```
+Neutral Keywords: 
+1. ('farmersprotest', 130616)
+2. ('farmers', 18327)
+3. ('farmers farmersprotest', 8116)
+4. ('farmers protest', 6617)
+5. ('support farmers', 6421)
+6. ('protest', 5222)
+7. ('rihanna', 4375)
+8. ('indian farmers', 4221)
+9. ('stand farmers', 3801)
+10. ('farm laws', 3456)
+```
+```
+Negative Keywords: 
+1. ('farmersprotest', 56992)
+2. ('farmers', 14418)
+3. ('protest', 5995)
+4. ('bjp', 5619)
+5. ('farmers protest', 4321)
+6. ('protesting', 3149)
+7. ('farmers protesting', 3024)
+8. ('farmers farmersprotest', 2867)
+9. ('indianfarmershumanrights', 2795)
+10. ('farmers india', 2338)
+```
+```
+Wordcloud (Positive):
+```
+<img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers 1/Positive.png">
+
+```
+Wordcloud (Neutral):
+```
+<img width="600" alt="Indian Farmers' Protest Wordcloud Neutral" src="/Farmers 1/Neutral.png">
+
+```
+Wordcloud (Negative):
+```
+<img width="600" alt="Indian Farmers' Protest Wordcloud Negative" src="/Farmers 1/Negative.png">
+
 
 ---
 
