@@ -106,6 +106,7 @@ Keywords:
 9. ('bjp', 8947)
 10. ('indian farmers', 8479)
 ```
+No one mentioned how the entrances to Delhi were blocked. In fact, many people demonstrated their support for the farmers, with the phrase, ‘support farmers’ coming in fourth place. Rihanna is also mentioned frequently, probably because she had voiced her support for the movement. 
 ```
 Positive Keywords: 
 1. ('farmersprotest', 66553)
@@ -119,6 +120,7 @@ Positive Keywords:
 9. ('gretathunberg', 2437)
 10. ('supporting farmers', 2176)
 ```
+Again, in the positive keywords, the support for the farmers is overwhelming. Rihanna is mentioned frequently, as well as Greta Thunberg, who had posted a document of ways to protest effectively for the farmers.
 ```
 Neutral Keywords: 
 1. ('farmersprotest', 130616)
@@ -132,6 +134,7 @@ Neutral Keywords:
 9. ('stand farmers', 3801)
 10. ('farm laws', 3456)
 ```
+The neutral keywords also suggest that the movement was greatly supported. Rihanna’s support seems to have made an impact on the public.
 ```
 Negative Keywords: 
 1. ('farmersprotest', 56992)
@@ -145,21 +148,25 @@ Negative Keywords:
 9. ('indianfarmershumanrights', 2795)
 10. ('farmers india', 2338)
 ```
+For the negative keywords, it is likely that the Twitter users are criticizing the government, especially considering the popularity of the phrase, ‘indianfarmershumanrights.’
 ```
 Wordcloud (Positive):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers 1/Positive.png">
 
+In the wordcloud, there are many words that suggest support for the movement (‘support,' love,' solidarity,' Thank,' supporting farmer’). Rihanna is also mentioned again, as well as Greta Thunberg.
 ```
 Wordcloud (Neutral):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Neutral" src="/Farmers 1/Neutral.png">
 
+The neutral wordcloud is more concerned with providing information and background on the movement, like describing the farm laws, referring to the government, mentioning Rihanna, etc. This output makes sense considering that this wordcloud covers tweets from the beginning of the movement when the public was learning what the movement was about.
 ```
 Wordcloud (Negative):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Negative" src="/Farmers 1/Negative.png">
 
+While most of the phrases relate to the farmers and the government, one word stood out to me -- ‘terrorist.’ After some research, I found that [the protesting farmers had been treated as terrorists](https://www.hindustantimes.com/india-news/shiv-sena-slams-bjp-calls-using-water-cannons-on-farmers-amid-cold-wave-cruel/story-swfrlF8AXq6S63uJ7HjAZP.html). So  we now know for sure that there was some pushback against the movement.
 
 ---
 
@@ -457,7 +464,9 @@ Wordcloud (Negative):
 
 Twitter notably had to jump hurdles with [the Indian government](https://www.npr.org/2021/02/17/968641246/twitter-in-standoff-with-indias-government-over-free-speech-and-local-law) about suppressing the backlash against the farm laws. Accounts were suspended at first and hashtags were reduced. As Twitter struggled between free speech and the government's orders, I wonder if this affected the results somehow.
 
-The public seemed to be divided equally between negative, neutral, and positive reactions. The majority is overall neutral. While this seems strange, we can reason that the neutral tweets were dedicated to reporting on the events of the protests. The rest of the tweets is more negatively positioned towards the movement, while the minority of tweets are positive. The traffic caused and the MP's smashed window seemed to have almost no change compared to the total sentiment. During the Republic's Day violence, though, the number of negative tweets drastically went up to almost 50% of the total number of tweets. Again, though, these results may not reflect the true sentiment towards the movement: the Indian government tried to suppress Twitter and shut down the internet in order to prevent support for the farmers. However, because of the violence incited by some of the protesters, we can imagine that most of the negative tweets were directed toward them.
+The public seemed to be divided equally between negative, neutral, and positive reactions. The majority is overall neutral. While this seems strange, we can reason that the neutral tweets were dedicated to reporting on the events of the protests. The rest of the tweets are more negatively positioned towards the movement, while the minority of tweets are positive. We know that there was pushback against the movement, as evidenced by one negative wordcloud. However, many of the negative tweets were likely also directed toward the government. 
+
+The blocking of Delhi's entrances and the MP's smashed window seemed to have almost no change compared to the total sentiment. During the Republic's Day violence, though, the number of negative tweets drastically went up to almost 50% of the total number of tweets. Again, though, these results may not reflect the true sentiment towards the movement: the Indian government tried to suppress Twitter and shut down the internet in order to prevent support for the farmers. However, because of the violence incited by some of the protesters, we can imagine that most of the negative tweets were directed toward them.
 
 ### Women's March
 
@@ -507,5 +516,7 @@ I think most protesters who are considered 'nonviolently disruptive' say no more
 * Brown, Emma. "Teachers to march against Trump’s education agenda." *The Washington Post,* 21 Jul. 2017, www.washingtonpost.com/local/education/teachers-to-march-against-trumps-education-agenda/2017/07/21/18a54c20-6e24-11e7-9c15-177740635e83_story.html. Accessed 12 Aug. 2023.
 
 * Grebbell, Caroline. "15 Examples of Civil Disobedience (Which Have Made a Difference)." *rebellion.global,* 03 Nov. 2020, rebellion.global/blog/2020/11/03/civil-disobedience-examples/. Accessed 12 Aug. 2023.
+
+* Sharma, Deepali. "‘Farmers being treated as terrorists, attacked on Delhi borders’: Shiv Sena." *Hindustan Times,* 30 Nov. 2020, www.hindustantimes.com/india-news/shiv-sena-slams-bjp-calls-using-water-cannons-on-farmers-amid-cold-wave-cruel/story-swfrlF8AXq6S63uJ7HjAZP.html. Accessed 13 Aug. 2023.
 
 
