@@ -531,4 +531,8 @@ I think most protesters who are considered 'nonviolently disruptive' say no more
 
 * "Greta Thunberg tweets, deletes and then updates farm protest 'toolkit'." *The Times of India,* 4 Feb. 2021, timesofindia.indiatimes.com/india/greta-tweets-deletes-farmprotest-toolkit-creates-uproar/articleshow/80679959.cms?from=mdr. Accessed 13 Aug. 2023.
 
+* Bozhinova, Katerina. Satre, Josh. Rajagopal, Shreyya. "An Unlikely Success: Demonstrations Against Farm Laws in India." *ACLED,* 17 Dec. 2021, acleddata.com/2021/12/17/an-unlikely-success-demonstrations-against-the-farm-laws-in-india/#:~:text=Despite%20high%2Dprofile%20incidents%20of,demonstrations%20have%20been%20largely%20peaceful.. Accessed 14 Aug. 2023.
+
+* Nazir, Saddat. "The Indian Farmer Protests: A Rare Concession." *Harvard International Review,* 12 Jul. 2022, hir.harvard.edu/farmer-protests/#:~:text=Although%20beginning%20with%20peaceful%20rallies,and%20Haryana%2C%20demanding%20better%20conditions.. Accessed 14 Aug. 2023.
+
 
