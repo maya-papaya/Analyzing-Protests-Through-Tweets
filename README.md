@@ -393,7 +393,9 @@ Keywords:
 9. ('delhi', 343)
 10. ('bjp', 327)
 ```
+The phrase, 'farmersdillichalo,' refers to the start of the Dilli Chalo campaign, where farmers protested at Delhi's borders.
 
+The word, 'haryana,' refers to the region Haryana, where many farmers protested (other regions include Punjab).
 ```
 Positive Keywords:
 1. ('farmersprotest', 473)
@@ -407,6 +409,7 @@ Positive Keywords:
 9. ('constitution day', 27)
 10. ('farmer', 26)
 ```
+It seems that many people were supportive of the plan to protest outside Delhi.
 ```
 Neutral Keywords:
 1. ('farmersprotest', 2484)
@@ -420,6 +423,7 @@ Neutral Keywords:
 9. ('farmersdillichalo', 142)
 10. ('farmersprotest farmersbill2020', 128)
 ```
+The neutral keywords include 'farmersbill2020,' likely referring to the farm laws.
 ```
 Negative Keywords:
 1. ('farmersprotest', 2119)
@@ -433,6 +437,7 @@ Negative Keywords:
 9. ('bjp', 239)
 10. ('haryana', 220)
 ```
+So far it seems that many people are referring to the Dilli Chalo campaign plan and the farmers. Modi's party, B.J.P., is also mentioned frequently.
 ```
 Wordcloud (Positive):
 ```
