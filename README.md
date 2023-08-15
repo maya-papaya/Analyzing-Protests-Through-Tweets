@@ -190,7 +190,7 @@ Negative Tweets: 8,756
 
 Total Tweets: 24,568
 ```
-<img width="600" alt="Indian Farmers' Protest Chart 3" src="Screenshot 2023-08-05 at 10.03.37 AM.png">
+<img width="600" alt="Indian Farmers' Protest Chart 3" src="/Charts/MP's Window.png">
 
 This time, the percentage of negative tweets increases by 0.7%, while the percentage of positive tweets decreases by 1.2%. Since one smashed car window is more irrelevant to most people's lives and it's easier to distance one's self from that circumstance, it's possible that there wasn't as much of a negative reception.
 
@@ -282,7 +282,7 @@ Negative Tweets: 19057
 
 Total Tweets: 38738
 ```
-<img width="600" alt = "Indian Farmers' Protest Chart 4" src="Screenshot 2023-08-05 at 10.02.30 AM.png">
+<img width="600" alt = "Indian Farmers' Protest Chart 4" src="/Charts/Republic Day.png">
 
 For this instance, the percentage of positive tweets dramatically decreases to 10%, while the percentage of negative tweets increases to almost 50%. These prominent changes may be because of the violence that occurred. Two major groups decided to leave the farmers' protest because of the violence and the Nishan Sahib, a Sikh religious flag. Likely, many people (including previous supporters of the movement) criticized the violence and the group of protesters who abandoned the original peaceful protest plan. Several protesters also resorted to vandalism. Over 300 police personnel and thousands of farmers were injured by the violence.
 
