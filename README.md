@@ -58,7 +58,7 @@ Negative Tweets: 386,581
 
 Total Tweets: 1,084,452
 ```
-<img width="600" alt="Indian Farmers' Protest Chart 1" src="Screenshot 2023-08-05 at 10.05.24 AM.png">
+<img width="600" alt="Indian Farmers' Protest Chart 1" src="/Charts/Farmers.png">
 
 The majority (about 40.7%) is unconcerned or neutral towards the Indian farmers' protests. About 34.9% are negatively geared toward it. The minority of tweets are supportive of the movement.
 ```
@@ -96,7 +96,7 @@ Negative Tweets: 216,239
 
 Total Tweets: 615,956
 ```
-<img width="600" alt="Indian Farmers' Protest Chart 2" src="Screenshot 2023-08-05 at 10.04.43 AM.png">
+<img width="600" alt="Indian Farmers' Protest Chart 2" src="/Charts/Delhi.png">
 
 The percentage of negative tweets decreases by 0.6%, while the percentage of positive tweets increases by 1%. There is almost no change between the total public sentiment and this instance.
 ```
