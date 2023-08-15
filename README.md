@@ -350,25 +350,108 @@ The negative keywords topics do not differ much from the overall keywords. Sikhs
 ```
 Wordcloud (Positive):
 ```
-<img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers 2/Positive.png">
+<img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers 3/Positive.png">
 
-Some words that stand out include 'republic day,' 'support,' 'thank,' 'red fort,' 'Peace Wins,' and 'solidarity.'
+Some words that stand out include 'republic day,' 'support,' 'thank,' 'red fort,' 'peacefulprotestscontinue,' and 'solidarity.'
 ```
 Wordcloud (Neutral):
 ```
-<img width="600" alt="Indian Farmers' Protest Wordcloud Neutral" src="/Farmers 2/Neutral.png">
+<img width="600" alt="Indian Farmers' Protest Wordcloud Neutral" src="/Farmers 3/Neutral.png">
 
 Most of the words in the neutral wordcloud refer to the events of the day ('republic day,' 'violence,' 'delhi police,' 'sikh,' 'tractor rally').
 ```
 Wordcloud (Negative):
 ```
-<img width="600" alt="Indian Farmers' Protest Wordcloud Negative" src="/Farmers 2/Negative.png">
+<img width="600" alt="Indian Farmers' Protest Wordcloud Negative" src="/Farmers 3/Negative.png">
 
 Some major words include 'violence,' 'twitter,' 'protest,' and 'delhi.'
 
 ---
 
 As an example of a peaceful protest, I looked at an instance between November 26th and 28th, where the farmers held peaceful protests at Nirankari ground, [according to an article by *Indian Express*](https://indianexpress.com/article/india/one-year-of-farm-laws-timeline-7511961/).
+
+```
+Public Sentiment between 2020-11-26 00:00:00+00:00 and 2020-11-28 00:00:00+00:00:
+
+Positive Tweets: 1219
+Neutral Tweets: 6430
+Negative Tweets: 8173
+
+Total Tweets: 15822
+```
+Surprisingly, the public sentiment toward the peaceful protest is overwhelmingly negative. However, this protest was in the early days of the movement, so likely much criticism is directed toward the farm laws and government.
+```
+Keywords:
+1. ('farmersprotest', 5076)
+2. ('farmers', 2101)
+3. ('farmersprotest farmersdillichalo', 717)
+4. ('farmersprotest twitter', 614)
+5. ('farmers farmersprotest', 591)
+6. ('protest', 508)
+7. ('haryana', 434)
+8. ('farmers protest', 375)
+9. ('delhi', 343)
+10. ('bjp', 327)
+```
+
+```
+Positive Keywords:
+1. ('farmersprotest', 473)
+2. ('farmers', 141)
+3. ('farmersprotest twitter', 106)
+4. ('farmersprotest farmersdillichalo', 80)
+5. ('farmersdillichalo', 46)
+6. ('farmers farmersprotest', 35)
+7. ('farmersdillichalo twitter', 30)
+8. ('farmersdillichalo farmersprotest', 29)
+9. ('constitution day', 27)
+10. ('farmer', 26)
+```
+```
+Neutral Keywords:
+1. ('farmersprotest', 2484)
+2. ('farmers', 779)
+3. ('farmersprotest farmersdillichalo', 347)
+4. ('farmers farmersprotest', 268)
+5. ('farmersprotest twitter', 254)
+6. ('haryana', 201)
+7. ('delhi', 169)
+8. ('protest', 159)
+9. ('farmersdillichalo', 142)
+10. ('farmersprotest farmersbill2020', 128)
+```
+```
+Negative Keywords:
+1. ('farmersprotest', 2119)
+2. ('farmers', 1181)
+3. ('protest', 340)
+4. ('farmersprotest farmersdillichalo', 290)
+5. ('farmers farmersprotest', 288)
+6. ('farmers protest', 257)
+7. ('farmersprotest twitter', 254)
+8. ('protesting', 246)
+9. ('bjp', 239)
+10. ('haryana', 220)
+```
+```
+Wordcloud (Positive):
+```
+<img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers 4/Positive.png">
+
+Some words that stand out are 'farmersbill2020,' 'farmersdillichalo,' 'narendramodi,' and 'solidarity.'
+```
+Wordcloud (Neutral):
+```
+<img width="600" alt="Indian Farmers' Protest Wordcloud Neutral" src="/Farmers 4/Neutral.png">
+
+In the neutral wordcloud, it seems that many people are again referring to 'delhi' (where the protesters would go the very next day), 'farmersbill2020,' and 'farmersdillichalo.'
+```
+Wordcloud (Negative):
+```
+<img width="600" alt="Indian Farmers' Protest Wordcloud Negative" src="/Farmers 4/Negative.png">
+
+The negative wordcloud includes 'water cannon' and 'tear gas,' no doubt referring to the treatment of peacefully protesting farmers.
+
 
 ---
 
