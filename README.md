@@ -180,9 +180,9 @@ As an example of minor violence, I thought that a certain instance where "a farm
 ```
 Public Sentiment between 2021-11-05 00:00:00+00:00 and 2021-11-21 00:00:00+00:00: 
 
-Positive Tweets: 5,098
-Neutral Tweets: 11,037
-Negative Tweets: 8,433
+Positive Tweets: 5,667
+Neutral Tweets: 10,145
+Negative Tweets: 8,756
 
 Total Tweets: 24,568
 ```
@@ -193,58 +193,58 @@ This time, the percentage of negative tweets decreases by 1%, while the percenta
 However, after further research, I found that the MP, Ram Chander Jangra, had incited several protests against himself because he called the farmers '[jobless alcoholics and bad elements.](https://thewire.in/agriculture/haryana-farmer-protests-jangra-car)' After this discovery, there is no doubt that Jangra reduced the possibility of sympathy from Twitter users.
 ```
 Keywords:
-1. ('farmersprotest', 9343)
-2. ('farmers', 1907)
-3. ('farmlaws', 1760)
-4. ('farmlawsrepealed', 1751)
-5. ('farm laws', 1518)
-6. ('farmlaws farmersprotest', 1123)
-7. ('farmlawsrepealed farmersprotest', 1051)
-8. ('farmersprotest farmlaws', 899)
-9. ('farmersprotest farmlawsrepealed', 882)
-10. ('bjp', 605)
+1. ('farmersprotest', 7274)
+2. ('farmers', 2223)
+3. ('farm laws', 1653)
+4. ('farmlaws', 1597)
+5. ('farmlawsrepealed', 1455)
+6. ('farmersprotest twitter', 879)
+7. ('farmlawsrepealed farmersprotest', 870)
+8. ('farmlaws farmersprotest', 868)
+9. ('farmersprotest farmlaws', 714)
+10. ('farmersprotest farmlawsrepealed', 704)
 ```
 There is no mention of any MP's car window being smashed. Likely, people did not care enough about Jangra's car and preferred to focus on the movement.
 ```
 Positive Keywords: 
-1. ('farmersprotest', 2623)
-2. ('farmers', 456)
-3. ('farmlawsrepealed', 317)
-4. ('farmlaws', 291)
-5. ('farmers farmersprotest', 213)
-6. ('farmlawsrepealed farmersprotest', 195)
-7. ('farmlaws farmersprotest', 191)
-8. ('farmersprotest farmlawsrepealed', 186)
-9. ('farmersprotest farmlaws', 172)
-10. ('victory farmers', 140)
+1. ('farmersprotest', 2303)
+2. ('farmers', 577)
+3. ('farmersprotest twitter', 360)
+4. ('farmlawsrepealed', 323)
+5. ('farmlaws', 297)
+6. ('farmlawsrepealed farmersprotest', 222)
+7. ('farm laws', 195)
+8. ('farmlaws farmersprotest', 189)
+9. ('farmersprotest farmlawsrepealed', 159)
+10. ('farmers farmersprotest', 157)
 ```
 The phrase, 'farmlawsrepealed,' comes in third place. Another phrase, 'victory farmers,' likely celebrating the Indian farmers' victories and successful protests, also seems to be popular. This is likely because the farm laws would be scheduled to be repealed only a few days later.
 ```
 Neutral Keywords: 
-1. ('farmersprotest', 4551)
-2. ('farmlaws', 976)
-3. ('farmlawsrepealed', 927)
-4. ('farm laws', 907)
-5. ('farmers', 661)
-6. ('farmlaws farmersprotest', 650)
-7. ('farmlawsrepealed farmersprotest', 546)
-8. ('farmersprotest farmlaws', 480)
-9. ('farmersprotest farmlawsrepealed', 410)
-10. ('repeal farm', 301)
+1. ('farmersprotest', 3224)
+2. ('farm laws', 855)
+3. ('farmlaws', 852)
+4. ('farmers', 709)
+5. ('farmlawsrepealed', 692)
+6. ('farmlaws farmersprotest', 451)
+7. ('farmlawsrepealed farmersprotest', 390)
+8. ('farmersprotest farmlaws', 369)
+9. ('farmersprotest twitter', 356)
+10. ('farmersprotest farmlawsrepealed', 298)
 ```
 The popularity of variations on 'farmlawsrepealed' and 'farm laws' can be attributed to how the farm laws would be repealed a few days later.
 ```
 Negative Keywords: 
-1. ('farmersprotest', 2169)
-2. ('farmers', 790)
-3. ('farm laws', 510)
-4. ('farmlawsrepealed', 507)
-5. ('farmlaws', 493)
-6. ('bjp', 369)
-7. ('farmlawsrepealed farmersprotest', 310)
-8. ('farmersprotest farmlawsrepealed', 286)
-9. ('farmlaws farmersprotest', 282)
-10. ('farmersprotest farmlaws', 247)
+1. ('farmersprotest', 1747)
+2. ('farmers', 937)
+3. ('farm laws', 603)
+4. ('farmlaws', 448)
+5. ('farmlawsrepealed', 440)
+6. ('bjp', 394)
+7. ('farmlawsrepealed farmersprotest', 258)
+8. ('farmersprotest farmlawsrepealed', 247)
+9. ('farmlaws farmersprotest', 228)
+10. ('farmersprotest farmlaws', 192)
 ```
 Again, there isn't much difference between negative keywords and the previously-discussed keywords. It seems, though, that this category of tweets is calling on Modi's Bharatiya Janata Party more frequently, no doubt to repeal the farm laws.
 ```
@@ -374,23 +374,23 @@ For the first function, I found the following:
 ```
 Public Sentiment between 2017-02-08 05:14:24 and 2017-02-07 04:09:25: 
 
-Positive Tweets: 3,034
-Neutral Tweets: 9,209
-Negative Tweets: 2,757
+Positive Tweets: 3747
+Neutral Tweets: 7766
+Negative Tweets: 3487
 
-Total Tweets: 15,000
+Total Tweets: 15000
 ```
 <img width="600" alt="Women's March Protest Chart 1" src="Screenshot 2023-08-05 at 10.01.24 AM.png">
 
 The overwhelming majority (about 81.4%) is either unconcerned or supportive of the Women's March movement. About 18.6% are negatively geared toward it. This result is unsurprising considering that this dataset only covers tweets from the first Women's March. However, since the movement's leaders became wrapped up in [several controversies](https://time.com/5505787/womens-march-washington-controversy/), I wonder how that number would change now.
 ```
 Keywords:
-1. ('womensmarch', 6393)
-2. ('rt womensmarch', 2644)
-3. ('future female', 1781)
+1. ('womensmarch', 7314)
+2. ('future female', 1777)
+3. ('clinton says', 1675)
 4. ('female references', 1671)
 5. ('references womensmarch', 1670)
-6. ('womensmarch htt', 1654)
+6. ('devos', 1501)
 7. ('education devos', 1489)
 8. ('communities womensmarch', 1488)
 9. ('womensmarch power', 1486)
@@ -403,50 +403,66 @@ The phrase, 'education devos,' refers to Betsy DeVos, who was nominated as Secre
 Demi Lovato also [spoke at the march to about 750,000 people](https://www.justjaredjr.com/2017/01/21/demi-lovato-miley-cyrus-yara-shahidi-make-their-voices-heard-at-womens-march/), which explains her having being mentioned frequently.
 ```
 Positive Keywords: 
-1. ('womensmarch', 1534)
-2. ('rt womensmarch', 1020)
-3. ('unstoppable womensmarch', 641)
-4. ('womensmarch rt', 640)
-5. ('cecilerichards movement', 640)
+1. ('womensmarch', 2032)
+2. ('unstoppable womensmarch', 641)
+3. ('cecilerichards movement', 640)
+4. ('movement unstoppable', 640)
+5. ('womensmarch agree', 638)
 6. ('shoutout womensmarch', 384)
-7. ('hillaryclinton shoutout', 381)
-8. ('womensmarch thank', 380)
-9. ('womens march', 167)
-10. ('womensmarch womensmarch', 140)
+7. ('hillaryclinton shoutout', 382)
+8. ('thank hillaryclinton', 381)
+9. ('womensmarch thank', 380)
+10. ('patriotsparade liberal', 342)
 ```
 Some of the positive keywords include shoutouts to public figures like Hillary Clinton (who ran against Trump in 2016) and Cecile Richards, [an activist who spoke at the march](https://19thnews.org/2021/10/i-need-to-be-with-other-folks-as-outraged-and-motivated-as-i-am-cecile-richards-on-why-this-years-womens-march-matters/#:~:text=In%202017%2C%20Cecile%20Richards%2C%20then,research%20and%20rapid%20response%20group.). Most of the positive tweets seem to be related to encouraging and praising the movement as well as its members.
 ```
 Neutral Keywords: 
-1. ('womensmarch', 4313)
-2. ('future female', 1751)
-3. ('female references', 1671)
-4. ('references womensmarch', 1670)
-5. ('womensmarch htt', 1654)
-6. ('rt womensmarch', 1581)
+1. ('womensmarch', 4553)
+2. ('future female', 1752)
+3. ('clinton says', 1675)
+4. ('female references', 1671)
+5. ('references womensmarch', 1670)
+6. ('devos', 1488)
 7. ('womensmarch power', 1486)
-8. ('communities womensmarch', 1485)
-9. ('education devos', 1485)
-10. ('demi', 839)
+8. ('education devos', 1485)
+9. ('communities womensmarch', 1485)
+10. ('demi', 849)
 ```
 The neutral keywords seem to be related to the empowerment of women ('future female,' 'womensmarch power').
 ```
 Negative Keywords: 
-1. ('womensmarch', 546)
-2. ('genital mutilation', 450)
-3. ('threat genital', 442)
-4. ('amymek washington', 441)
-5. ('rt amymek', 441)
-6. ('amymek', 441)
-7. ('sharia', 164)
-8. ('islam sharia', 125)
-9. ('war women', 124)
-10. ('sandratxas islam', 122)
+1. ('womensmarch', 729)
+2. ('mutilation', 451)
+3. ('genital mutilation', 450)
+4. ('threat genital', 442)
+5. ('state womensmarch', 442)
+6. ('amymek washington', 441)
+7. ('womensmarch nofascistusa', 407)
+8. ('trumpprotest', 407)
+9. ('antifa trumpprotest', 406)
+10. ('impl0rable', 406)
 ```
 The most popular negative keywords seem to be 'genital mutilation,' 'threat genital,' 'amymek,' 'sharia,' and 'war women.' 
 
 An explanation for the Amy Mek reference may be because of her support of Donald Trump. *The New York Times* quoted her, "Amy Mek, who has more than 85,000 Twitter followers, is one of the women Ms. Suhler has gotten to know through their shared support of Mr. Trump. 'My belief has been that women’s rights is about treating men and women equally,' Ms. Mek said. 'Trump swings at men and women equally hard, but somehow if a woman is a Trump target, he is a misogynist.'" 
 
 The phrases, 'sharia' and 'islam sharia,' refer to Shariah law. The Women's March in 2017 was wrapped up with conversations around Islam, including whether or not to [protest Shariah law.](https://torontosun.com/2017/01/26/farzana-hassan-when-will-womens-march-protest-sharia-law).
+
+```
+Hashtags:
+1. letlizspeak
+2. sallyyates
+3. womensmarch
+4. melissamccarthy
+5. bansharia
+6. hush
+7. devos
+8. theresistance
+9. indivisible
+10. nofascistusa
+```
+
+
 ```
 Wordcloud (Positive):
 ```
