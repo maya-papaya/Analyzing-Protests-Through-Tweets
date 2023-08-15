@@ -36,6 +36,10 @@ I had three functions:
 
 * **Keyword Extractor:** finds all the most popular keywords within a dataset of tweets. For this function, I used a KeyBERT model to extract keywords.
 
+* **Hashtag Analyzer:** finds all the most popular hashtags within a dataset of tweets.
+
+* **Wordcloud Generator:** generates a wordcloud based on a dataset of text.
+
 Here are the results and conclusions I drew from my analysis:
 
 ---
@@ -188,9 +192,9 @@ Total Tweets: 24,568
 ```
 <img width="600" alt="Indian Farmers' Protest Chart 3" src="Screenshot 2023-08-05 at 10.03.37 AM.png">
 
-This time, the percentage of negative tweets decreases by 1%, while the percentage of positive tweets increases by 3%. Since one smashed car window is more irrelevant to most people's lives and it's easier to distance one's self from that circumstance, it's possible that there was a less negative reception.
+This time, the percentage of negative tweets increases by 0.7%, while the percentage of positive tweets decreases by 1.2%. Since one smashed car window is more irrelevant to most people's lives and it's easier to distance one's self from that circumstance, it's possible that there wasn't as much of a negative reception.
 
-However, after further research, I found that the MP, Ram Chander Jangra, had incited several protests against himself because he called the farmers '[jobless alcoholics and bad elements.](https://thewire.in/agriculture/haryana-farmer-protests-jangra-car)' After this discovery, there is no doubt that Jangra reduced the possibility of sympathy from Twitter users.
+However, after further research, I found that the MP, Ram Chander Jangra, had incited several protests against himself because he called the farmers '[jobless alcoholics and bad elements.](https://thewire.in/agriculture/haryana-farmer-protests-jangra-car)' After this discovery, we can infer that Jangra's comments reduced the possibility of sympathy from Twitter users.
 ```
 Keywords:
 1. ('farmersprotest', 7274)
@@ -218,7 +222,7 @@ Positive Keywords:
 9. ('farmersprotest farmlawsrepealed', 159)
 10. ('farmers farmersprotest', 157)
 ```
-The phrase, 'farmlawsrepealed,' comes in third place. Another phrase, 'victory farmers,' likely celebrating the Indian farmers' victories and successful protests, also seems to be popular. This is likely because the farm laws would be scheduled to be repealed only a few days later.
+The phrase, 'farmlawsrepealed,' comes in fourth place. More people were likely focused on the farm laws, which would be repealed only a few days later.
 ```
 Neutral Keywords: 
 1. ('farmersprotest', 3224)
@@ -272,77 +276,77 @@ For a violent riot, I thought that the Republic Day violence could be an example
 ```
 Public Sentiment between 2021-01-26 00:00:00+00:00 and 2021-02-01 00:00:00+00:00: 
 
-Positive Tweets: 3,423
-Neutral Tweets: 16,379
-Negative Tweets: 18,936
+Positive Tweets: 3868
+Neutral Tweets: 15813
+Negative Tweets: 19057
 
-Total Tweets: 38,738
+Total Tweets: 38738
 ```
 <img width="600" alt = "Indian Farmers' Protest Chart 4" src="Screenshot 2023-08-05 at 10.02.30 AM.png">
 
-For this instance, the percentage of positive tweets dramatically decreases to 13%, while the percentage of negative tweets increases to almost 50%. These prominent changes may be because of the violence that occurred. Two major groups decided to leave the farmers' protest because of the violence and the Nishan Sahib, a Sikh religious flag. Likely, many people (including previous supporters of the movement) criticized the violence and the group of protesters who abandoned the original peaceful protest plan. Several protesters also resorted to vandalism. Over 300 police personnel and thousands of farmers were injured by the violence.
+For this instance, the percentage of positive tweets dramatically decreases to 10%, while the percentage of negative tweets increases to almost 50%. These prominent changes may be because of the violence that occurred. Two major groups decided to leave the farmers' protest because of the violence and the Nishan Sahib, a Sikh religious flag. Likely, many people (including previous supporters of the movement) criticized the violence and the group of protesters who abandoned the original peaceful protest plan. Several protesters also resorted to vandalism. Over 300 police personnel and thousands of farmers were injured by the violence.
 
 However, some of the negative tweets were likely directed towards the government, as well as their crackdown on the internet/social media.
 ```
 Keywords:
-1. ('farmersprotest', 12696)
-2. ('farmers', 1705)
-3. ('protest', 1331)
-4. ('farmers protest', 1001)
-5. ('delhi police', 776)
-6. ('farmersprostests farmersprotest', 661)
-7. ('sikhs', 559)
-8. ('farmers farmersprotest', 542)
-9. ('flag', 525)
-10. ('bjp', 499)
+1. ('farmersprotest', 11053)
+2. ('farmers', 2080)
+3. ('farmersprotest twitter', 1601)
+4. ('protest', 1206)
+5. ('farmers protest', 889)
+6. ('delhi police', 798)
+7. ('delhi', 738)
+8. ('bjp', 674)
+9. ('flag', 563)
+10. ('sikhs', 549)
 ```
 Some keywords that became more popular include 'delhi police,' 'sikhs,' and 'flag.' These results make sense, considering that each of these keywords are related to the events of the Republic Day violence.
 
 Interestingly enough, more people seemed to care about the violence that erupted between the farmers and the police, yet completely ignored an MP's window being smashed.
 ```
 Positive Keywords: 
-1. ('farmersprotest', 1430)
-2. ('republic day', 187)
-3. ('farmers', 163)
-4. ('support farmers', 122)
-5. ('peacefulprotestcontinues farmersprotest', 111)
-6. ('farmers farmersprotest', 85)
-7. ('farmersstandingfirm', 84)
-8. ('support farmersprotest', 82)
-9. ('republic', 80)
-10. ('peace wins', 73)
+1. ('farmersprotest', 1396)
+2. ('farmersprotest twitter', 399)
+3. ('republic day', 196)
+4. ('farmers', 172)
+5. ('historictractormarch farmersprotest', 97)
+6. ('republic', 89)
+7. ('peacefulprotestcontinues farmersprotest', 79)
+8. ('farmersstandingfirm', 75)
+9. ('indian republica', 67)
+10. ('reclaim indian', 67)
 ```
-Some popular keywords used positively include 'peacefulprotestcontinues' and 'peace wins.' The likely explanation for their sudden usage may be to encourage more peaceful protests and attempt to reduce the backlash against the movement caused by the violence.
+Some popular keywords used positively include 'peacefulprotestcontinues' and 'farmersstandingfirm.' The likely explanation for their sudden usage may be to encourage more peaceful protests and attempt to reduce the backlash against the movement caused by the violence.
 ```
 Neutral Keywords: 
-1. ('farmersprotest', 6634)
-2. ('farmers', 600)
-3. ('farmers protest', 561)
-4. ('protest', 554)
-5. ('tractor rally', 344)
-6. ('rakeshtikait farmersprotest', 318)
-7. ('farmerprotest', 304)
-8. ('farmersprotest farmerprotest', 302)
-9. ('delhi police', 288)
-10. ('farmerprotest gazipurborder', 277)
+1. ('farmersprotest', 5498)
+2. ('farmersprotest twitter', 747)
+3. ('farmers', 716)
+4. ('farmers protest', 476)
+5. ('protest', 395)
+6. ('tractor rally', 348)
+7. ('delhi', 293)
+8. ('farmersprotest farmerprotestgazipurborder', 275)
+9. ('farmerprotestgazipurborder', 275)
+10. ('delhi police', 274)
 ```
-Some neutral keywords include 'tractor rally,' 'delhi police,' 'rakeshtikait farmersprotest,' and 'farmerprotest gazipurborder.' These tweets are likely from news outlets or reporters discussing the events that occurred during the Republic Day violence. 
+Some neutral keywords include 'tractor rally,' 'delhi police,' and 'farmerprotestgazipurborder.' These tweets are likely from news outlets or reporters discussing the events that occurred during the Republic Day violence. 
 
-Rakesh Tikait (from 'rakeshtikait farmersprotest') is a spokesperson of the Bharatiya Kisan Union, which notably withdrew from the protests after the violence. The Ghazipur border was a protest site for the farmers. [Tikait was reported to have broken down at the site](https://timesofindia.indiatimes.com/india/farmers-refuse-to-vacate-ghazipur-protest-site-singhu-turns-into-fortress-highlights/articleshow/80575153.cms), which may explain why both were mentioned more frequently.
+The Ghazipur border was a protest site for the farmers. [A spokesperson of the Bharatiya Kisan Union was reported to have broken down at the site](https://timesofindia.indiatimes.com/india/farmers-refuse-to-vacate-ghazipur-protest-site-singhu-turns-into-fortress-highlights/articleshow/80575153.cms), which may explain why both were mentioned more frequently.
 ```
 Negative Keywords: 
-1. ('farmersprotest', 4632)
-2. ('farmers', 942)
-3. ('protest', 749)
-4. ('delhi police', 470)
-5. ('farmers protest', 412)
-6. ('farmersprostests farmersprotest', 375)
-7. ('bjp', 355)
-8. ('sikhs', 340)
-9. ('flag', 331)
-10. ('protesting farmers', 323)
+1. ('farmersprotest', 4159)
+2. ('farmers', 1192)
+3. ('protest', 765)
+4. ('delhi police', 506)
+5. ('bjp', 480)
+6. ('farmersprotest twitter', 455)
+7. ('farmers protest', 387)
+8. ('delhi', 380)
+9. ('flag', 352)
+10. ('sikhs', 342)
 ```
-The negative keywords topics do not differ much from the overall keywords. Sikhs and flag are frequently discussed, probably because of the anger at a religious flag being hoisted on top of the Red Fort during Republic Day. The phrase, 'protesting farmers,' is also mentioned frequently in the negative tweets, no doubt because of the violence and injuries that occurred.
+The negative keywords topics do not differ much from the overall keywords. Sikhs and flag are frequently discussed, probably because of the anger at a religious flag being hoisted on top of the Red Fort during Republic Day. The word, 'protest,' is also mentioned frequently in the negative tweets, no doubt because of the violence and injuries that occurred.
 ```
 Wordcloud (Positive):
 ```
@@ -381,9 +385,9 @@ Negative Tweets: 3487
 Total Tweets: 15000
 ```
 
-<img width="600" alt="Women's March Protest Chart 1" src="Screenshot 2023-08-05 at 10.01.24 AM.png">
+<img width="600" alt="Women's March Protest Chart 1" src="/Charts/WomensMarch.png">
 
-The overwhelming majority (about 81.4%) is either unconcerned or supportive of the Women's March movement. About 18.6% are negatively geared toward it. This result is unsurprising considering that this dataset only covers tweets from the first Women's March. However, since the movement's leaders became wrapped up in [several controversies](https://time.com/5505787/womens-march-washington-controversy/), I wonder how that number would change now.
+The overwhelming majority (about 76.8%) is either unconcerned or supportive of the Women's March movement. About 23.2% are negatively geared toward it (this sentiment forms the minority of the pie chart). This result is unsurprising considering that this dataset only covers tweets from the first Women's March. However, since the movement's leaders became wrapped up in [several controversies](https://time.com/5505787/womens-march-washington-controversy/), I wonder how that number would change now.
 ```
 Keywords:
 1. ('womensmarch', 7314)
@@ -415,7 +419,7 @@ Positive Keywords:
 9. ('womensmarch thank', 380)
 10. ('patriotsparade liberal', 342)
 ```
-Some of the positive keywords include shoutouts to public figures like Hillary Clinton (who ran against Trump in 2016) and Cecile Richards, [an activist who spoke at the march](https://19thnews.org/2021/10/i-need-to-be-with-other-folks-as-outraged-and-motivated-as-i-am-cecile-richards-on-why-this-years-womens-march-matters/#:~:text=In%202017%2C%20Cecile%20Richards%2C%20then,research%20and%20rapid%20response%20group.). Most of the positive tweets seem to be related to encouraging and praising the movement as well as its members.
+Some of the positive keywords include shoutouts and gratitude to public figures like Hillary Clinton (who ran against Trump in 2016) and Cecile Richards, [an activist who spoke at the march](https://19thnews.org/2021/10/i-need-to-be-with-other-folks-as-outraged-and-motivated-as-i-am-cecile-richards-on-why-this-years-womens-march-matters/#:~:text=In%202017%2C%20Cecile%20Richards%2C%20then,research%20and%20rapid%20response%20group.). Most of the positive tweets seem to be related to encouraging and praising the movement as well as its members.
 ```
 Neutral Keywords: 
 1. ('womensmarch', 4553)
@@ -443,11 +447,9 @@ Negative Keywords:
 9. ('antifa trumpprotest', 406)
 10. ('impl0rable', 406)
 ```
-The most popular negative keywords seem to be 'genital mutilation,' 'threat genital,' 'amymek,' 'sharia,' and 'war women.' 
+The most popular negative keywords seem to be 'genital mutilation,' 'threat genital,' 'amymek,' 'nofascistusa,' and 'trumpprotest.' 
 
 An explanation for the Amy Mek reference may be because of her support of Donald Trump. *The New York Times* quoted her, "Amy Mek, who has more than 85,000 Twitter followers, is one of the women Ms. Suhler has gotten to know through their shared support of Mr. Trump. 'My belief has been that women’s rights is about treating men and women equally,' Ms. Mek said. 'Trump swings at men and women equally hard, but somehow if a woman is a Trump target, he is a misogynist.'" 
-
-The phrases, 'sharia' and 'islam sharia,' refer to Shariah law. The Women's March in 2017 was wrapped up with conversations around Islam, including whether or not to [protest Shariah law.](https://torontosun.com/2017/01/26/farzana-hassan-when-will-womens-march-protest-sharia-law).
 
 ```
 Hashtags:
