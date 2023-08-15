@@ -76,6 +76,19 @@ Keywords:
 ```
 Two keywords, 'support farmers' and 'support farmersprotest,' indicate that the movement was greatly supported on social media. The high percentage of negative tweets was not necessarily directed toward the farmers -- those tweets may have been directed toward the government (Modi's Bharatiya Janata Party or B.J.P.) and the farm laws.
 ```
+Hashtags:
+1. farmersprotest
+2. 5novbharatband
+3. opensource
+4. farmbills
+5. agriculturebill
+6. saveourstandards
+7. brexit
+8. antifarmeracts
+9. farmlaws
+10. apmc
+```
+```
 Wordcloud:
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers/Wordcloud.png">
@@ -159,6 +172,20 @@ Negative Keywords:
 10. ('farmers india', 2338)
 ```
 For the negative keywords, it is likely that the Twitter users are criticizing the government, especially considering the popularity of the phrase, ‘indianfarmershumanrights.’
+```
+Hashtags:
+1. farmersprotest
+2. farmersdillichalo
+3. kisanandolan
+4. isupportfarmars
+5. standwithfarmerschallenge
+6. istandwithfarmers
+7. pm
+8. farmersprotests
+9. indianarmy
+10. farmers
+```
+
 ```
 Wordcloud (Positive):
 ```
@@ -251,6 +278,19 @@ Negative Keywords:
 10. ('farmersprotest farmlaws', 192)
 ```
 Again, there isn't much difference between negative keywords and the previously-discussed keywords. It seems, though, that this category of tweets is calling on Modi's Bharatiya Janata Party more frequently, no doubt to repeal the farm laws.
+```
+Hashtags:
+1. 3rdgradeactor
+2. farmersprotest
+3. boycottmodi
+4. humanrights
+5. happydiwali2021
+6. farmers
+7. diwaliwithfarmers
+8. bandichhordivas
+9. nofarmernofood
+10. g20_standwithfarmers
+```
 ```
 Wordcloud (Positive):
 ```
@@ -348,6 +388,19 @@ Negative Keywords:
 ```
 The negative keywords topics do not differ much from the overall keywords. Sikhs and flag are frequently discussed, probably because of the anger at a religious flag being hoisted on top of the Red Fort during Republic Day. The word, 'protest,' is also mentioned frequently in the negative tweets, no doubt because of the violence and injuries that occurred.
 ```
+Hashtags:
+1. republicday
+2. farmersprotest
+3. farmlaws
+4. newsmo
+5. vertical
+6. re
+7. kisanektazindaabaad
+8. 26jandelhitractorparade
+9. 26jandelhichalo
+10. farmersbill
+```
+```
 Wordcloud (Positive):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers 3/Positive.png">
@@ -438,6 +491,19 @@ Negative Keywords:
 10. ('haryana', 220)
 ```
 So far it seems that many people are referring to the Dilli Chalo campaign plan and the farmers. Modi's party, B.J.P., is also mentioned frequently.
+```
+Hashtags:
+1. farmersprotest
+2. modiagainstfarmers
+3. antifarmeracts
+4. delhi
+5. india
+6. farmbills2020
+7. modi
+8. indianarmy
+9. aljazeeraenglish
+10. bbcworld
+```
 ```
 Wordcloud (Positive):
 ```
