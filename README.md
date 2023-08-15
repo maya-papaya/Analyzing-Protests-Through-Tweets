@@ -256,19 +256,19 @@ Wordcloud (Positive):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers 2/Positive.png">
 
-In the positive wordcloud, there are words relating to victory ('victory,' 'finally,' 'proud,' 'won,' 'congratulation') and supportive words ('unity,' 'love,' 'live,' 'support,' 'fight'). This can be attributed to how the protests finally succeeded in repealing the farm laws.
+In the positive wordcloud, there are words relating to victory ('victory,' 'congratulations,' 'repealed,' 'won') and supportive words ('unity,' 'love,' 'sacrifice,' 'live,' 'solidarity'). This can be attributed to how the protests finally succeeded in repealing the farm laws.
 ```
 Wordcloud (Neutral):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Neutral" src="/Farmers 2/Neutral.png">
 
-The neutral wordcloud seems to have more words relating to the government and Modi ('narendramodi,' 'government' 'BJP,' 'PM Modi'), likely discussing their being about to repeal the farm laws.
+The neutral wordcloud seems to have more words relating to the government and the farm laws ('narendramodi,' 'government' 'repealed,' 'farmlaw'), likely discussing how they had announced that they were going to repeal the farm laws.
 ```
 Wordcloud (Negative):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Negative" src="/Farmers 2/Negative.png">
 
-Some words that stand out include 'farmer,' 'narendramodi' (likely calling on Modi), 'government,' 'death' (possibly referring to the many deaths and suicides of farmers throughout the movement and in the past), 'shame,' and 'protest.' There still might be some resentment and anger against the government for their treatment of the farmers.
+Some words that stand out include 'farmer,' 'narendramodi' (likely calling on Modi), 'government,' 'death'/'died' (possibly referring to the many deaths and suicides of farmers throughout the movement and in the past), 'shame,' and 'protest.' There still might be some resentment and anger against the government for its treatment of the farmers. However, some words, 'lost' and 'terrorist,' suggest there might be some supporters of the farm laws.
 
 ---
 
@@ -352,19 +352,19 @@ Wordcloud (Positive):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Positive" src="/Farmers 2/Positive.png">
 
-Some words that stand out include 'Republic Day,' 'Red Fort,' 'support farmers,' 'PeacefulProtestContinues,' 'Peace Wins,' and 'solidarity.'
+Some words that stand out include 'republic day,' 'support,' 'thank,' 'red fort,' 'Peace Wins,' and 'solidarity.'
 ```
 Wordcloud (Neutral):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Neutral" src="/Farmers 2/Neutral.png">
 
-Most of the words in the neutral wordcloud refer to the events of the day ('Republic Day,' 'violence,' 'Delhi Police,' 'Sikh,' 'Tractor Rally').
+Most of the words in the neutral wordcloud refer to the events of the day ('republic day,' 'violence,' 'delhi police,' 'sikh,' 'tractor rally').
 ```
 Wordcloud (Negative):
 ```
 <img width="600" alt="Indian Farmers' Protest Wordcloud Negative" src="/Farmers 2/Negative.png">
 
-Some major words include 'Delhi,' 'police,' 'shame,' and 'violence.'
+Some major words include 'violence,' 'twitter,' 'protest,' and 'delhi.'
 
 ---
 
@@ -471,19 +471,21 @@ Wordcloud (Positive):
 ```
 <img width="600" alt="Women's March Wordcloud Positive" src="/WomensMarch/Positive.png">
 
-Some words that pop out include 'shoutout WomensMarch' and 'unstoppable.' Hillary Clinton and Cecile Richards seemed to be mentioned frequently. Demi Lovato and Miley Cyrus are also mentioned too, as well as Cyrus’s organization, the Happy Hippie Foundation.
+Some words that pop out include 'shoutout womensmarch' and 'unstoppable womensmarch.' Hillary Clinton and Cecile Richards seemed to be mentioned frequently. Demi Lovato and Miley Cyrus are also mentioned too, as well as Cyrus’s organization, the Happy Hippie Foundation.
 ```
 Wordcloud (Neutral):
 ```
 <img width="600" alt="Women's March Wordcloud Neutral" src="/WomensMarch/Neutral.png">
 
-'Clinton says,' 'video statement,' 'WATCH,' and 'references' all suggest that the majority of neutral tweets were dedicated to sharing information on the events happening during the march.
+'clinton says,' 'new video,' 'watch,' and 'references' all suggest that the majority of neutral tweets were dedicated to sharing information on the events happening during the march.
 ```
 Wordcloud (Negative):
 ```
 <img width="600" alt="Women's March Wordcloud Negative" src="/WomensMarch/Negative.png">
 
-'Genital mutilation' seems to be the most prominent discussion. 'Islam Sharia,' 'Amy Mek,' 'honor killings,' and 'Tahani Mansour' ([a woman who was killed by her father due to her dating a non-Muslim man and arriving home late](https://uncommongroundmedia.com/muslim-american-femicide-intersectional-feminist-enablers/?expand_article=1)) are all related to the conversation around Islam within the movement.
+'Genital mutilation' seems to be the most prominent discussion. 'amymek,' 'islam sharia,' 'sharia honor,' and 'Tahani Mansour' ([a woman who was killed by her father due to her dating a non-Muslim man and arriving home late](https://uncommongroundmedia.com/muslim-american-femicide-intersectional-feminist-enablers/?expand_article=1)) are all related to the conversation around Islam within the movement.
+
+There are a lot of references to 'theresistance.'
 
 ---
 
