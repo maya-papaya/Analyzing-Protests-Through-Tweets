@@ -103,59 +103,59 @@ For civil disobedience, I decided to look at a specific instance where, on Novem
 ```
 Public Sentiment between 2020-11-29 00:00:00+00:00 and 2021-03-22 00:00:00+00:00: 
 
-Positive Tweets: 116,545
-Neutral Tweets: 283,172
-Negative Tweets: 216,239
+Positive Tweets: 120411
+Neutral Tweets: 275868
+Negative Tweets: 219677
 
-Total Tweets: 615,956
+Total Tweets: 615956
 ```
 <img width="600" alt="Indian Farmers' Protest Chart 2" src="/Charts/Delhi.png">
 
 The percentage of negative tweets increases by only 0.8%, despite the fact that it may have greatly inconvenienced the general public. While the number of positive tweets decreases significantly, that change does not signify that the farmers' protests were disapproved of. There is almost no change between the total public sentiment and this instance.
 ```
 Keywords:
-1. ('farmersprotest', 254161)
-2. ('farmers', 40145)
-3. ('farmers farmersprotest', 16621)
-4. ('support farmers', 14814)
-5. ('rihanna', 12096)
-6. ('protest', 11997)
-7. ('farmers protest', 11825)
-8. ('support farmersprotest', 10334)
-9. ('bjp', 8947)
-10. ('indian farmers', 8479)
+1. ('farmersprotest', 208641)
+2. ('farmers', 46784)
+3. ('farmersprotest twitter', 39073)
+4. ('rihanna', 14242)
+5. ('farmers farmersprotest', 12662)
+6. ('protest', 12199)
+7. ('farmers protest', 10557)
+8. ('bjp', 10500)
+9. ('suppo farmers', 10389)
+10. ('suppo farmersprotest', 8273)
 ```
-No one mentioned how the entrances to Delhi were blocked. In fact, many people demonstrated their support for the farmers, with the phrase, ‘support farmers’ coming in fourth place. 
+No one mentioned how the entrances to Delhi were blocked. In fact, many people demonstrated their support for the farmers, with the phrase, ‘support farmers’ and 'support farmersprotest' coming in ninth and tenth place respectively. 
 
 Rihanna is also mentioned frequently, likely because she had [posted a tweet supporting the movement](https://www.bbc.com/news/world-asia-india-55931894). Her tweet went viral, but there was much backlash from the Indian government and some pro-government public figures (one actress even called her a 'porn star') and criticism for involving herself in the protests.
 ```
 Positive Keywords: 
-1. ('farmersprotest', 66553)
-2. ('farmers', 7400)
-3. ('support farmers', 6318)
-4. ('support farmersprotest', 5879)
-5. ('rihanna', 5664)
-6. ('farmers farmersprotest', 5638)
-7. ('supporting farmersprotest', 2548)
-8. ('farmersprotest istandwithfarmers', 2484)
-9. ('gretathunberg', 2437)
-10. ('supporting farmers', 2176)
+1. ('farmersprotest', 53768)
+2. ('farmersprotest twitter', 14727)
+3. ('farmers', 8048)
+4. ('rihanna', 6687)
+5. ('suppo farmersprotest', 3518)
+6. ('farmers farmersprotest', 3252)
+7. ('gretathunberg', 3174)
+8. ('suppo farmers', 2402)
+9. ('suppoing farmersprotest', 2010)
+10. ('thank farmersprotest', 1910)
 ```
 Again, in the positive keywords, the support for the farmers is overwhelming. Rihanna is mentioned frequently once again.
 
 Greta Thunberg, who had posted a toolkit of resources to effectively protest for the farmers, was also mentioned frequently. According to *The Times of India*, she was accused of being involved in a plot to defame India.
 ```
 Neutral Keywords: 
-1. ('farmersprotest', 130616)
-2. ('farmers', 18327)
-3. ('farmers farmersprotest', 8116)
-4. ('farmers protest', 6617)
-5. ('support farmers', 6421)
-6. ('protest', 5222)
-7. ('rihanna', 4375)
-8. ('indian farmers', 4221)
-9. ('stand farmers', 3801)
-10. ('farm laws', 3456)
+1. ('farmersprotest', 105683)
+2. ('farmers', 21249)
+3. ('farmersprotest twitter', 16917)
+4. ('farmers farmersprotest', 6986)
+5. ('suppo farmers', 6319)
+6. ('farmers protest', 5495)
+7. ('rihanna', 5147)
+8. ('protest', 4833)
+9. ('indian farmers', 3825)
+10. ('suppo farmersprotest', 3824)
 ```
 The neutral keywords also suggest that the movement was greatly supported. Rihanna’s support seems to have made an impact on the public.
 ```
@@ -171,7 +171,7 @@ Negative Keywords:
 9. ('indianfarmershumanrights', 2795)
 10. ('farmers india', 2338)
 ```
-For the negative keywords, it is likely that the Twitter users are criticizing the government, especially considering the popularity of the phrase, ‘indianfarmershumanrights.’
+For the negative keywords, it is likely that the Twitter users were criticizing the government, especially considering the popularity of the phrase, ‘indianfarmershumanrights.’
 ```
 Hashtags:
 1. farmersprotest
