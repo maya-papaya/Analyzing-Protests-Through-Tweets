@@ -111,7 +111,7 @@ Total Tweets: 615,956
 ```
 <img width="600" alt="Indian Farmers' Protest Chart 2" src="/Charts/Delhi.png">
 
-The percentage of negative tweets decreases by 0.6%, while the percentage of positive tweets increases by 1%. There is almost no change between the total public sentiment and this instance.
+The percentage of negative tweets increases by only 0.8%, despite the fact that it may have greatly inconvenienced the general public. While the number of positive tweets decreases significantly, that change does not signify that the farmers' protests were disapproved of. There is almost no change between the total public sentiment and this instance.
 ```
 Keywords:
 1. ('farmersprotest', 254161)
